@@ -1,10 +1,2 @@
-pydub
-librosa
-SpeechRecognition
-pyAudioAnalysis
-hmmlearn
-matplotlib
-eyed3
-imblearn
-tqdm
-plotly
+faster_whisper
+ffmpeg
