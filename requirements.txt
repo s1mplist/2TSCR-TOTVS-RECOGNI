@@ -1,0 +1,10 @@
+pydub
+librosa
+SpeechRecognition
+pyAudioAnalysis
+hmmlearn
+matplotlib
+eyed3
+imblearn
+tqdm
+plotly
