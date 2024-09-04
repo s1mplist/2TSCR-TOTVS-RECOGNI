@@ -1,3 +1,4 @@
 faster-whisper==1.0.3
 nvidia-cublas-cu12==12.6.1.4
 nvidia-cudnn-cu12==9.3.0.75
+transformers[torch]==4.44.2

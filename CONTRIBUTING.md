@@ -34,8 +34,8 @@ Para contribuir com código ou documentação:
 
 1. **Fork** o repositório e clone o seu fork para sua máquina local.
    ```sh
-   git clone https://github.com/seu-usuario/recogni.git
-   cd recogni
+   git clone https://github.com/s1mplist/2TSCR-TOTVS-RECOGNI.git
+   cd 2TSCR-TOTVS-RECOGNI
    ```
 
 2. Crie uma nova branch para sua modificação:

@@ -97,8 +97,8 @@ Recogni é uma ferramenta que permite transcrever áudio de forma rápida e prec
 
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/seu-usuario/recogni.git
-   cd recogni
+   git clone https://github.com/s1mplist/2TSCR-TOTVS-RECOGNI.git
+   cd 2TSCR-TOTVS-RECOGNI
    ```
 
 2. Crie e ative um ambiente virtual:
