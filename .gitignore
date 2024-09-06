@@ -1,2 +1,3 @@
 .venv/
+json_files/
 whisper-large-v3-ct2/
