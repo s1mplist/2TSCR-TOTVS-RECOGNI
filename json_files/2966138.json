@@ -1,0 +1,215 @@
+{
+    "prompt": "Essa é uma transcrição de uma ligação para avialiação de NPS da empresa TOTVS.",
+    "model": "large-v3",
+    "audio_path": "audio_samples/2966138.wav",
+    "transcription": [
+        {
+            "order": 0,
+            "start": 0.0,
+            "end": 14.74,
+            "transcription": " Você ligou para a CarboGrafite. Digite o ramal desejado ou dois vendas, três compras, quatro financeiro, cinco departamento técnico ou aguarde."
+        },
+        {
+            "order": 1,
+            "start": 25.740000000000002,
+            "end": 26.98,
+            "transcription": " CarboGrafite, bom dia, Ohana."
+        },
+        {
+            "order": 2,
+            "start": 26.98,
+            "end": 33.46,
+            "transcription": " Bom dia, Ohana. Beatriz da TOTS falando. Gostaria de falar com o responsável pelo sistema. Seria o Sr. Diogo Abrantes?"
+        },
+        {
+            "order": 3,
+            "start": 33.64,
+            "end": 36.08,
+            "transcription": " Um momento. Vou transferir. Obrigada."
+        },
+        {
+            "order": 4,
+            "start": 36.1,
+            "end": 39.08,
+            "transcription": " .br e conheça o que a CarboGrafite faz."
+        },
+        {
+            "order": 5,
+            "start": 42.88,
+            "end": 45.92,
+            "transcription": " Responsabilidade social se faz presente na CarboGrafite."
+        },
+        {
+            "order": 6,
+            "start": 45.92,
+            "end": 56.96,
+            "transcription": " Acesse o site www.projetoagua.org.br e conheça uma de nossas ações sociais e como podemos juntos melhorar a nossa vida."
+        },
+        {
+            "order": 7,
+            "start": 56.980000000000004,
+            "end": 65.76,
+            "transcription": " E preservar o meio ambiente, promovendo a conscientização, a racionalização e a recuperação dos recursos hídricos."
+        },
+        {
+            "order": 8,
+            "start": 66.18,
+            "end": 74.52000000000001,
+            "transcription": " Faça parte desta realidade. É por isso que se pode afirmar que a CarboGrafite está sempre olhando para o futuro, criando soluções no presente."
+        },
+        {
+            "order": 9,
+            "start": 87.98,
+            "end": 93.84,
+            "transcription": " CarboGrafite, agradecemos a..."
+        },
+        {
+            "order": 10,
+            "start": 95.5,
+            "end": 96.60000000000001,
+            "transcription": " ."
+        },
+        {
+            "order": 11,
+            "start": 104.68,
+            "end": 110.02000000000001,
+            "transcription": " ."
+        },
+        {
+            "order": 12,
+            "start": 110.02000000000001,
+            "end": 113.80000000000001,
+            "transcription": " ."
+        },
+        {
+            "order": 13,
+            "start": 113.80000000000001,
+            "end": 114.24000000000001,
+            "transcription": " ."
+        },
+        {
+            "order": 14,
+            "start": 114.24000000000001,
+            "end": 116.32000000000001,
+            "transcription": " ."
+        },
+        {
+            "order": 15,
+            "start": 116.32000000000001,
+            "end": 116.34,
+            "transcription": " ."
+        },
+        {
+            "order": 16,
+            "start": 116.34,
+            "end": 116.42,
+            "transcription": " ."
+        },
+        {
+            "order": 17,
+            "start": 116.42,
+            "end": 116.44,
+            "transcription": " ."
+        },
+        {
+            "order": 18,
+            "start": 116.44,
+            "end": 116.46000000000001,
+            "transcription": " ."
+        },
+        {
+            "order": 19,
+            "start": 116.46000000000001,
+            "end": 116.48,
+            "transcription": " ."
+        },
+        {
+            "order": 20,
+            "start": 116.48,
+            "end": 116.52000000000001,
+            "transcription": " ."
+        },
+        {
+            "order": 21,
+            "start": 116.52000000000001,
+            "end": 116.84,
+            "transcription": " ."
+        },
+        {
+            "order": 22,
+            "start": 116.84,
+            "end": 116.96000000000001,
+            "transcription": " ."
+        },
+        {
+            "order": 23,
+            "start": 116.96000000000001,
+            "end": 116.98,
+            "transcription": " ."
+        }
+    ],
+    "metrics": {
+        "total_words": 24,
+        "words_per_minute": 18.381414347715086,
+        "top_10_words": [
+            [
+                " .",
+                14
+            ],
+            [
+                " você ligou para a carbografite. digite o ramal desejado ou dois vendas, três compras, quatro financeiro, cinco departamento técnico ou aguarde.",
+                1
+            ],
+            [
+                " carbografite, bom dia, ohana.",
+                1
+            ],
+            [
+                " bom dia, ohana. beatriz da tots falando. gostaria de falar com o responsável pelo sistema. seria o sr. diogo abrantes?",
+                1
+            ],
+            [
+                " um momento. vou transferir. obrigada.",
+                1
+            ],
+            [
+                " .br e conheça o que a carbografite faz.",
+                1
+            ],
+            [
+                " responsabilidade social se faz presente na carbografite.",
+                1
+            ],
+            [
+                " acesse o site www.projetoagua.org.br e conheça uma de nossas ações sociais e como podemos juntos melhorar a nossa vida.",
+                1
+            ],
+            [
+                " e preservar o meio ambiente, promovendo a conscientização, a racionalização e a recuperação dos recursos hídricos.",
+                1
+            ],
+            [
+                " faça parte desta realidade. é por isso que se pode afirmar que a carbografite está sempre olhando para o futuro, criando soluções no presente.",
+                1
+            ]
+        ],
+        "magic_word_percentages": {
+            "obrigado": 0.0,
+            "obrigada": 0.0,
+            "por favor": 0.0,
+            "desculpa": 0.0,
+            "desculpe": 0.0,
+            "por gentileza": 0.0,
+            "bom dia": 0.0,
+            "boa tarde": 0.0,
+            "boa noite": 0.0,
+            "agradeço": 0.0,
+            "agradece": 0.0,
+            "gratidão": 0.0,
+            "sinto muito": 0.0,
+            "perdão": 0.0,
+            "me perdoe": 0.0,
+            "com licença": 0.0
+        }
+    }
+}

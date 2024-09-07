@@ -1,0 +1,293 @@
+{
+    "prompt": "Essa é uma transcrição de uma ligação para avialiação de NPS da empresa TOTVS.",
+    "model": "large-v3",
+    "audio_path": "audio_samples/2963210.wav",
+    "transcription": [
+        {
+            "order": 0,
+            "start": 0.0,
+            "end": 3.8200000000000003,
+            "transcription": " Você ligou para a BR Motor Esporte."
+        },
+        {
+            "order": 1,
+            "start": 4.32,
+            "end": 6.22,
+            "transcription": " Agradecemos a sua ligação."
+        },
+        {
+            "order": 2,
+            "start": 6.5,
+            "end": 8.28,
+            "transcription": " Para falar com o SAC, tecle 1."
+        },
+        {
+            "order": 3,
+            "start": 8.68,
+            "end": 9.98,
+            "transcription": " Cobrança, tecle 2."
+        },
+        {
+            "order": 4,
+            "start": 10.26,
+            "end": 11.82,
+            "transcription": " Comercial, tecle 3."
+        },
+        {
+            "order": 5,
+            "start": 12.3,
+            "end": 13.98,
+            "transcription": " Administrativo, tecle 4."
+        },
+        {
+            "order": 6,
+            "start": 14.34,
+            "end": 15.8,
+            "transcription": " Ou aguarde o atendimento."
+        },
+        {
+            "order": 7,
+            "start": 21.44,
+            "end": 22.8,
+            "transcription": " BR, boa tarde."
+        },
+        {
+            "order": 8,
+            "start": 23.38,
+            "end": 23.900000000000002,
+            "transcription": " Tudo bem?"
+        },
+        {
+            "order": 9,
+            "start": 24.82,
+            "end": 25.46,
+            "transcription": " Só um momento."
+        },
+        {
+            "order": 10,
+            "start": 30.0,
+            "end": 36.02,
+            "transcription": " Boa tarde, meu nome é Viviane."
+        },
+        {
+            "order": 11,
+            "start": 36.12,
+            "end": 37.46,
+            "transcription": " Eu falo aqui da TOTVS Matriz."
+        },
+        {
+            "order": 12,
+            "start": 37.6,
+            "end": 38.019999999999996,
+            "transcription": " Tudo bem?"
+        },
+        {
+            "order": 13,
+            "start": 39.120000000000005,
+            "end": 42.16,
+            "transcription": " Eu gostaria, por favor, de falar com o Rafael Gorska."
+        },
+        {
+            "order": 14,
+            "start": 43.620000000000005,
+            "end": 44.32,
+            "transcription": " Tudo bem."
+        },
+        {
+            "order": 15,
+            "start": 60.0,
+            "end": 84.02,
+            "transcription": " E aí, Nicolas?"
+        },
+        {
+            "order": 16,
+            "start": 85.02,
+            "end": 86.14,
+            "transcription": " Tudo."
+        },
+        {
+            "order": 17,
+            "start": 86.14,
+            "end": 86.22,
+            "transcription": " Tudo."
+        },
+        {
+            "order": 18,
+            "start": 89.12,
+            "end": 89.98,
+            "transcription": " Exato."
+        },
+        {
+            "order": 19,
+            "start": 90.0,
+            "end": 91.58,
+            "transcription": " É que, no momento, ele está no almoço."
+        },
+        {
+            "order": 20,
+            "start": 94.48,
+            "end": 97.06,
+            "transcription": " Você consegue ligar daqui 30 minutinhos?"
+        },
+        {
+            "order": 21,
+            "start": 97.3,
+            "end": 98.92,
+            "transcription": " Que provavelmente ele já vai estar de volta."
+        },
+        {
+            "order": 22,
+            "start": 99.72,
+            "end": 100.16,
+            "transcription": " Obrigado."
+        },
+        {
+            "order": 23,
+            "start": 101.04,
+            "end": 101.26,
+            "transcription": " Tchau."
+        },
+        {
+            "order": 24,
+            "start": 108.36,
+            "end": 110.14,
+            "transcription": " Boa tarde, meu nome é Viviane."
+        },
+        {
+            "order": 25,
+            "start": 110.22,
+            "end": 111.6,
+            "transcription": " Eu falo aqui da TOTVS Matriz."
+        },
+        {
+            "order": 26,
+            "start": 111.72,
+            "end": 112.14,
+            "transcription": " Tudo bem?"
+        },
+        {
+            "order": 27,
+            "start": 113.32,
+            "end": 117.3,
+            "transcription": " Eu gostaria, por favor, de falar com o responsável do sistema da TOTVS na empresa."
+        },
+        {
+            "order": 28,
+            "start": 117.4,
+            "end": 118.56,
+            "transcription": " Acredito que seja o Rafael."
+        },
+        {
+            "order": 29,
+            "start": 120.0,
+            "end": 122.44,
+            "transcription": " Ah, sim."
+        },
+        {
+            "order": 30,
+            "start": 122.46,
+            "end": 124.22,
+            "transcription": " Eu consigo falar com ele em qual horário?"
+        },
+        {
+            "order": 31,
+            "start": 127.84,
+            "end": 128.52,
+            "transcription": " Ah, sim."
+        },
+        {
+            "order": 32,
+            "start": 129.62,
+            "end": 130.3,
+            "transcription": " Ah, tudo bem."
+        },
+        {
+            "order": 33,
+            "start": 130.36,
+            "end": 132.52,
+            "transcription": " Eu retorno o contato, então, um pouquinho mais tarde, tá bom?"
+        },
+        {
+            "order": 34,
+            "start": 133.66,
+            "end": 134.16,
+            "transcription": " Obrigada, eu."
+        },
+        {
+            "order": 35,
+            "start": 134.22,
+            "end": 134.56,
+            "transcription": " Tchau, tchau."
+        },
+        {
+            "order": 36,
+            "start": 134.56,
+            "end": 134.7,
+            "transcription": " Tchau."
+        }
+    ],
+    "metrics": {
+        "total_words": 37,
+        "words_per_minute": 28.652555498193088,
+        "top_10_words": [
+            [
+                " tudo bem?",
+                3
+            ],
+            [
+                " boa tarde, meu nome é viviane.",
+                2
+            ],
+            [
+                " eu falo aqui da totvs matriz.",
+                2
+            ],
+            [
+                " tudo.",
+                2
+            ],
+            [
+                " tchau.",
+                2
+            ],
+            [
+                " ah, sim.",
+                2
+            ],
+            [
+                " você ligou para a br motor esporte.",
+                1
+            ],
+            [
+                " agradecemos a sua ligação.",
+                1
+            ],
+            [
+                " para falar com o sac, tecle 1.",
+                1
+            ],
+            [
+                " cobrança, tecle 2.",
+                1
+            ]
+        ],
+        "magic_word_percentages": {
+            "obrigado": 0.0,
+            "obrigada": 0.0,
+            "por favor": 0.0,
+            "desculpa": 0.0,
+            "desculpe": 0.0,
+            "por gentileza": 0.0,
+            "bom dia": 0.0,
+            "boa tarde": 0.0,
+            "boa noite": 0.0,
+            "agradeço": 0.0,
+            "agradece": 0.0,
+            "gratidão": 0.0,
+            "sinto muito": 0.0,
+            "perdão": 0.0,
+            "me perdoe": 0.0,
+            "com licença": 0.0
+        }
+    }
+}

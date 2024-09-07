@@ -1,0 +1,2 @@
+2024-09-07 02:48:29,964 - INFO - Processing audio with duration 05:00.420
+2024-09-07 02:48:35,854 - ERROR - Erro ao processar arquivo audio_samples/2874774.wav: CUDA failed with error out of memory

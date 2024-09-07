@@ -1,0 +1,473 @@
+{
+    "prompt": "Essa é uma transcrição de uma ligação para avialiação de NPS da empresa TOTVS.",
+    "model": "large-v3",
+    "audio_path": "audio_samples/2968253.wav",
+    "transcription": [
+        {
+            "order": 0,
+            "start": 0.0,
+            "end": 2.84,
+            "transcription": " Burbontel Fortaleza, Satico, boa tarde."
+        },
+        {
+            "order": 1,
+            "start": 3.3000000000000003,
+            "end": 5.64,
+            "transcription": " Boa tarde, Alílio da TOTVS, ou seu Valtemberg?"
+        },
+        {
+            "order": 2,
+            "start": 6.68,
+            "end": 7.48,
+            "transcription": " Valtemberg?"
+        },
+        {
+            "order": 3,
+            "start": 7.74,
+            "end": 8.08,
+            "transcription": " Isso."
+        },
+        {
+            "order": 4,
+            "start": 8.78,
+            "end": 9.8,
+            "transcription": " Só um minutinho."
+        },
+        {
+            "order": 5,
+            "start": 10.22,
+            "end": 10.82,
+            "transcription": " Obrigada."
+        },
+        {
+            "order": 6,
+            "start": 11.36,
+            "end": 11.86,
+            "transcription": " Por nada."
+        },
+        {
+            "order": 7,
+            "start": 14.42,
+            "end": 17.02,
+            "transcription": " Seja muito bem-vindo ao Burbontel."
+        },
+        {
+            "order": 8,
+            "start": 17.64,
+            "end": 18.82,
+            "transcription": " Controladoria Lucas."
+        },
+        {
+            "order": 9,
+            "start": 19.52,
+            "end": 21.740000000000002,
+            "transcription": " Boa tarde, Alílio da TOTVS novamente."
+        },
+        {
+            "order": 10,
+            "start": 21.88,
+            "end": 23.26,
+            "transcription": " O Valtemberg já saiu da reunião?"
+        },
+        {
+            "order": 11,
+            "start": 23.82,
+            "end": 25.82,
+            "transcription": " Sim, sim. Só um momento, vou transferir aqui para ele."
+        },
+        {
+            "order": 12,
+            "start": 26.3,
+            "end": 26.82,
+            "transcription": " Obrigada."
+        },
+        {
+            "order": 13,
+            "start": 26.82,
+            "end": 30.42,
+            "transcription": " Você será atendido."
+        },
+        {
+            "order": 14,
+            "start": 31.46,
+            "end": 35.0,
+            "transcription": " Já conhece o programa de férias Burbont Destination Club?"
+        },
+        {
+            "order": 15,
+            "start": 35.3,
+            "end": 38.480000000000004,
+            "transcription": " Com ele você vive experiências fantásticas e as novas..."
+        },
+        {
+            "order": 16,
+            "start": 38.480000000000004,
+            "end": 41.68,
+            "transcription": " Burbontel Fortaleza, Valtemberg, boa tarde."
+        },
+        {
+            "order": 17,
+            "start": 41.96,
+            "end": 45.06,
+            "transcription": " Olá, Valtemberg, boa tarde. Alílio da empresa TOTVS, tudo bem?"
+        },
+        {
+            "order": 18,
+            "start": 45.5,
+            "end": 46.42,
+            "transcription": " Alílio, tudo bem."
+        },
+        {
+            "order": 19,
+            "start": 46.82,
+            "end": 48.760000000000005,
+            "transcription": " Que ótimo. Eu sou do departamento Voz do Cliente."
+        },
+        {
+            "order": 20,
+            "start": 48.879999999999995,
+            "end": 51.64,
+            "transcription": " Estou ligando para fazer o NPS, que é uma avaliação geral."
+        },
+        {
+            "order": 21,
+            "start": 51.78,
+            "end": 53.86,
+            "transcription": " Estou ligando para todos os hotéis do Burbont."
+        },
+        {
+            "order": 22,
+            "start": 53.900000000000006,
+            "end": 54.34,
+            "transcription": " Perfeito."
+        },
+        {
+            "order": 23,
+            "start": 54.36,
+            "end": 56.04,
+            "transcription": " O senhor teria dois minutos no momento?"
+        },
+        {
+            "order": 24,
+            "start": 56.82,
+            "end": 57.38,
+            "transcription": " Sim, pode ser."
+        },
+        {
+            "order": 25,
+            "start": 57.82,
+            "end": 61.58,
+            "transcription": " Ok. Só vou confirmar o final do CNPJ, Hotel Burbont Fortaleza."
+        },
+        {
+            "order": 26,
+            "start": 61.7,
+            "end": 63.06,
+            "transcription": " É o final 1 contra 6 a 2?"
+        },
+        {
+            "order": 27,
+            "start": 63.72,
+            "end": 64.12,
+            "transcription": " Correto."
+        },
+        {
+            "order": 28,
+            "start": 64.42,
+            "end": 67.24,
+            "transcription": " Ok. Iniciando então, de uma escala de 0 a 10,"
+        },
+        {
+            "order": 29,
+            "start": 67.36,
+            "end": 70.76,
+            "transcription": " qual a probabilidade do senhor recomendar a marca TOTVS a alguém hoje no geral?"
+        },
+        {
+            "order": 30,
+            "start": 71.48,
+            "end": 71.88,
+            "transcription": " 10."
+        },
+        {
+            "order": 31,
+            "start": 72.48,
+            "end": 72.74,
+            "transcription": " 10."
+        },
+        {
+            "order": 32,
+            "start": 73.28,
+            "end": 75.26,
+            "transcription": " As demais perguntas, se o senhor não tiver acesso,"
+        },
+        {
+            "order": 33,
+            "start": 75.34,
+            "end": 77.92,
+            "transcription": " porque a gente sabe que é sempre a matriz que tem mais, só pular."
+        },
+        {
+            "order": 34,
+            "start": 78.74000000000001,
+            "end": 81.8,
+            "transcription": " Suporte técnico ou uma nota para agilidade nos processos?"
+        },
+        {
+            "order": 35,
+            "start": 83.02,
+            "end": 83.88,
+            "transcription": " Isso é 0 a 10?"
+        },
+        {
+            "order": 36,
+            "start": 84.44,
+            "end": 85.28,
+            "transcription": " 0 a 10."
+        },
+        {
+            "order": 37,
+            "start": 85.7,
+            "end": 86.1,
+            "transcription": " 8."
+        },
+        {
+            "order": 38,
+            "start": 86.82000000000001,
+            "end": 88.98,
+            "transcription": " 8. E o atendimento em si dos agentes?"
+        },
+        {
+            "order": 39,
+            "start": 89.80000000000001,
+            "end": 90.2,
+            "transcription": " 10."
+        },
+        {
+            "order": 40,
+            "start": 91.06,
+            "end": 93.4,
+            "transcription": " Atendimento do comercial, executivo de vendas?"
+        },
+        {
+            "order": 41,
+            "start": 94.46000000000001,
+            "end": 95.94000000000001,
+            "transcription": " Eu não tenho relacionamento."
+        },
+        {
+            "order": 42,
+            "start": 96.44000000000001,
+            "end": 99.74000000000001,
+            "transcription": " Aham. Custos e os valores dos produtos contratados nesse hotel?"
+        },
+        {
+            "order": 43,
+            "start": 100.82000000000001,
+            "end": 101.24000000000001,
+            "transcription": " 8."
+        },
+        {
+            "order": 44,
+            "start": 101.72000000000001,
+            "end": 104.14000000000001,
+            "transcription": " 8. Atendimento administrativo e financeiro?"
+        },
+        {
+            "order": 45,
+            "start": 104.66000000000001,
+            "end": 105.12,
+            "transcription": " 9."
+        },
+        {
+            "order": 46,
+            "start": 105.5,
+            "end": 108.52000000000001,
+            "transcription": " 9. Se o senhor participou da implantação, uma nota?"
+        },
+        {
+            "order": 47,
+            "start": 109.42000000000002,
+            "end": 110.46000000000001,
+            "transcription": " Não, não participei."
+        },
+        {
+            "order": 48,
+            "start": 110.46000000000001,
+            "end": 116.46000000000001,
+            "transcription": " 3 perguntas. O programa que vocês estão usando atende a necessidade total, atende parcial,"
+        },
+        {
+            "order": 49,
+            "start": 116.82000000000001,
+            "end": 117.84,
+            "transcription": " ou não atende?"
+        },
+        {
+            "order": 50,
+            "start": 118.22000000000001,
+            "end": 118.72000000000001,
+            "transcription": " Total."
+        },
+        {
+            "order": 51,
+            "start": 119.04,
+            "end": 121.34,
+            "transcription": " Total. Uma nota para as atualizações?"
+        },
+        {
+            "order": 52,
+            "start": 122.06,
+            "end": 122.46000000000001,
+            "transcription": " 10."
+        },
+        {
+            "order": 53,
+            "start": 123.06,
+            "end": 126.94000000000001,
+            "transcription": " E a última pergunta, para avaliar a unidade TOTVS e MNET soluções?"
+        },
+        {
+            "order": 54,
+            "start": 129.02,
+            "end": 129.9,
+            "transcription": " 10 também."
+        },
+        {
+            "order": 55,
+            "start": 130.36,
+            "end": 131.56,
+            "transcription": " 10. Certo."
+        },
+        {
+            "order": 56,
+            "start": 132.26000000000002,
+            "end": 136.0,
+            "transcription": " Gostaria de deixar algum comentário, sugestão, reclamação, elogio?"
+        },
+        {
+            "order": 57,
+            "start": 137.12,
+            "end": 141.82,
+            "transcription": " Não, acho que não. Acho que está contento, né, dentro do que a gente está trabalhando."
+        },
+        {
+            "order": 58,
+            "start": 142.92000000000002,
+            "end": 144.04000000000002,
+            "transcription": " Ótimo. Então, tá bom."
+        },
+        {
+            "order": 59,
+            "start": 144.04000000000002,
+            "end": 145.02,
+            "transcription": " Vou confirmar o e-mail."
+        },
+        {
+            "order": 60,
+            "start": 145.02,
+            "end": 148.10000000000002,
+            "transcription": " O e-mail é o valtenberg.silva.com.br?"
+        },
+        {
+            "order": 61,
+            "start": 148.66,
+            "end": 149.02,
+            "transcription": " Correto."
+        },
+        {
+            "order": 62,
+            "start": 149.38000000000002,
+            "end": 153.28,
+            "transcription": " Ok. De seis meses a um, a gente volta a se falar para manter o relacionamento. Obrigada."
+        },
+        {
+            "order": 63,
+            "start": 153.3,
+            "end": 153.66000000000003,
+            "transcription": " Combinado."
+        },
+        {
+            "order": 64,
+            "start": 153.68,
+            "end": 155.06,
+            "transcription": " Um ótimo final de semana. Tchau, tchau."
+        },
+        {
+            "order": 65,
+            "start": 155.16000000000003,
+            "end": 156.42000000000002,
+            "transcription": " Igualmente para você. Até logo."
+        },
+        {
+            "order": 66,
+            "start": 156.68,
+            "end": 157.04000000000002,
+            "transcription": " Obrigada."
+        }
+    ],
+    "metrics": {
+        "total_words": 67,
+        "words_per_minute": 32.97244094488191,
+        "top_10_words": [
+            [
+                " 10.",
+                4
+            ],
+            [
+                " obrigada.",
+                3
+            ],
+            [
+                " correto.",
+                2
+            ],
+            [
+                " 8.",
+                2
+            ],
+            [
+                " burbontel fortaleza, satico, boa tarde.",
+                1
+            ],
+            [
+                " boa tarde, alílio da totvs, ou seu valtemberg?",
+                1
+            ],
+            [
+                " valtemberg?",
+                1
+            ],
+            [
+                " isso.",
+                1
+            ],
+            [
+                " só um minutinho.",
+                1
+            ],
+            [
+                " por nada.",
+                1
+            ]
+        ],
+        "magic_word_percentages": {
+            "obrigado": 0.0,
+            "obrigada": 0.0,
+            "por favor": 0.0,
+            "desculpa": 0.0,
+            "desculpe": 0.0,
+            "por gentileza": 0.0,
+            "bom dia": 0.0,
+            "boa tarde": 0.0,
+            "boa noite": 0.0,
+            "agradeço": 0.0,
+            "agradece": 0.0,
+            "gratidão": 0.0,
+            "sinto muito": 0.0,
+            "perdão": 0.0,
+            "me perdoe": 0.0,
+            "com licença": 0.0
+        }
+    }
+}

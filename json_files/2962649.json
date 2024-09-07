@@ -1,0 +1,239 @@
+{
+    "prompt": "Essa é uma transcrição de uma ligação para avialiação de NPS da empresa TOTVS.",
+    "model": "large-v3",
+    "audio_path": "audio_samples/2962649.wav",
+    "transcription": [
+        {
+            "order": 0,
+            "start": 0.54,
+            "end": 6.5200000000000005,
+            "transcription": " Você ligou para a Simbiose, a maior fábrica de produtos microbiológicos do Brasil."
+        },
+        {
+            "order": 1,
+            "start": 8.9,
+            "end": 13.82,
+            "transcription": " Para falar com o setor de Marketing, tecle 2."
+        },
+        {
+            "order": 2,
+            "start": 14.58,
+            "end": 17.92,
+            "transcription": " Para falar com o setor de Faturamento, tecle 3."
+        },
+        {
+            "order": 3,
+            "start": 18.78,
+            "end": 23.44,
+            "transcription": " Para falar com o setor de Compras, tecle 5."
+        },
+        {
+            "order": 4,
+            "start": 23.76,
+            "end": 28.66,
+            "transcription": " Para falar com o Departamento Pessoal ou Recursos Humanos, tecle 6."
+        },
+        {
+            "order": 5,
+            "start": 28.66,
+            "end": 31.02,
+            "transcription": " Mente as opções, tecle 9."
+        },
+        {
+            "order": 6,
+            "start": 44.16,
+            "end": 47.14,
+            "transcription": " Para falar com a recepção, tecle 1."
+        },
+        {
+            "order": 7,
+            "start": 47.620000000000005,
+            "end": 52.96,
+            "transcription": " Para falar com o setor de Marketing, a Simbiose busca na matéria-prima para o..."
+        },
+        {
+            "order": 8,
+            "start": 52.96,
+            "end": 54.260000000000005,
+            "transcription": " Simbiose, bom dia."
+        },
+        {
+            "order": 9,
+            "start": 54.64,
+            "end": 56.32,
+            "transcription": " Do telefone aqui, a Simbiose."
+        },
+        {
+            "order": 10,
+            "start": 56.32,
+            "end": 57.8,
+            "transcription": " Bom dia, eu estou ligando para a empresa."
+        },
+        {
+            "order": 11,
+            "start": 57.8,
+            "end": 58.64,
+            "transcription": " É o DG40."
+        },
+        {
+            "order": 12,
+            "start": 58.660000000000004,
+            "end": 59.260000000000005,
+            "transcription": " Como, a indústria?"
+        },
+        {
+            "order": 13,
+            "start": 61.080000000000005,
+            "end": 61.52,
+            "transcription": " 3627."
+        },
+        {
+            "order": 14,
+            "start": 64.02000000000001,
+            "end": 65.56,
+            "transcription": " Ah, é outro telefone."
+        },
+        {
+            "order": 15,
+            "start": 65.86,
+            "end": 67.54,
+            "transcription": " Você já sabe dizer qual é o telefone de lá?"
+        },
+        {
+            "order": 16,
+            "start": 71.32000000000001,
+            "end": 73.02000000000001,
+            "transcription": " 41, é que a ligação está cortando."
+        },
+        {
+            "order": 17,
+            "start": 73.26,
+            "end": 73.7,
+            "transcription": " 41."
+        },
+        {
+            "order": 18,
+            "start": 76.96000000000001,
+            "end": 77.4,
+            "transcription": " Certo."
+        },
+        {
+            "order": 19,
+            "start": 81.28,
+            "end": 81.68,
+            "transcription": " 3627."
+        },
+        {
+            "order": 20,
+            "start": 84.28,
+            "end": 84.68,
+            "transcription": " 9071."
+        },
+        {
+            "order": 21,
+            "start": 85.68,
+            "end": 86.08000000000001,
+            "transcription": " 71."
+        },
+        {
+            "order": 22,
+            "start": 86.08000000000001,
+            "end": 87.08000000000001,
+            "transcription": " Está bem, muito obrigada."
+        },
+        {
+            "order": 23,
+            "start": 87.76,
+            "end": 88.56,
+            "transcription": " Tenha um ótimo dia."
+        },
+        {
+            "order": 24,
+            "start": 88.66,
+            "end": 95.66,
+            "transcription": "ido."
+        },
+        {
+            "order": 25,
+            "start": 98.96,
+            "end": 99.24,
+            "transcription": " Outros."
+        },
+        {
+            "order": 26,
+            "start": 99.44,
+            "end": 103.66,
+            "transcription": " E aí"
+        },
+        {
+            "order": 27,
+            "start": 104.78,
+            "end": 110.82,
+            "transcription": " guys."
+        }
+    ],
+    "metrics": {
+        "total_words": 28,
+        "words_per_minute": 25.014889815366285,
+        "top_10_words": [
+            [
+                " 3627.",
+                2
+            ],
+            [
+                " você ligou para a simbiose, a maior fábrica de produtos microbiológicos do brasil.",
+                1
+            ],
+            [
+                " para falar com o setor de marketing, tecle 2.",
+                1
+            ],
+            [
+                " para falar com o setor de faturamento, tecle 3.",
+                1
+            ],
+            [
+                " para falar com o setor de compras, tecle 5.",
+                1
+            ],
+            [
+                " para falar com o departamento pessoal ou recursos humanos, tecle 6.",
+                1
+            ],
+            [
+                " mente as opções, tecle 9.",
+                1
+            ],
+            [
+                " para falar com a recepção, tecle 1.",
+                1
+            ],
+            [
+                " para falar com o setor de marketing, a simbiose busca na matéria-prima para o...",
+                1
+            ],
+            [
+                " simbiose, bom dia.",
+                1
+            ]
+        ],
+        "magic_word_percentages": {
+            "obrigado": 0.0,
+            "obrigada": 0.0,
+            "por favor": 0.0,
+            "desculpa": 0.0,
+            "desculpe": 0.0,
+            "por gentileza": 0.0,
+            "bom dia": 0.0,
+            "boa tarde": 0.0,
+            "boa noite": 0.0,
+            "agradeço": 0.0,
+            "agradece": 0.0,
+            "gratidão": 0.0,
+            "sinto muito": 0.0,
+            "perdão": 0.0,
+            "me perdoe": 0.0,
+            "com licença": 0.0
+        }
+    }
+}

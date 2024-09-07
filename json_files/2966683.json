@@ -1,0 +1,233 @@
+{
+    "prompt": "Essa é uma transcrição de uma ligação para avialiação de NPS da empresa TOTVS.",
+    "model": "large-v3",
+    "audio_path": "audio_samples/2966683.wav",
+    "transcription": [
+        {
+            "order": 0,
+            "start": 0.0,
+            "end": 8.18,
+            "transcription": " Obrigado por ligar para o Hotbit Resort."
+        },
+        {
+            "order": 1,
+            "start": 8.98,
+            "end": 11.08,
+            "transcription": " Para falar em reservas, disque 1."
+        },
+        {
+            "order": 2,
+            "start": 11.78,
+            "end": 14.24,
+            "transcription": " Departamento administrativo, disque 2."
+        },
+        {
+            "order": 3,
+            "start": 14.84,
+            "end": 16.86,
+            "transcription": " Departamento de compras, disque 3."
+        },
+        {
+            "order": 4,
+            "start": 17.34,
+            "end": 18.900000000000002,
+            "transcription": " Ou aguarde para ser atendido."
+        },
+        {
+            "order": 5,
+            "start": 18.900000000000002,
+            "end": 27.28,
+            "transcription": " E para todas as entidades, chegou o Hotbit Olímpia."
+        },
+        {
+            "order": 6,
+            "start": 27.480000000000004,
+            "end": 29.900000000000002,
+            "transcription": " Para quem quer muita diversão e tranquilidade."
+        },
+        {
+            "order": 7,
+            "start": 29.900000000000002,
+            "end": 30.92,
+            "transcription": " Hotbit."
+        },
+        {
+            "order": 8,
+            "start": 45.040000000000006,
+            "end": 47.160000000000004,
+            "transcription": " Percebção, Elisângela, bom dia."
+        },
+        {
+            "order": 9,
+            "start": 47.540000000000006,
+            "end": 48.88,
+            "transcription": " Elisângela, bom dia."
+        },
+        {
+            "order": 10,
+            "start": 49.019999999999996,
+            "end": 50.339999999999996,
+            "transcription": " Lília da empresa TOTVS falando."
+        },
+        {
+            "order": 11,
+            "start": 50.46,
+            "end": 53.62,
+            "transcription": " Gostaria de falar no administrativo financeiro ou com o gerente?"
+        },
+        {
+            "order": 12,
+            "start": 53.86,
+            "end": 54.739999999999995,
+            "transcription": " É da TOTVS."
+        },
+        {
+            "order": 13,
+            "start": 56.0,
+            "end": 57.46,
+            "transcription": " Vou transferir para o financeiro."
+        },
+        {
+            "order": 14,
+            "start": 58.36,
+            "end": 58.98,
+            "transcription": " Obrigada."
+        },
+        {
+            "order": 15,
+            "start": 58.98,
+            "end": 60.26,
+            "transcription": " De nada, tchau, tchau."
+        },
+        {
+            "order": 16,
+            "start": 75.75999999999999,
+            "end": 77.24,
+            "transcription": " Financeira Letícia, bom dia."
+        },
+        {
+            "order": 17,
+            "start": 77.98,
+            "end": 78.88,
+            "transcription": " Bom dia, Letícia."
+        },
+        {
+            "order": 18,
+            "start": 78.9,
+            "end": 81.0,
+            "transcription": " Meu nome é Lília, eu falo da TOTVS, tudo bem?"
+        },
+        {
+            "order": 19,
+            "start": 81.22,
+            "end": 81.5,
+            "transcription": " Tudo."
+        },
+        {
+            "order": 20,
+            "start": 82.36,
+            "end": 82.80000000000001,
+            "transcription": " Que ótimo."
+        },
+        {
+            "order": 21,
+            "start": 82.88000000000001,
+            "end": 85.9,
+            "transcription": " Eu precisava falar com algum gerente ou coordenadora ou supervisor para fazer uma avaliação."
+        },
+        {
+            "order": 22,
+            "start": 87.30000000000001,
+            "end": 89.64,
+            "transcription": " Você pode estar ligando daqui uns 20 minutinhos?"
+        },
+        {
+            "order": 23,
+            "start": 90.42,
+            "end": 92.08000000000001,
+            "transcription": " Certo, eu retorno, aí eu falo com quem?"
+        },
+        {
+            "order": 24,
+            "start": 92.30000000000001,
+            "end": 92.9,
+            "transcription": " Com o Pedro."
+        },
+        {
+            "order": 25,
+            "start": 93.60000000000001,
+            "end": 94.56,
+            "transcription": " Tá bom, obrigada, Letícia."
+        },
+        {
+            "order": 26,
+            "start": 94.56,
+            "end": 95.56,
+            "transcription": " De nada, tchau, tchau."
+        }
+    ],
+    "metrics": {
+        "total_words": 27,
+        "words_per_minute": 29.40108892921962,
+        "top_10_words": [
+            [
+                " de nada, tchau, tchau.",
+                2
+            ],
+            [
+                " obrigado por ligar para o hotbit resort.",
+                1
+            ],
+            [
+                " para falar em reservas, disque 1.",
+                1
+            ],
+            [
+                " departamento administrativo, disque 2.",
+                1
+            ],
+            [
+                " departamento de compras, disque 3.",
+                1
+            ],
+            [
+                " ou aguarde para ser atendido.",
+                1
+            ],
+            [
+                " e para todas as entidades, chegou o hotbit olímpia.",
+                1
+            ],
+            [
+                " para quem quer muita diversão e tranquilidade.",
+                1
+            ],
+            [
+                " hotbit.",
+                1
+            ],
+            [
+                " percebção, elisângela, bom dia.",
+                1
+            ]
+        ],
+        "magic_word_percentages": {
+            "obrigado": 0.0,
+            "obrigada": 0.0,
+            "por favor": 0.0,
+            "desculpa": 0.0,
+            "desculpe": 0.0,
+            "por gentileza": 0.0,
+            "bom dia": 0.0,
+            "boa tarde": 0.0,
+            "boa noite": 0.0,
+            "agradeço": 0.0,
+            "agradece": 0.0,
+            "gratidão": 0.0,
+            "sinto muito": 0.0,
+            "perdão": 0.0,
+            "me perdoe": 0.0,
+            "com licença": 0.0
+        }
+    }
+}

@@ -1,0 +1,121 @@
+{
+    "prompt": "Essa é uma transcrição de uma ligação para avaliação de NPS da empresa TOTVS.",
+    "audio_path": "audio_samples\/2966771.wav",
+    "transcription": [
+        {
+            "order": 0,
+            "start": 0.0,
+            "end": 6.1000000000000005,
+            "transcription": " Seja bem-vindo ao Grupo Rocha."
+        },
+        {
+            "order": 1,
+            "start": 6.7,
+            "end": 8.9,
+            "transcription": " Nosso menu de atendimento mudou."
+        },
+        {
+            "order": 2,
+            "start": 9.48,
+            "end": 14.26,
+            "transcription": " Digite o ramal desejado ou 3 para Departamento Comercial."
+        },
+        {
+            "order": 3,
+            "start": 14.94,
+            "end": 18.88,
+            "transcription": " Se você é cliente e deseja efetuar um pagamento, digite 4."
+        },
+        {
+            "order": 4,
+            "start": 19.48,
+            "end": 24.64,
+            "transcription": " Se você é fornecedor e deseja tratar de um assunto financeiro, digite 5."
+        },
+        {
+            "order": 5,
+            "start": 24.64,
+            "end": 30.54,
+            "transcription": " Se você é fornecedor e deseja falar no nosso Departamento de Compras, digite 6."
+        },
+        {
+            "order": 6,
+            "start": 31.12,
+            "end": 34.34,
+            "transcription": " Para outros assuntos, aguarde para ser atendido."
+        },
+        {
+            "order": 7,
+            "start": 34.94,
+            "end": 37.56,
+            "transcription": " O Grupo Rocha agradece a sua ligação."
+        },
+        {
+            "order": 8,
+            "start": 54.64,
+            "end": 84.62,
+            "transcription": " Legenda Adriana Zanotto"
+        },
+        {
+            "order": 9,
+            "start": 84.64,
+            "end": 114.62,
+            "transcription": " Legenda Adriana Zanotto"
+        },
+        {
+            "order": 10,
+            "start": 114.64,
+            "end": 144.62,
+            "transcription": " Legenda Adriana Zanotto"
+        }
+    ],
+    "metrics": {
+        "total_words": 80,
+        "words_per_minute": 38.753431293395764,
+        "top_10_words": [
+            [
+                "digite",
+                4
+            ],
+            [
+                "de",
+                3
+            ],
+            [
+                "para",
+                3
+            ],
+            [
+                "se",
+                3
+            ],
+            [
+                "você",
+                3
+            ],
+            [
+                "é",
+                3
+            ],
+            [
+                "e",
+                3
+            ],
+            [
+                "deseja",
+                3
+            ],
+            [
+                "legenda",
+                3
+            ],
+            [
+                "adriana",
+                3
+            ]
+        ],
+        "magic_word_percentages": {
+            "agradece": 1.25
+        }
+    }
+}

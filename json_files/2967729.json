@@ -1,0 +1,341 @@
+{
+    "prompt": "Essa é uma transcrição de uma ligação para avialiação de NPS da empresa TOTVS.",
+    "model": "large-v3",
+    "audio_path": "audio_samples/2967729.wav",
+    "transcription": [
+        {
+            "order": 0,
+            "start": 0.0,
+            "end": 0.8200000000000001,
+            "transcription": " Boa tarde."
+        },
+        {
+            "order": 1,
+            "start": 1.44,
+            "end": 4.28,
+            "transcription": " Boa tarde, Lilia da empresa TOTVS. Eu falo com o Vinícius?"
+        },
+        {
+            "order": 2,
+            "start": 5.28,
+            "end": 6.12,
+            "transcription": " É o Mikael."
+        },
+        {
+            "order": 3,
+            "start": 6.5200000000000005,
+            "end": 7.4,
+            "transcription": " Mikael, tudo bem?"
+        },
+        {
+            "order": 4,
+            "start": 7.8,
+            "end": 9.200000000000001,
+            "transcription": " É Lilia da TOTVS, Mikael."
+        },
+        {
+            "order": 5,
+            "start": 9.34,
+            "end": 13.52,
+            "transcription": " Precisava falar com algum coordenador ou gerente da TI do Hotel Casa da Montanha."
+        },
+        {
+            "order": 6,
+            "start": 14.48,
+            "end": 15.42,
+            "transcription": " Tá, eu sou do TI."
+        },
+        {
+            "order": 7,
+            "start": 16.080000000000002,
+            "end": 17.32,
+            "transcription": " Certo, você é coordenador?"
+        },
+        {
+            "order": 8,
+            "start": 18.34,
+            "end": 18.86,
+            "transcription": " Sim."
+        },
+        {
+            "order": 9,
+            "start": 20.080000000000002,
+            "end": 21.04,
+            "transcription": " Desculpa, seu nome?"
+        },
+        {
+            "order": 10,
+            "start": 21.86,
+            "end": 23.28,
+            "transcription": " Mikael, Mikael Olesch."
+        },
+        {
+            "order": 11,
+            "start": 23.82,
+            "end": 24.34,
+            "transcription": " Mikael."
+        },
+        {
+            "order": 12,
+            "start": 24.98,
+            "end": 26.46,
+            "transcription": " Tá, eu sou do departamento..."
+        },
+        {
+            "order": 13,
+            "start": 26.46,
+            "end": 27.0,
+            "transcription": " Oi?"
+        },
+        {
+            "order": 14,
+            "start": 27.0,
+            "end": 29.28,
+            "transcription": " Departamento de?"
+        },
+        {
+            "order": 15,
+            "start": 29.28,
+            "end": 29.3,
+            "transcription": " Oi?"
+        },
+        {
+            "order": 16,
+            "start": 29.880000000000003,
+            "end": 32.34,
+            "transcription": " Eu sou do departamento Voz do Cliente da TOTVS Matriz."
+        },
+        {
+            "order": 17,
+            "start": 32.46,
+            "end": 35.72,
+            "transcription": " Eu estou entrando em contato para fazer o NPS, que é uma avaliação geral."
+        },
+        {
+            "order": 18,
+            "start": 36.620000000000005,
+            "end": 39.980000000000004,
+            "transcription": " São algumas perguntas de 0 a 10. O senhor poderia responder?"
+        },
+        {
+            "order": 19,
+            "start": 41.980000000000004,
+            "end": 42.92,
+            "transcription": " Posso? Posso sim."
+        },
+        {
+            "order": 20,
+            "start": 43.2,
+            "end": 45.42,
+            "transcription": " Pode ser? Só vou confirmar algumas informações."
+        },
+        {
+            "order": 21,
+            "start": 45.620000000000005,
+            "end": 51.24,
+            "transcription": " Eu tenho dois CNPJs vinculados, o final 2.000 contra 57 e o 1.000 contra 7.500."
+        },
+        {
+            "order": 22,
+            "start": 51.3,
+            "end": 54.040000000000006,
+            "transcription": " O senhor responde pelos dois ou cada um tem um responsável?"
+        },
+        {
+            "order": 23,
+            "start": 56.040000000000006,
+            "end": 59.1,
+            "transcription": " Na verdade são quatro, né? A gente tem quatro hotéis aqui."
+        },
+        {
+            "order": 24,
+            "start": 59.28,
+            "end": 65.14,
+            "transcription": " Ah, tá. É porque o que está perto aqui que eu estou vendo, que eu estou ligando, é que eu estou ligando para todos os hotéis."
+        },
+        {
+            "order": 25,
+            "start": 65.6,
+            "end": 69.04,
+            "transcription": " Então, o que está perto aqui são esses dois. O senhor responde pelos dois?"
+        },
+        {
+            "order": 26,
+            "start": 69.92,
+            "end": 70.2,
+            "transcription": " Uhum."
+        },
+        {
+            "order": 27,
+            "start": 70.92,
+            "end": 71.14,
+            "transcription": " Tá."
+        },
+        {
+            "order": 28,
+            "start": 73.82000000000001,
+            "end": 84.18,
+            "transcription": " Se você quiser fazer assim, eu acho que até melhor para te responder é ligar no 3295-7550, que daí é o gerente geral."
+        },
+        {
+            "order": 29,
+            "start": 84.18,
+            "end": 88.32,
+            "transcription": " Tá, eu falo. Falo com quem?"
+        },
+        {
+            "order": 30,
+            "start": 88.32000000000001,
+            "end": 89.32000000000001,
+            "transcription": " Com Ademir."
+        },
+        {
+            "order": 31,
+            "start": 90.24000000000001,
+            "end": 92.24000000000001,
+            "transcription": " Ademir Schneider, isso."
+        },
+        {
+            "order": 32,
+            "start": 92.72000000000001,
+            "end": 94.0,
+            "transcription": " Schneider, isso, Schneider."
+        },
+        {
+            "order": 33,
+            "start": 94.36000000000001,
+            "end": 95.24000000000001,
+            "transcription": " Schneider, uhum."
+        },
+        {
+            "order": 34,
+            "start": 96.10000000000001,
+            "end": 97.78,
+            "transcription": " É, final 7.500?"
+        },
+        {
+            "order": 35,
+            "start": 99.32000000000001,
+            "end": 102.36000000000001,
+            "transcription": " Isso. Ah, deixa eu ver. Hoje é sexta, né?"
+        },
+        {
+            "order": 36,
+            "start": 103.4,
+            "end": 104.80000000000001,
+            "transcription": " Hum, acho que ele não vai estar aí."
+        },
+        {
+            "order": 37,
+            "start": 106.18,
+            "end": 108.46000000000001,
+            "transcription": " Pensando, ele saiu já. Ele já saiu, uhum."
+        },
+        {
+            "order": 38,
+            "start": 109.12,
+            "end": 110.88000000000001,
+            "transcription": " Na segunda-feira, a partir de que horas?"
+        },
+        {
+            "order": 39,
+            "start": 111.72000000000001,
+            "end": 113.94000000000001,
+            "transcription": " Terça-feira, melhor. Na parte da tarde."
+        },
+        {
+            "order": 40,
+            "start": 113.94000000000001,
+            "end": 118.06,
+            "transcription": " Porque ele vem de outra cidade, daí segunda ele não está aí ainda."
+        },
+        {
+            "order": 41,
+            "start": 118.32000000000001,
+            "end": 120.32000000000001,
+            "transcription": " Entendi. É só ele que responde?"
+        },
+        {
+            "order": 42,
+            "start": 120.32000000000001,
+            "end": 122.32000000000001,
+            "transcription": " Sim, uhum."
+        },
+        {
+            "order": 43,
+            "start": 122.32000000000001,
+            "end": 126.32000000000001,
+            "transcription": " Tá bom. Vou ligar na terça, então. Obrigada, viu, Mikael?"
+        },
+        {
+            "order": 44,
+            "start": 126.32000000000001,
+            "end": 128.32,
+            "transcription": " Então tá, valeu. Obrigado. Tchau, tchau."
+        }
+    ],
+    "metrics": {
+        "total_words": 45,
+        "words_per_minute": 26.865671641791057,
+        "top_10_words": [
+            [
+                " oi?",
+                2
+            ],
+            [
+                " boa tarde.",
+                1
+            ],
+            [
+                " boa tarde, lilia da empresa totvs. eu falo com o vinícius?",
+                1
+            ],
+            [
+                " é o mikael.",
+                1
+            ],
+            [
+                " mikael, tudo bem?",
+                1
+            ],
+            [
+                " é lilia da totvs, mikael.",
+                1
+            ],
+            [
+                " precisava falar com algum coordenador ou gerente da ti do hotel casa da montanha.",
+                1
+            ],
+            [
+                " tá, eu sou do ti.",
+                1
+            ],
+            [
+                " certo, você é coordenador?",
+                1
+            ],
+            [
+                " sim.",
+                1
+            ]
+        ],
+        "magic_word_percentages": {
+            "obrigado": 0.0,
+            "obrigada": 0.0,
+            "por favor": 0.0,
+            "desculpa": 0.0,
+            "desculpe": 0.0,
+            "por gentileza": 0.0,
+            "bom dia": 0.0,
+            "boa tarde": 0.0,
+            "boa noite": 0.0,
+            "agradeço": 0.0,
+            "agradece": 0.0,
+            "gratidão": 0.0,
+            "sinto muito": 0.0,
+            "perdão": 0.0,
+            "me perdoe": 0.0,
+            "com licença": 0.0
+        }
+    }
+}

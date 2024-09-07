@@ -1,0 +1,341 @@
+{
+    "prompt": "Essa é uma transcrição de uma ligação para avialiação de NPS da empresa TOTVS.",
+    "model": "large-v3",
+    "audio_path": "audio_samples/2962417.wav",
+    "transcription": [
+        {
+            "order": 0,
+            "start": 0.52,
+            "end": 0.96,
+            "transcription": " Oi."
+        },
+        {
+            "order": 1,
+            "start": 1.62,
+            "end": 4.38,
+            "transcription": " Oi, bom dia. Lília da empresa TOTVS. Eu falo com o Gabriel."
+        },
+        {
+            "order": 2,
+            "start": 4.96,
+            "end": 5.28,
+            "transcription": " Isso."
+        },
+        {
+            "order": 3,
+            "start": 5.68,
+            "end": 6.22,
+            "transcription": " Tudo bem?"
+        },
+        {
+            "order": 4,
+            "start": 6.7,
+            "end": 7.26,
+            "transcription": " Tudo jóia."
+        },
+        {
+            "order": 5,
+            "start": 7.5600000000000005,
+            "end": 9.98,
+            "transcription": " Que ótimo. Seu Gabriel, você é o TI da empresa Biolife?"
+        },
+        {
+            "order": 6,
+            "start": 10.36,
+            "end": 10.72,
+            "transcription": " Sim."
+        },
+        {
+            "order": 7,
+            "start": 11.22,
+            "end": 14.780000000000001,
+            "transcription": " Eu estou ligando para fazer o NPS, a avaliação geral que fazemos anualmente."
+        },
+        {
+            "order": 8,
+            "start": 14.88,
+            "end": 15.620000000000001,
+            "transcription": " Tem dois minutos?"
+        },
+        {
+            "order": 9,
+            "start": 16.22,
+            "end": 16.52,
+            "transcription": " Sim."
+        },
+        {
+            "order": 10,
+            "start": 17.04,
+            "end": 20.48,
+            "transcription": " Ok. Só vou confirmar o final do CNPJ da empresa, que é o 1000 contra 27."
+        },
+        {
+            "order": 11,
+            "start": 21.86,
+            "end": 26.04,
+            "transcription": " O e-mail que eu tenho aqui é o ti.resende.santos.com.br."
+        },
+        {
+            "order": 12,
+            "start": 27.16,
+            "end": 27.52,
+            "transcription": " Ok."
+        },
+        {
+            "order": 13,
+            "start": 27.580000000000002,
+            "end": 27.82,
+            "transcription": " Isso."
+        },
+        {
+            "order": 14,
+            "start": 27.82,
+            "end": 33.84,
+            "transcription": " Iniciando, então. De uma escala de 0 a 10, qual a probabilidade do senhor recomendar a marca TOTVS a alguém hoje no geral?"
+        },
+        {
+            "order": 15,
+            "start": 34.64,
+            "end": 34.980000000000004,
+            "transcription": " 10."
+        },
+        {
+            "order": 16,
+            "start": 35.42,
+            "end": 39.4,
+            "transcription": " 10 suporte técnico, uma nota para agilidade nos processos dos tíquetes?"
+        },
+        {
+            "order": 17,
+            "start": 40.5,
+            "end": 40.980000000000004,
+            "transcription": " 9."
+        },
+        {
+            "order": 18,
+            "start": 41.4,
+            "end": 43.44,
+            "transcription": " 9. E o atendimento em si dos agentes?"
+        },
+        {
+            "order": 19,
+            "start": 46.06,
+            "end": 46.879999999999995,
+            "transcription": " Atendimento 10."
+        },
+        {
+            "order": 20,
+            "start": 47.480000000000004,
+            "end": 50.92,
+            "transcription": " 10. Atendimento do comercial, tem contato? Executivo de vendas?"
+        },
+        {
+            "order": 21,
+            "start": 51.8,
+            "end": 53.760000000000005,
+            "transcription": " Um pouco. Bem pouco. Vou te colocar 8."
+        },
+        {
+            "order": 22,
+            "start": 54.24,
+            "end": 54.66,
+            "transcription": " 8."
+        },
+        {
+            "order": 23,
+            "start": 54.66,
+            "end": 57.66,
+            "transcription": " Com relação aos custos e os valores dos produtos?"
+        },
+        {
+            "order": 24,
+            "start": 57.82,
+            "end": 60.88,
+            "transcription": " Não. 7, mais ou menos."
+        },
+        {
+            "order": 25,
+            "start": 61.56,
+            "end": 64.34,
+            "transcription": " 7. Atendimento administrativo e financeiro?"
+        },
+        {
+            "order": 26,
+            "start": 65.68,
+            "end": 67.8,
+            "transcription": " Nós não conversamos. Pode colocar 9."
+        },
+        {
+            "order": 27,
+            "start": 68.36,
+            "end": 72.64,
+            "transcription": " 9. Se o senhor participou da implantação, uma nota para o processo da implantação?"
+        },
+        {
+            "order": 28,
+            "start": 73.04,
+            "end": 73.78,
+            "transcription": " Não passei."
+        },
+        {
+            "order": 29,
+            "start": 74.46000000000001,
+            "end": 81.16,
+            "transcription": " Mais três perguntas. O programa que vocês estão usando atende à necessidade da empresa? Total, parcial ou não atende?"
+        },
+        {
+            "order": 30,
+            "start": 81.46000000000001,
+            "end": 82.02,
+            "transcription": " Total."
+        },
+        {
+            "order": 31,
+            "start": 83.24000000000001,
+            "end": 85.12,
+            "transcription": " Uma nota para as atualizações?"
+        },
+        {
+            "order": 32,
+            "start": 85.96000000000001,
+            "end": 86.32,
+            "transcription": " O quê?"
+        },
+        {
+            "order": 33,
+            "start": 86.32,
+            "end": 87.32,
+            "transcription": " Uma nota para as atualizações?"
+        },
+        {
+            "order": 34,
+            "start": 87.32,
+            "end": 87.8,
+            "transcription": " Uma nota para as atualizações?"
+        },
+        {
+            "order": 35,
+            "start": 87.8,
+            "end": 89.28,
+            "transcription": " Uma nota para as atualizações?"
+        },
+        {
+            "order": 36,
+            "start": 90.08,
+            "end": 91.0,
+            "transcription": " Ah, é 9."
+        },
+        {
+            "order": 37,
+            "start": 91.58,
+            "end": 96.53999999999999,
+            "transcription": " 9. E a última pergunta para avaliar a unidade de tótos de Minas Gerais?"
+        },
+        {
+            "order": 38,
+            "start": 98.17999999999999,
+            "end": 98.7,
+            "transcription": " 9."
+        },
+        {
+            "order": 39,
+            "start": 99.24,
+            "end": 104.4,
+            "transcription": " 9. Gostaria de deixar algum comentário, alguma sugestão, reclamação, elogio?"
+        },
+        {
+            "order": 40,
+            "start": 105.42,
+            "end": 106.42,
+            "transcription": " Não, tranquilo."
+        },
+        {
+            "order": 41,
+            "start": 106.8,
+            "end": 110.66,
+            "transcription": " Tranquilo? Então é isso. Obrigada, Gabriel. Ano que vem a gente retorna de novo, tá bom?"
+        },
+        {
+            "order": 42,
+            "start": 110.75999999999999,
+            "end": 111.02,
+            "transcription": " Ok."
+        },
+        {
+            "order": 43,
+            "start": 111.44,
+            "end": 112.46,
+            "transcription": " Ótimo dia. Tchau."
+        },
+        {
+            "order": 44,
+            "start": 112.86,
+            "end": 113.28,
+            "transcription": " Certamente."
+        }
+    ],
+    "metrics": {
+        "total_words": 45,
+        "words_per_minute": 31.293463143254524,
+        "top_10_words": [
+            [
+                " uma nota para as atualizações?",
+                4
+            ],
+            [
+                " isso.",
+                2
+            ],
+            [
+                " sim.",
+                2
+            ],
+            [
+                " ok.",
+                2
+            ],
+            [
+                " 9.",
+                2
+            ],
+            [
+                " oi.",
+                1
+            ],
+            [
+                " oi, bom dia. lília da empresa totvs. eu falo com o gabriel.",
+                1
+            ],
+            [
+                " tudo bem?",
+                1
+            ],
+            [
+                " tudo jóia.",
+                1
+            ],
+            [
+                " que ótimo. seu gabriel, você é o ti da empresa biolife?",
+                1
+            ]
+        ],
+        "magic_word_percentages": {
+            "obrigado": 0.0,
+            "obrigada": 0.0,
+            "por favor": 0.0,
+            "desculpa": 0.0,
+            "desculpe": 0.0,
+            "por gentileza": 0.0,
+            "bom dia": 0.0,
+            "boa tarde": 0.0,
+            "boa noite": 0.0,
+            "agradeço": 0.0,
+            "agradece": 0.0,
+            "gratidão": 0.0,
+            "sinto muito": 0.0,
+            "perdão": 0.0,
+            "me perdoe": 0.0,
+            "com licença": 0.0
+        }
+    }
+}

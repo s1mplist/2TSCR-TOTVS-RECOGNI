@@ -1,0 +1,251 @@
+{
+    "prompt": "Essa é uma transcrição de uma ligação para avialiação de NPS da empresa TOTVS.",
+    "model": "large-v3",
+    "audio_path": "audio_samples/2963977.wav",
+    "transcription": [
+        {
+            "order": 0,
+            "start": 0.72,
+            "end": 5.14,
+            "transcription": " Olá, você ligou para Citron. É um prazer atendê-lo."
+        },
+        {
+            "order": 1,
+            "start": 5.5,
+            "end": 9.14,
+            "transcription": " Para falar com a loja Citron da rua Bernardo Horta, Disque 1."
+        },
+        {
+            "order": 2,
+            "start": 9.46,
+            "end": 12.96,
+            "transcription": " Para falar com a loja da Praça Roberto Carlos, Disque 2."
+        },
+        {
+            "order": 3,
+            "start": 13.32,
+            "end": 16.18,
+            "transcription": " Contas a pagar e a receber, Disque 3."
+        },
+        {
+            "order": 4,
+            "start": 16.76,
+            "end": 18.5,
+            "transcription": " Administrativo, Disque 4."
+        },
+        {
+            "order": 5,
+            "start": 18.88,
+            "end": 20.580000000000002,
+            "transcription": " E-commerce, Disque 5."
+        },
+        {
+            "order": 6,
+            "start": 30.0,
+            "end": 40.92,
+            "transcription": " A Citron oferece a você as melhores soluções em eletrônicos, áudio, instrumentos musicais com as melhores marcas do mercado e condições..."
+        },
+        {
+            "order": 7,
+            "start": 40.92,
+            "end": 41.44,
+            "transcription": " Citron?"
+        },
+        {
+            "order": 8,
+            "start": 42.36,
+            "end": 46.120000000000005,
+            "transcription": " Boa tarde, meu nome é Viviane, eu falo aqui da TOTVS Matriz, tudo bem?"
+        },
+        {
+            "order": 9,
+            "start": 46.94,
+            "end": 47.34,
+            "transcription": " Tudo bom?"
+        },
+        {
+            "order": 10,
+            "start": 47.760000000000005,
+            "end": 51.24,
+            "transcription": " Eu gostaria, por favor, de falar com a Daniele da Silva."
+        },
+        {
+            "order": 11,
+            "start": 52.82,
+            "end": 54.480000000000004,
+            "transcription": " Espera só um pouquinho, vou te transferir."
+        },
+        {
+            "order": 12,
+            "start": 54.94,
+            "end": 55.74,
+            "transcription": " Tá, obrigada."
+        },
+        {
+            "order": 13,
+            "start": 60.0,
+            "end": 62.14,
+            "transcription": " A Citron oferece..."
+        },
+        {
+            "order": 14,
+            "start": 62.14,
+            "end": 64.16,
+            "transcription": " Oi."
+        },
+        {
+            "order": 15,
+            "start": 64.84,
+            "end": 68.84,
+            "transcription": " Boa tarde, meu nome é Viviane, eu falo aqui da TOTVS Matriz, tudo bem?"
+        },
+        {
+            "order": 16,
+            "start": 69.42,
+            "end": 70.2,
+            "transcription": " Tudo bem."
+        },
+        {
+            "order": 17,
+            "start": 70.74,
+            "end": 71.84,
+            "transcription": " Eu falo com a Daniele?"
+        },
+        {
+            "order": 18,
+            "start": 71.84,
+            "end": 76.22,
+            "transcription": " A Daniele não se encontrou agora na empresa."
+        },
+        {
+            "order": 19,
+            "start": 77.24000000000001,
+            "end": 77.74000000000001,
+            "transcription": " Ah, sim."
+        },
+        {
+            "order": 20,
+            "start": 77.9,
+            "end": 82.06,
+            "transcription": " Teria algum outro responsável pelo sistema da TOTVS ou seria somente ela?"
+        },
+        {
+            "order": 21,
+            "start": 82.38,
+            "end": 84.18,
+            "transcription": " É, seria somente ela."
+        },
+        {
+            "order": 22,
+            "start": 84.44,
+            "end": 86.03999999999999,
+            "transcription": " Ela só deve estar aqui amanhã."
+        },
+        {
+            "order": 23,
+            "start": 86.74000000000001,
+            "end": 87.22,
+            "transcription": " Ah, sim."
+        },
+        {
+            "order": 24,
+            "start": 87.22,
+            "end": 89.94,
+            "transcription": " É porque ela não veio trabalhar hoje."
+        },
+        {
+            "order": 25,
+            "start": 90.0,
+            "end": 91.28,
+            "transcription": " Ah, entendi."
+        },
+        {
+            "order": 26,
+            "start": 91.4,
+            "end": 93.64,
+            "transcription": " Eu retorno o contato então amanhã com ela, tá bom?"
+        },
+        {
+            "order": 27,
+            "start": 93.8,
+            "end": 94.36,
+            "transcription": " Tá ok."
+        },
+        {
+            "order": 28,
+            "start": 95.16,
+            "end": 96.06,
+            "transcription": " Obrigada, tchau, tchau."
+        },
+        {
+            "order": 29,
+            "start": 96.2,
+            "end": 96.96,
+            "transcription": " De nada, tchau."
+        }
+    ],
+    "metrics": {
+        "total_words": 30,
+        "words_per_minute": 25.416548997458342,
+        "top_10_words": [
+            [
+                " boa tarde, meu nome é viviane, eu falo aqui da totvs matriz, tudo bem?",
+                2
+            ],
+            [
+                " ah, sim.",
+                2
+            ],
+            [
+                " olá, você ligou para citron. é um prazer atendê-lo.",
+                1
+            ],
+            [
+                " para falar com a loja citron da rua bernardo horta, disque 1.",
+                1
+            ],
+            [
+                " para falar com a loja da praça roberto carlos, disque 2.",
+                1
+            ],
+            [
+                " contas a pagar e a receber, disque 3.",
+                1
+            ],
+            [
+                " administrativo, disque 4.",
+                1
+            ],
+            [
+                " e-commerce, disque 5.",
+                1
+            ],
+            [
+                " a citron oferece a você as melhores soluções em eletrônicos, áudio, instrumentos musicais com as melhores marcas do mercado e condições...",
+                1
+            ],
+            [
+                " citron?",
+                1
+            ]
+        ],
+        "magic_word_percentages": {
+            "obrigado": 0.0,
+            "obrigada": 0.0,
+            "por favor": 0.0,
+            "desculpa": 0.0,
+            "desculpe": 0.0,
+            "por gentileza": 0.0,
+            "bom dia": 0.0,
+            "boa tarde": 0.0,
+            "boa noite": 0.0,
+            "agradeço": 0.0,
+            "agradece": 0.0,
+            "gratidão": 0.0,
+            "sinto muito": 0.0,
+            "perdão": 0.0,
+            "me perdoe": 0.0,
+            "com licença": 0.0
+        }
+    }
+}

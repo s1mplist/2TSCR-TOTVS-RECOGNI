@@ -1,0 +1,73 @@
+{
+    "prompt": "Essa é uma transcrição de uma ligação para avialiação de NPS da empresa TOTVS.",
+    "model": "large-v3",
+    "audio_path": "audio_samples/2965821.wav",
+    "transcription": [
+        {
+            "order": 0,
+            "start": 0.0,
+            "end": 11.46,
+            "transcription": " Bem-vindo a Suco Rico Citrus, para a unidade de Araras, Disque 1, para a unidade de Colina, Disque 2, for English Press 3."
+        },
+        {
+            "order": 1,
+            "start": 30.0,
+            "end": 59.980000000000004,
+            "transcription": " A unidade de Colina, Disque 1, para a unidade de Colina, Disque 2, for English Press 3."
+        },
+        {
+            "order": 2,
+            "start": 60.0,
+            "end": 89.98,
+            "transcription": " A unidade de Colina, Disque 2, para a unidade de Colina, Disque 2, for English Press 3."
+        },
+        {
+            "order": 3,
+            "start": 90.0,
+            "end": 119.98,
+            "transcription": " A unidade de Colina, Disque 2, para a unidade de Colina, Disque 2, for English Press 3."
+        },
+        {
+            "order": 4,
+            "start": 120.0,
+            "end": 149.98,
+            "transcription": " A unidade de Colina, Disque 2, para a unidade de Colina, Disque 2, for English Press 3."
+        }
+    ],
+    "metrics": {
+        "total_words": 5,
+        "words_per_minute": 2.283452580301416,
+        "top_10_words": [
+            [
+                " a unidade de colina, disque 2, para a unidade de colina, disque 2, for english press 3.",
+                3
+            ],
+            [
+                " bem-vindo a suco rico citrus, para a unidade de araras, disque 1, para a unidade de colina, disque 2, for english press 3.",
+                1
+            ],
+            [
+                " a unidade de colina, disque 1, para a unidade de colina, disque 2, for english press 3.",
+                1
+            ]
+        ],
+        "magic_word_percentages": {
+            "obrigado": 0.0,
+            "obrigada": 0.0,
+            "por favor": 0.0,
+            "desculpa": 0.0,
+            "desculpe": 0.0,
+            "por gentileza": 0.0,
+            "bom dia": 0.0,
+            "boa tarde": 0.0,
+            "boa noite": 0.0,
+            "agradeço": 0.0,
+            "agradece": 0.0,
+            "gratidão": 0.0,
+            "sinto muito": 0.0,
+            "perdão": 0.0,
+            "me perdoe": 0.0,
+            "com licença": 0.0
+        }
+    }
+}

@@ -1,0 +1,401 @@
+{
+    "prompt": "Essa é uma transcrição de uma ligação para avialiação de NPS da empresa TOTVS.",
+    "model": "large-v3",
+    "audio_path": "audio_samples/2968175.wav",
+    "transcription": [
+        {
+            "order": 0,
+            "start": 0.0,
+            "end": 4.36,
+            "transcription": " Alô?"
+        },
+        {
+            "order": 1,
+            "start": 5.16,
+            "end": 7.8,
+            "transcription": " Alô, boa tarde. É Lília da TOTVS. Eu falo com o Eduardo?"
+        },
+        {
+            "order": 2,
+            "start": 8.94,
+            "end": 10.1,
+            "transcription": " Isso. Desculpa, quem fala?"
+        },
+        {
+            "order": 3,
+            "start": 10.42,
+            "end": 14.36,
+            "transcription": " É Lília da empresa TOTVS. Senhor Eduardo, o senhor é UTI da empresa Amaral Biaso?"
+        },
+        {
+            "order": 4,
+            "start": 15.780000000000001,
+            "end": 17.580000000000002,
+            "transcription": " Sim, eu trabalho no UTI também."
+        },
+        {
+            "order": 5,
+            "start": 18.42,
+            "end": 21.26,
+            "transcription": " Ah, ótimo. Eu sou do departamento Voz do Cliente da TOTVS."
+        },
+        {
+            "order": 6,
+            "start": 21.32,
+            "end": 25.240000000000002,
+            "transcription": " Eu estou ligando para fazer o NPS, que é uma avaliação geral. Tem dois minutos?"
+        },
+        {
+            "order": 7,
+            "start": 25.240000000000002,
+            "end": 31.6,
+            "transcription": " Tenho, tenho. Cadê? Eu estou no meio de uma reunião, mas se for dois minutos só, eu tenho."
+        },
+        {
+            "order": 8,
+            "start": 32.24,
+            "end": 35.800000000000004,
+            "transcription": " Isso, são dois minutos e perguntas de 0 a 10. Eu vou confirmar o final do CNPJ."
+        },
+        {
+            "order": 9,
+            "start": 35.92,
+            "end": 37.42,
+            "transcription": " É o meu controle 1? Confirmo?"
+        },
+        {
+            "order": 10,
+            "start": 38.56,
+            "end": 39.28,
+            "transcription": " Sim, sim."
+        },
+        {
+            "order": 11,
+            "start": 39.72,
+            "end": 45.42,
+            "transcription": " Ok, iniciando. De uma escala de 0 a 10, qual a probabilidade do senhor recomendar a marca TOTVS a alguém hoje no geral?"
+        },
+        {
+            "order": 12,
+            "start": 47.86,
+            "end": 48.22,
+            "transcription": " Sete."
+        },
+        {
+            "order": 13,
+            "start": 48.8,
+            "end": 51.94,
+            "transcription": " Sete. Suporte técnico, uma nota para agilidade nos processos?"
+        },
+        {
+            "order": 14,
+            "start": 54.74,
+            "end": 55.18000000000001,
+            "transcription": " Oito."
+        },
+        {
+            "order": 15,
+            "start": 55.760000000000005,
+            "end": 58.24,
+            "transcription": " Oito. E o atendimento em si dos agentes do suporte?"
+        },
+        {
+            "order": 16,
+            "start": 58.92,
+            "end": 59.32,
+            "transcription": " Oito."
+        },
+        {
+            "order": 17,
+            "start": 60.24,
+            "end": 62.22,
+            "transcription": " Atendimento do executivo de vendas comercial?"
+        },
+        {
+            "order": 18,
+            "start": 63.6,
+            "end": 66.24000000000001,
+            "transcription": " Eu não tenho contato. Acho que eu não posso avaliar isso."
+        },
+        {
+            "order": 19,
+            "start": 66.24000000000001,
+            "end": 69.24000000000001,
+            "transcription": " A gente pula. Atendimento administrativo e financeiro?"
+        },
+        {
+            "order": 20,
+            "start": 70.22,
+            "end": 71.34,
+            "transcription": " Também não tenho contato."
+        },
+        {
+            "order": 21,
+            "start": 72.0,
+            "end": 76.62,
+            "transcription": " Consegue avaliar os custos e os valores, sua satisfação dos custos dos produtos?"
+        },
+        {
+            "order": 22,
+            "start": 77.06,
+            "end": 77.72,
+            "transcription": " Também não."
+        },
+        {
+            "order": 23,
+            "start": 78.76,
+            "end": 82.0,
+            "transcription": " Se o senhor participou da implantação, uma nota para sua satisfação?"
+        },
+        {
+            "order": 24,
+            "start": 85.24,
+            "end": 86.88,
+            "transcription": " Acho que oito também."
+        },
+        {
+            "order": 25,
+            "start": 87.36,
+            "end": 88.88,
+            "transcription": " Oito. Mais três perguntas."
+        },
+        {
+            "order": 26,
+            "start": 88.96,
+            "end": 94.69999999999999,
+            "transcription": " O programa que vocês estão usando atende à necessidade da empresa total, atende parcial ou não atende?"
+        },
+        {
+            "order": 27,
+            "start": 96.64,
+            "end": 97.28,
+            "transcription": " Parcial."
+        },
+        {
+            "order": 28,
+            "start": 98.17999999999999,
+            "end": 100.52,
+            "transcription": " Parcial. Uma nota para as atualizações?"
+        },
+        {
+            "order": 29,
+            "start": 102.34,
+            "end": 102.97999999999999,
+            "transcription": " Oito."
+        },
+        {
+            "order": 30,
+            "start": 103.84,
+            "end": 107.5,
+            "transcription": " Oito. E última pergunta para avaliar a unidade TOTVS de juritis?"
+        },
+        {
+            "order": 31,
+            "start": 110.91999999999999,
+            "end": 112.52,
+            "transcription": " Qual que é a pergunta? Desculpa."
+        },
+        {
+            "order": 32,
+            "start": 112.52,
+            "end": 115.22,
+            "transcription": " É para avaliar a unidade TOTVS?"
+        },
+        {
+            "order": 33,
+            "start": 115.24000000000001,
+            "end": 118.52000000000001,
+            "transcription": " A unidade que presta serviço para a empresa de advocacia, que é o juritis."
+        },
+        {
+            "order": 34,
+            "start": 119.26,
+            "end": 119.82000000000001,
+            "transcription": " Certo."
+        },
+        {
+            "order": 35,
+            "start": 120.12,
+            "end": 121.06,
+            "transcription": " Tem contato com alguém de lá?"
+        },
+        {
+            "order": 36,
+            "start": 126.86000000000001,
+            "end": 129.02,
+            "transcription": " Se diz da juritis, tenho."
+        },
+        {
+            "order": 37,
+            "start": 130.74,
+            "end": 131.68,
+            "transcription": " Uma nota."
+        },
+        {
+            "order": 38,
+            "start": 132.76000000000002,
+            "end": 134.44,
+            "transcription": " Uma nota para avaliar isso?"
+        },
+        {
+            "order": 39,
+            "start": 135.24,
+            "end": 136.32000000000002,
+            "transcription": " Oito também."
+        },
+        {
+            "order": 40,
+            "start": 136.78,
+            "end": 138.14000000000001,
+            "transcription": " Oito. Certo. É isso."
+        },
+        {
+            "order": 41,
+            "start": 138.22,
+            "end": 140.56,
+            "transcription": " Teria alguma reclamação, sugestão, elogio?"
+        },
+        {
+            "order": 42,
+            "start": 141.22,
+            "end": 142.60000000000002,
+            "transcription": " Não. Da minha parte, não."
+        },
+        {
+            "order": 43,
+            "start": 142.60000000000002,
+            "end": 143.96,
+            "transcription": " Não. Tá bem."
+        },
+        {
+            "order": 44,
+            "start": 144.06,
+            "end": 145.22,
+            "transcription": " Só vou confirmar o e-mail também."
+        },
+        {
+            "order": 45,
+            "start": 145.24,
+            "end": 146.84,
+            "transcription": " É Edu... Ah, é Eduard."
+        },
+        {
+            "order": 46,
+            "start": 147.02,
+            "end": 147.66,
+            "transcription": " É Eduard."
+        },
+        {
+            "order": 47,
+            "start": 147.8,
+            "end": 148.24,
+            "transcription": " É Eduard."
+        },
+        {
+            "order": 48,
+            "start": 148.24,
+            "end": 150.22,
+            "transcription": " Ah, tá. Eduard. Eduard."
+        },
+        {
+            "order": 49,
+            "start": 150.32000000000002,
+            "end": 153.56,
+            "transcription": " Eduard Souza, arroba ASBZ.com.br."
+        },
+        {
+            "order": 50,
+            "start": 153.72,
+            "end": 154.08,
+            "transcription": " Isso."
+        },
+        {
+            "order": 51,
+            "start": 154.24,
+            "end": 156.82000000000002,
+            "transcription": " Isso? Tá bem. Obrigada, Eduard, pela atenção."
+        },
+        {
+            "order": 52,
+            "start": 156.98000000000002,
+            "end": 157.84,
+            "transcription": " Ótima tarde, viu?"
+        },
+        {
+            "order": 53,
+            "start": 157.84,
+            "end": 158.56,
+            "transcription": " Obrigado. Boa tarde."
+        },
+        {
+            "order": 54,
+            "start": 158.78,
+            "end": 159.02,
+            "transcription": " Tchau, tchau."
+        }
+    ],
+    "metrics": {
+        "total_words": 55,
+        "words_per_minute": 28.957528957528964,
+        "top_10_words": [
+            [
+                " oito.",
+                3
+            ],
+            [
+                " é eduard.",
+                2
+            ],
+            [
+                " alô?",
+                1
+            ],
+            [
+                " alô, boa tarde. é lília da totvs. eu falo com o eduardo?",
+                1
+            ],
+            [
+                " isso. desculpa, quem fala?",
+                1
+            ],
+            [
+                " é lília da empresa totvs. senhor eduardo, o senhor é uti da empresa amaral biaso?",
+                1
+            ],
+            [
+                " sim, eu trabalho no uti também.",
+                1
+            ],
+            [
+                " ah, ótimo. eu sou do departamento voz do cliente da totvs.",
+                1
+            ],
+            [
+                " eu estou ligando para fazer o nps, que é uma avaliação geral. tem dois minutos?",
+                1
+            ],
+            [
+                " tenho, tenho. cadê? eu estou no meio de uma reunião, mas se for dois minutos só, eu tenho.",
+                1
+            ]
+        ],
+        "magic_word_percentages": {
+            "obrigado": 0.0,
+            "obrigada": 0.0,
+            "por favor": 0.0,
+            "desculpa": 0.0,
+            "desculpe": 0.0,
+            "por gentileza": 0.0,
+            "bom dia": 0.0,
+            "boa tarde": 0.0,
+            "boa noite": 0.0,
+            "agradeço": 0.0,
+            "agradece": 0.0,
+            "gratidão": 0.0,
+            "sinto muito": 0.0,
+            "perdão": 0.0,
+            "me perdoe": 0.0,
+            "com licença": 0.0
+        }
+    }
+}

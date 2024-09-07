@@ -1,0 +1,179 @@
+{
+    "prompt": "Essa é uma transcrição de uma ligação para avialiação de NPS da empresa TOTVS.",
+    "model": "large-v3",
+    "audio_path": "audio_samples/2964097.wav",
+    "transcription": [
+        {
+            "order": 0,
+            "start": 0.0,
+            "end": 17.0,
+            "transcription": " Legou para freme, digite o ramal desejado ou 2 para comercial, 3 para fax, 4 para compras, 5 para fiscal, 6 para financeiro ou aguarde para ser atendido."
+        },
+        {
+            "order": 1,
+            "start": 30.0,
+            "end": 59.980000000000004,
+            "transcription": " Legou para freme, digite o ramal desejado ou 2 para comercial, 3 para fax, 4 para comercial, 6 para comercial."
+        },
+        {
+            "order": 2,
+            "start": 60.0,
+            "end": 63.16,
+            "transcription": " Eu consigo falar com ele ainda hoje ou somente amanhã?"
+        },
+        {
+            "order": 3,
+            "start": 63.72,
+            "end": 71.58,
+            "transcription": " Eu acho que hoje eu acredito que não. Você quer mandar um e-mail para adiantar o assunto, alguma coisa assim?"
+        },
+        {
+            "order": 4,
+            "start": 71.98,
+            "end": 73.52,
+            "transcription": " Sim, qual que é o e-mail dele?"
+        },
+        {
+            "order": 5,
+            "start": 75.2,
+            "end": 77.28,
+            "transcription": " É Fernando mesmo o nome dele."
+        },
+        {
+            "order": 6,
+            "start": 77.78,
+            "end": 78.4,
+            "transcription": " Certo."
+        },
+        {
+            "order": 7,
+            "start": 78.88,
+            "end": 83.26,
+            "transcription": " Fernando arroba freme.com.br"
+        },
+        {
+            "order": 8,
+            "start": 83.26,
+            "end": 85.72,
+            "transcription": " Arroba freme.com.br?"
+        },
+        {
+            "order": 9,
+            "start": 86.06,
+            "end": 86.68,
+            "transcription": " Isso."
+        },
+        {
+            "order": 10,
+            "start": 87.02,
+            "end": 89.88,
+            "transcription": " Ah, tudo bem então. Eu retorno contato com ele através dele."
+        },
+        {
+            "order": 11,
+            "start": 90.0,
+            "end": 92.86,
+            "transcription": " O e-mail, caso ele não me responda, eu retorno amanhã com vocês, tá bom?"
+        },
+        {
+            "order": 12,
+            "start": 93.2,
+            "end": 93.96,
+            "transcription": " Tá certo."
+        },
+        {
+            "order": 13,
+            "start": 94.52,
+            "end": 95.9,
+            "transcription": " Tá bom então, obrigada, viu?"
+        },
+        {
+            "order": 14,
+            "start": 96.28,
+            "end": 97.3,
+            "transcription": " Eu que agradeço."
+        },
+        {
+            "order": 15,
+            "start": 97.56,
+            "end": 97.94,
+            "transcription": " Tchau, tchau."
+        },
+        {
+            "order": 16,
+            "start": 98.38,
+            "end": 98.86,
+            "transcription": " Tchau, tchau."
+        },
+        {
+            "order": 17,
+            "start": 101.98,
+            "end": 102.98,
+            "transcription": " Tchau."
+        }
+    ],
+    "metrics": {
+        "total_words": 18,
+        "words_per_minute": 13.426156141223272,
+        "top_10_words": [
+            [
+                " tchau, tchau.",
+                2
+            ],
+            [
+                " legou para freme, digite o ramal desejado ou 2 para comercial, 3 para fax, 4 para compras, 5 para fiscal, 6 para financeiro ou aguarde para ser atendido.",
+                1
+            ],
+            [
+                " legou para freme, digite o ramal desejado ou 2 para comercial, 3 para fax, 4 para comercial, 6 para comercial.",
+                1
+            ],
+            [
+                " eu consigo falar com ele ainda hoje ou somente amanhã?",
+                1
+            ],
+            [
+                " eu acho que hoje eu acredito que não. você quer mandar um e-mail para adiantar o assunto, alguma coisa assim?",
+                1
+            ],
+            [
+                " sim, qual que é o e-mail dele?",
+                1
+            ],
+            [
+                " é fernando mesmo o nome dele.",
+                1
+            ],
+            [
+                " certo.",
+                1
+            ],
+            [
+                " fernando arroba freme.com.br",
+                1
+            ],
+            [
+                " arroba freme.com.br?",
+                1
+            ]
+        ],
+        "magic_word_percentages": {
+            "obrigado": 0.0,
+            "obrigada": 0.0,
+            "por favor": 0.0,
+            "desculpa": 0.0,
+            "desculpe": 0.0,
+            "por gentileza": 0.0,
+            "bom dia": 0.0,
+            "boa tarde": 0.0,
+            "boa noite": 0.0,
+            "agradeço": 0.0,
+            "agradece": 0.0,
+            "gratidão": 0.0,
+            "sinto muito": 0.0,
+            "perdão": 0.0,
+            "me perdoe": 0.0,
+            "com licença": 0.0
+        }
+    }
+}

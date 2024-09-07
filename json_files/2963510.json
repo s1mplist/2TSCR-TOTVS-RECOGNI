@@ -1,0 +1,239 @@
+{
+    "prompt": "Essa é uma transcrição de uma ligação para avialiação de NPS da empresa TOTVS.",
+    "model": "large-v3",
+    "audio_path": "audio_samples/2963510.wav",
+    "transcription": [
+        {
+            "order": 0,
+            "start": 0.0,
+            "end": 6.08,
+            "transcription": " Você ligou para a Sanquímica. É um prazer atendê-lo."
+        },
+        {
+            "order": 1,
+            "start": 6.32,
+            "end": 8.74,
+            "transcription": " Para falar na área comercial, digite 1."
+        },
+        {
+            "order": 2,
+            "start": 8.98,
+            "end": 9.84,
+            "transcription": " Compras, 2."
+        },
+        {
+            "order": 3,
+            "start": 10.200000000000001,
+            "end": 11.32,
+            "transcription": " Faturamento, 3."
+        },
+        {
+            "order": 4,
+            "start": 11.68,
+            "end": 12.74,
+            "transcription": " Laboratório, 4."
+        },
+        {
+            "order": 5,
+            "start": 13.06,
+            "end": 14.16,
+            "transcription": " Produção, 5."
+        },
+        {
+            "order": 6,
+            "start": 14.48,
+            "end": 16.6,
+            "transcription": " Financeiro Administrativo, 6."
+        },
+        {
+            "order": 7,
+            "start": 16.86,
+            "end": 18.0,
+            "transcription": " Ou aguarde atendimento."
+        },
+        {
+            "order": 8,
+            "start": 18.240000000000002,
+            "end": 18.8,
+            "transcription": " Obrigada."
+        },
+        {
+            "order": 9,
+            "start": 30.0,
+            "end": 34.7,
+            "transcription": " Sanquímica, Vitória, boa tarde."
+        },
+        {
+            "order": 10,
+            "start": 35.06,
+            "end": 37.26,
+            "transcription": " Boa tarde, Vitória. Beatriz da TOTV falando."
+        },
+        {
+            "order": 11,
+            "start": 37.26,
+            "end": 39.16,
+            "transcription": " Gostaria de falar com o Sr. Moisés Duarte."
+        },
+        {
+            "order": 12,
+            "start": 40.28,
+            "end": 40.76,
+            "transcription": " Oi?"
+        },
+        {
+            "order": 13,
+            "start": 41.28,
+            "end": 44.28,
+            "transcription": " Eu gostaria de falar com o Sr. Moisés Duarte. Ele se encontra?"
+        },
+        {
+            "order": 14,
+            "start": 46.879999999999995,
+            "end": 47.879999999999995,
+            "transcription": " Só um minutinho."
+        },
+        {
+            "order": 15,
+            "start": 57.5,
+            "end": 58.5,
+            "transcription": " Para que seria?"
+        },
+        {
+            "order": 16,
+            "start": 58.5,
+            "end": 63.34,
+            "transcription": " Eu gostaria de fazer um acompanhamento referente ao sistema que vocês utilizam,"
+        },
+        {
+            "order": 17,
+            "start": 63.44,
+            "end": 65.78,
+            "transcription": " no caso, se for ele o responsável pelo sistema."
+        },
+        {
+            "order": 18,
+            "start": 72.9,
+            "end": 74.12,
+            "transcription": " Só um minutinho, tá?"
+        },
+        {
+            "order": 19,
+            "start": 74.88,
+            "end": 75.32,
+            "transcription": " Obrigada."
+        },
+        {
+            "order": 20,
+            "start": 88.5,
+            "end": 102.1,
+            "transcription": " Sanquímica, Luana."
+        },
+        {
+            "order": 21,
+            "start": 102.82,
+            "end": 104.98,
+            "transcription": " Boa tarde, Luana. Beatriz da TOTV falando."
+        },
+        {
+            "order": 22,
+            "start": 105.1,
+            "end": 107.7,
+            "transcription": " Gostaria de falar com o responsável pelo sistema na empresa."
+        },
+        {
+            "order": 23,
+            "start": 107.9,
+            "end": 110.38,
+            "transcription": " Seria o Sr. Moisés ou teria um outro responsável?"
+        },
+        {
+            "order": 24,
+            "start": 110.86,
+            "end": 112.86,
+            "transcription": " Ele não está na sala no momento."
+        },
+        {
+            "order": 25,
+            "start": 113.66,
+            "end": 116.34,
+            "transcription": " Não, entendi. Então, eu retorno o contato."
+        },
+        {
+            "order": 26,
+            "start": 116.34,
+            "end": 117.18,
+            "transcription": " Muito obrigada."
+        },
+        {
+            "order": 27,
+            "start": 117.28,
+            "end": 117.94,
+            "transcription": " Obrigada a você."
+        }
+    ],
+    "metrics": {
+        "total_words": 28,
+        "words_per_minute": 25.225225225225223,
+        "top_10_words": [
+            [
+                " obrigada.",
+                2
+            ],
+            [
+                " você ligou para a sanquímica. é um prazer atendê-lo.",
+                1
+            ],
+            [
+                " para falar na área comercial, digite 1.",
+                1
+            ],
+            [
+                " compras, 2.",
+                1
+            ],
+            [
+                " faturamento, 3.",
+                1
+            ],
+            [
+                " laboratório, 4.",
+                1
+            ],
+            [
+                " produção, 5.",
+                1
+            ],
+            [
+                " financeiro administrativo, 6.",
+                1
+            ],
+            [
+                " ou aguarde atendimento.",
+                1
+            ],
+            [
+                " sanquímica, vitória, boa tarde.",
+                1
+            ]
+        ],
+        "magic_word_percentages": {
+            "obrigado": 0.0,
+            "obrigada": 0.0,
+            "por favor": 0.0,
+            "desculpa": 0.0,
+            "desculpe": 0.0,
+            "por gentileza": 0.0,
+            "bom dia": 0.0,
+            "boa tarde": 0.0,
+            "boa noite": 0.0,
+            "agradeço": 0.0,
+            "agradece": 0.0,
+            "gratidão": 0.0,
+            "sinto muito": 0.0,
+            "perdão": 0.0,
+            "me perdoe": 0.0,
+            "com licença": 0.0
+        }
+    }
+}

@@ -1,0 +1,311 @@
+{
+    "prompt": "Essa é uma transcrição de uma ligação para avialiação de NPS da empresa TOTVS.",
+    "model": "large-v3",
+    "audio_path": "audio_samples/2965900.wav",
+    "transcription": [
+        {
+            "order": 0,
+            "start": 0.0,
+            "end": 5.14,
+            "transcription": " Obrigado por telefonar para o Blue Tree Premium Florianópolis."
+        },
+        {
+            "order": 1,
+            "start": 5.14,
+            "end": 18.900000000000002,
+            "transcription": " Para falar com a recepção digite 1, comercial 2, eventos 3, reservas 4, restaurante 5, financeiro 6 ou aguarde para ser atendido."
+        },
+        {
+            "order": 2,
+            "start": 30.0,
+            "end": 32.08,
+            "transcription": " Alô, bom dia."
+        },
+        {
+            "order": 3,
+            "start": 34.56,
+            "end": 36.9,
+            "transcription": " Recepção Victor, Hotel Blue Tree Florianópolis, bom dia."
+        },
+        {
+            "order": 4,
+            "start": 37.52,
+            "end": 42.9,
+            "transcription": " Bom dia, Beatriz da TOTVS falando. Gostaria de falar com o responsável pelo sistema na empresa?"
+        },
+        {
+            "order": 5,
+            "start": 43.56,
+            "end": 48.400000000000006,
+            "transcription": " Claro, perfeito. A gente tem sim o ID de passar para o setor de reservas, só que no momento eles estão ocupados."
+        },
+        {
+            "order": 6,
+            "start": 48.5,
+            "end": 53.7,
+            "transcription": " Eu tentei passar a senhora para lá, só que é o seguinte, a senhora conseguiria ligar daqui uns 10 minutinhos mais ou menos?"
+        },
+        {
+            "order": 7,
+            "start": 54.019999999999996,
+            "end": 57.519999999999996,
+            "transcription": " Daí, te passando talvez, e daí dê linha, daí a senhora consegue falar com eles, pode ser?"
+        },
+        {
+            "order": 8,
+            "start": 58.6,
+            "end": 59.980000000000004,
+            "transcription": " Entendi. Quem seria a responsável?"
+        },
+        {
+            "order": 9,
+            "start": 60.0,
+            "end": 61.86,
+            "transcription": " Sabe, a Dalgisa ou a Bárbara?"
+        },
+        {
+            "order": 10,
+            "start": 61.86,
+            "end": 64.64,
+            "transcription": " No momento, a senhora falaria com o Witter."
+        },
+        {
+            "order": 11,
+            "start": 65.74,
+            "end": 66.26,
+            "transcription": " Witter?"
+        },
+        {
+            "order": 12,
+            "start": 66.6,
+            "end": 67.12,
+            "transcription": " Witter."
+        },
+        {
+            "order": 13,
+            "start": 68.12,
+            "end": 68.6,
+            "transcription": " Witter?"
+        },
+        {
+            "order": 14,
+            "start": 68.96000000000001,
+            "end": 69.32,
+            "transcription": " Isso."
+        },
+        {
+            "order": 15,
+            "start": 69.38,
+            "end": 69.82,
+            "transcription": " Ah, tá."
+        },
+        {
+            "order": 16,
+            "start": 70.02,
+            "end": 70.72,
+            "transcription": " Witter ou a Witter."
+        },
+        {
+            "order": 17,
+            "start": 70.72,
+            "end": 70.88,
+            "transcription": " Tá bom."
+        },
+        {
+            "order": 18,
+            "start": 71.36,
+            "end": 76.88,
+            "transcription": " Mas, querida pergunta, tu não gostaria de algum outro meio, talvez o número de WhatsApp ou o e-mail deles?"
+        },
+        {
+            "order": 19,
+            "start": 77.62,
+            "end": 79.86,
+            "transcription": " Pode ser o número do telefone celular."
+        },
+        {
+            "order": 20,
+            "start": 79.96000000000001,
+            "end": 83.52,
+            "transcription": " Número do telefone, tá. Eu vou te passar o WhatsApp, peraí um momento."
+        },
+        {
+            "order": 21,
+            "start": 85.38,
+            "end": 86.78,
+            "transcription": " Daí o DDD48."
+        },
+        {
+            "order": 22,
+            "start": 87.56,
+            "end": 88.08,
+            "transcription": " Sim."
+        },
+        {
+            "order": 23,
+            "start": 88.4,
+            "end": 89.18,
+            "transcription": " Número 99."
+        },
+        {
+            "order": 24,
+            "start": 90.0,
+            "end": 92.0,
+            "transcription": " 671."
+        },
+        {
+            "order": 25,
+            "start": 92.0,
+            "end": 92.12,
+            "transcription": " 671."
+        },
+        {
+            "order": 26,
+            "start": 93.68,
+            "end": 94.12,
+            "transcription": " 671."
+        },
+        {
+            "order": 27,
+            "start": 94.66,
+            "end": 95.1,
+            "transcription": " 0810."
+        },
+        {
+            "order": 28,
+            "start": 96.64,
+            "end": 97.08,
+            "transcription": " 0810."
+        },
+        {
+            "order": 29,
+            "start": 98.1,
+            "end": 101.3,
+            "transcription": " 996710810, né? Esse número eu falo com quem?"
+        },
+        {
+            "order": 30,
+            "start": 101.44,
+            "end": 103.58,
+            "transcription": " Daí tu provavelmente vai falar com a Anne ou com o Witter."
+        },
+        {
+            "order": 31,
+            "start": 105.18,
+            "end": 106.62,
+            "transcription": " Anne ou com o Ita?"
+        },
+        {
+            "order": 32,
+            "start": 106.98,
+            "end": 107.38,
+            "transcription": " Witter."
+        },
+        {
+            "order": 33,
+            "start": 107.84,
+            "end": 110.96000000000001,
+            "transcription": " Winter. Pensa em Winter em inglês. Daí é Witter."
+        },
+        {
+            "order": 34,
+            "start": 111.74000000000001,
+            "end": 112.18,
+            "transcription": " Parecido."
+        },
+        {
+            "order": 35,
+            "start": 112.2,
+            "end": 112.48,
+            "transcription": " Witter."
+        },
+        {
+            "order": 36,
+            "start": 113.42,
+            "end": 113.6,
+            "transcription": " Tá."
+        },
+        {
+            "order": 37,
+            "start": 114.92,
+            "end": 115.36,
+            "transcription": " Obrigada."
+        },
+        {
+            "order": 38,
+            "start": 115.36,
+            "end": 116.9,
+            "transcription": " De nada, querida. Boa sorte. Até."
+        },
+        {
+            "order": 39,
+            "start": 116.9,
+            "end": 117.52,
+            "transcription": " Tchau."
+        }
+    ],
+    "metrics": {
+        "total_words": 40,
+        "words_per_minute": 29.02055622732771,
+        "top_10_words": [
+            [
+                " witter.",
+                3
+            ],
+            [
+                " 671.",
+                3
+            ],
+            [
+                " witter?",
+                2
+            ],
+            [
+                " 0810.",
+                2
+            ],
+            [
+                " obrigado por telefonar para o blue tree premium florianópolis.",
+                1
+            ],
+            [
+                " para falar com a recepção digite 1, comercial 2, eventos 3, reservas 4, restaurante 5, financeiro 6 ou aguarde para ser atendido.",
+                1
+            ],
+            [
+                " alô, bom dia.",
+                1
+            ],
+            [
+                " recepção victor, hotel blue tree florianópolis, bom dia.",
+                1
+            ],
+            [
+                " bom dia, beatriz da totvs falando. gostaria de falar com o responsável pelo sistema na empresa?",
+                1
+            ],
+            [
+                " claro, perfeito. a gente tem sim o id de passar para o setor de reservas, só que no momento eles estão ocupados.",
+                1
+            ]
+        ],
+        "magic_word_percentages": {
+            "obrigado": 0.0,
+            "obrigada": 0.0,
+            "por favor": 0.0,
+            "desculpa": 0.0,
+            "desculpe": 0.0,
+            "por gentileza": 0.0,
+            "bom dia": 0.0,
+            "boa tarde": 0.0,
+            "boa noite": 0.0,
+            "agradeço": 0.0,
+            "agradece": 0.0,
+            "gratidão": 0.0,
+            "sinto muito": 0.0,
+            "perdão": 0.0,
+            "me perdoe": 0.0,
+            "com licença": 0.0
+        }
+    }
+}

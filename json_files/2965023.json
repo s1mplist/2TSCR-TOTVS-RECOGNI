@@ -1,0 +1,135 @@
+{
+    "prompt": "Essa é uma transcrição de uma ligação para avialiação de NPS da empresa TOTVS.",
+    "model": "large-v3",
+    "audio_path": "audio_samples/2965023.wav",
+    "transcription": [
+        {
+            "order": 0,
+            "start": 0.0,
+            "end": 29.98,
+            "transcription": " A transcrição de uma ligação para avialiação de NPS da empresa TOTVS"
+        },
+        {
+            "order": 1,
+            "start": 30.0,
+            "end": 59.980000000000004,
+            "transcription": " A transcrição de uma ligação para avialiação de NPS da empresa TOTVS"
+        },
+        {
+            "order": 2,
+            "start": 60.0,
+            "end": 89.98,
+            "transcription": " A transcrição de uma ligação para avialiação de NPS da empresa TOTVS"
+        },
+        {
+            "order": 3,
+            "start": 90.0,
+            "end": 119.98,
+            "transcription": " A transcrição de uma ligação para avialiação de NPS da empresa TOTVS"
+        },
+        {
+            "order": 4,
+            "start": 120.0,
+            "end": 149.86,
+            "transcription": " A transcrição de uma ligação para avialiação de NPS da empresa TOTVS"
+        },
+        {
+            "order": 5,
+            "start": 149.86,
+            "end": 149.98,
+            "transcription": " A transcrição de uma ligação para avialiação de NPS da empresa TOTVS"
+        },
+        {
+            "order": 6,
+            "start": 150.0,
+            "end": 161.96,
+            "transcription": " A transcrição de uma ligação para avialiação de NPS da empresa TOTVS"
+        },
+        {
+            "order": 7,
+            "start": 161.96,
+            "end": 161.98,
+            "transcription": " A transcrição de uma ligação para avialiação de NPS da empresa TOTVS"
+        },
+        {
+            "order": 8,
+            "start": 161.98,
+            "end": 162.02,
+            "transcription": " A transcrição de uma ligação para avialiação de NPS da empresa TOTVS"
+        },
+        {
+            "order": 9,
+            "start": 162.02,
+            "end": 162.04,
+            "transcription": " A transcrição de uma ligação para avialiação de NPS da empresa TOTVS"
+        },
+        {
+            "order": 10,
+            "start": 162.04,
+            "end": 162.06,
+            "transcription": " A transcrição de uma ligação para avialiação de NPS da empresa TOTVS"
+        },
+        {
+            "order": 11,
+            "start": 162.06,
+            "end": 162.1,
+            "transcription": " A transcrição de uma ligação para avialiação de NPS da empresa TOTVS"
+        },
+        {
+            "order": 12,
+            "start": 162.1,
+            "end": 162.16,
+            "transcription": " A transcrição de uma ligação para avialiação de NPS da empresa TOTVS"
+        },
+        {
+            "order": 13,
+            "start": 162.16,
+            "end": 162.2,
+            "transcription": " A transcrição de uma ligação para avialiação de NPS da empresa TOTVS"
+        },
+        {
+            "order": 14,
+            "start": 162.2,
+            "end": 162.26,
+            "transcription": " A transcrição de uma ligação para avialiação de NPS da empresa TOTVS"
+        },
+        {
+            "order": 15,
+            "start": 162.26,
+            "end": 162.54,
+            "transcription": " Tchau, tchau."
+        }
+    ],
+    "metrics": {
+        "total_words": 16,
+        "words_per_minute": 5.9098744151686775,
+        "top_10_words": [
+            [
+                " a transcrição de uma ligação para avialiação de nps da empresa totvs",
+                15
+            ],
+            [
+                " tchau, tchau.",
+                1
+            ]
+        ],
+        "magic_word_percentages": {
+            "obrigado": 0.0,
+            "obrigada": 0.0,
+            "por favor": 0.0,
+            "desculpa": 0.0,
+            "desculpe": 0.0,
+            "por gentileza": 0.0,
+            "bom dia": 0.0,
+            "boa tarde": 0.0,
+            "boa noite": 0.0,
+            "agradeço": 0.0,
+            "agradece": 0.0,
+            "gratidão": 0.0,
+            "sinto muito": 0.0,
+            "perdão": 0.0,
+            "me perdoe": 0.0,
+            "com licença": 0.0
+        }
+    }
+}

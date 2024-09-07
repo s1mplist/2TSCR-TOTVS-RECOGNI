@@ -1,0 +1,287 @@
+{
+    "prompt": "Essa é uma transcrição de uma ligação para avialiação de NPS da empresa TOTVS.",
+    "model": "large-v3",
+    "audio_path": "audio_samples/2962184.wav",
+    "transcription": [
+        {
+            "order": 0,
+            "start": 0.0,
+            "end": 4.8,
+            "transcription": " Bom dia, meu nome é Lilian, eu falo da TOTVS."
+        },
+        {
+            "order": 1,
+            "start": 4.8,
+            "end": 7.640000000000001,
+            "transcription": " Eu gostaria de falar com alguém responsável pelo sistema, ou Larissa?"
+        },
+        {
+            "order": 2,
+            "start": 8.88,
+            "end": 10.86,
+            "transcription": " Sim, só um minutinho. Qual que é o teu nome?"
+        },
+        {
+            "order": 3,
+            "start": 11.36,
+            "end": 13.040000000000001,
+            "transcription": " Lilian, da TOTVS."
+        },
+        {
+            "order": 4,
+            "start": 30.0,
+            "end": 39.2,
+            "transcription": " Desculpa, sobre o que é que tu precisa falar?"
+        },
+        {
+            "order": 5,
+            "start": 39.76,
+            "end": 40.68,
+            "transcription": " É uma avaliação."
+        },
+        {
+            "order": 6,
+            "start": 41.9,
+            "end": 43.36,
+            "transcription": " A avaliação do que que seria?"
+        },
+        {
+            "order": 7,
+            "start": 43.84,
+            "end": 45.1,
+            "transcription": " Do sistema da TOTVS."
+        },
+        {
+            "order": 8,
+            "start": 47.54,
+            "end": 49.82,
+            "transcription": " Sim, tu não consegue mandar por e-mail, talvez?"
+        },
+        {
+            "order": 9,
+            "start": 51.16,
+            "end": 54.260000000000005,
+            "transcription": " Eu tento, mas só que ela é a responsável mesmo?"
+        },
+        {
+            "order": 10,
+            "start": 55.260000000000005,
+            "end": 57.14,
+            "transcription": " Pra qual e-mail que tu encaminha?"
+        },
+        {
+            "order": 11,
+            "start": 57.14,
+            "end": 58.14,
+            "transcription": " É larissa.copate."
+        },
+        {
+            "order": 12,
+            "start": 59.42,
+            "end": 59.980000000000004,
+            "transcription": " Sim, é que..."
+        },
+        {
+            "order": 13,
+            "start": 59.980000000000004,
+            "end": 66.64,
+            "transcription": " Como a gente não usa mais o sistema, acredito que ela acabou não vendo o e-mail."
+        },
+        {
+            "order": 14,
+            "start": 66.80000000000001,
+            "end": 68.18,
+            "transcription": " Tu quer mandar pra outro, talvez?"
+        },
+        {
+            "order": 15,
+            "start": 71.14,
+            "end": 74.14,
+            "transcription": " Não usa mais o sistema, mas o sistema tá ativo aqui no cadastro."
+        },
+        {
+            "order": 16,
+            "start": 75.44,
+            "end": 79.84,
+            "transcription": " Deixa eu verificar, porque a gente tá com outro sistema agora, a gente não usa mais esse."
+        },
+        {
+            "order": 17,
+            "start": 80.26,
+            "end": 85.24000000000001,
+            "transcription": " É, tem alguns módulos apenas no Proteus, do financeiro e compras."
+        },
+        {
+            "order": 18,
+            "start": 86.46000000000001,
+            "end": 88.46000000000001,
+            "transcription": " Sim, deixa eu verificar, só um minutinho."
+        },
+        {
+            "order": 19,
+            "start": 88.46000000000001,
+            "end": 89.30000000000001,
+            "transcription": " Ok."
+        },
+        {
+            "order": 20,
+            "start": 89.98,
+            "end": 107.18,
+            "transcription": " Música"
+        },
+        {
+            "order": 21,
+            "start": 107.18,
+            "end": 108.52000000000001,
+            "transcription": " Oi?"
+        },
+        {
+            "order": 22,
+            "start": 109.12,
+            "end": 109.54,
+            "transcription": " Oi?"
+        },
+        {
+            "order": 23,
+            "start": 109.92,
+            "end": 110.34,
+            "transcription": " É quem?"
+        },
+        {
+            "order": 24,
+            "start": 111.10000000000001,
+            "end": 112.48,
+            "transcription": " É Lília da TOTVS com quem eu falo?"
+        },
+        {
+            "order": 25,
+            "start": 112.78,
+            "end": 114.32000000000001,
+            "transcription": " É Larissa, Lílian. Tudo bem?"
+        },
+        {
+            "order": 26,
+            "start": 114.5,
+            "end": 115.46000000000001,
+            "transcription": " Tudo bem, e você?"
+        },
+        {
+            "order": 27,
+            "start": 115.46000000000001,
+            "end": 115.5,
+            "transcription": " Tudo."
+        },
+        {
+            "order": 28,
+            "start": 116.38000000000001,
+            "end": 119.46000000000001,
+            "transcription": " Olha só, a gente não trabalha mais com o software da TOTVS."
+        },
+        {
+            "order": 29,
+            "start": 119.98,
+            "end": 128.14000000000001,
+            "transcription": " Nós apenas temos a licença para consultar o que a gente já havia colocado nele, tá?"
+        },
+        {
+            "order": 30,
+            "start": 128.46,
+            "end": 131.38,
+            "transcription": " Ah, tá. Então, só está ativo por causa disso."
+        },
+        {
+            "order": 31,
+            "start": 131.5,
+            "end": 138.72,
+            "transcription": " Dei consulta, isso. Nós não temos mais acesso ao software daí para fora isso."
+        },
+        {
+            "order": 32,
+            "start": 139.42000000000002,
+            "end": 143.38,
+            "transcription": " Ah, então tá bom. Então, vou dar baixa aqui, Larissa. A senhora é responsável do ADM, né?"
+        },
+        {
+            "order": 33,
+            "start": 143.8,
+            "end": 144.32,
+            "transcription": " Isso."
+        },
+        {
+            "order": 34,
+            "start": 144.58,
+            "end": 146.24,
+            "transcription": " Tá bom. Obrigada pela atenção."
+        },
+        {
+            "order": 35,
+            "start": 146.26,
+            "end": 147.34,
+            "transcription": " Mais vinda. Tchau."
+        }
+    ],
+    "metrics": {
+        "total_words": 36,
+        "words_per_minute": 19.97780244173141,
+        "top_10_words": [
+            [
+                " oi?",
+                2
+            ],
+            [
+                " bom dia, meu nome é lilian, eu falo da totvs.",
+                1
+            ],
+            [
+                " eu gostaria de falar com alguém responsável pelo sistema, ou larissa?",
+                1
+            ],
+            [
+                " sim, só um minutinho. qual que é o teu nome?",
+                1
+            ],
+            [
+                " lilian, da totvs.",
+                1
+            ],
+            [
+                " desculpa, sobre o que é que tu precisa falar?",
+                1
+            ],
+            [
+                " é uma avaliação.",
+                1
+            ],
+            [
+                " a avaliação do que que seria?",
+                1
+            ],
+            [
+                " do sistema da totvs.",
+                1
+            ],
+            [
+                " sim, tu não consegue mandar por e-mail, talvez?",
+                1
+            ]
+        ],
+        "magic_word_percentages": {
+            "obrigado": 0.0,
+            "obrigada": 0.0,
+            "por favor": 0.0,
+            "desculpa": 0.0,
+            "desculpe": 0.0,
+            "por gentileza": 0.0,
+            "bom dia": 0.0,
+            "boa tarde": 0.0,
+            "boa noite": 0.0,
+            "agradeço": 0.0,
+            "agradece": 0.0,
+            "gratidão": 0.0,
+            "sinto muito": 0.0,
+            "perdão": 0.0,
+            "me perdoe": 0.0,
+            "com licença": 0.0
+        }
+    }
+}

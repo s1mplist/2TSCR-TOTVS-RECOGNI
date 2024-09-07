@@ -1,0 +1,77 @@
+{
+    "prompt": "Essa é uma transcrição de uma ligação para avialiação de NPS da empresa TOTVS.",
+    "model": "large-v3",
+    "audio_path": "audio_samples/2964611.wav",
+    "transcription": [
+        {
+            "order": 0,
+            "start": 0.0,
+            "end": 8.620000000000001,
+            "transcription": " Tarde. Conai. For English, press 7. Digite o ramal desejado ou aguarde para ser atendido."
+        },
+        {
+            "order": 1,
+            "start": 8.620000000000001,
+            "end": 38.6,
+            "transcription": " Tarde. Conai. For English, press 7. Digite o ramal desejado ou aguarde para ser atendido."
+        },
+        {
+            "order": 2,
+            "start": 38.62,
+            "end": 68.6,
+            "transcription": " Tarde. Conai. For English, press 7. Digite o ramal desejado ou aguarde para ser atendido."
+        },
+        {
+            "order": 3,
+            "start": 68.6,
+            "end": 68.62,
+            "transcription": " Tarde. Conai. For English, press 7. Digite o ramal desejado ou aguarde para ser atendido."
+        },
+        {
+            "order": 4,
+            "start": 68.62,
+            "end": 98.60000000000001,
+            "transcription": " Tarde. Conai. For English, press 7. Digite o ramal desejado ou aguarde para ser atendido."
+        },
+        {
+            "order": 5,
+            "start": 98.60000000000001,
+            "end": 128.58,
+            "transcription": " Tarde. Conai. For English, press 7. Digite o ramal desejado ou aguarde para ser atendido."
+        },
+        {
+            "order": 6,
+            "start": 128.6,
+            "end": 158.57999999999998,
+            "transcription": " Tarde. Conai. For English, press 7. Digite o ramal desejado ou aguarde para ser atendido."
+        }
+    ],
+    "metrics": {
+        "total_words": 7,
+        "words_per_minute": 2.6491737101047055,
+        "top_10_words": [
+            [
+                " tarde. conai. for english, press 7. digite o ramal desejado ou aguarde para ser atendido.",
+                7
+            ]
+        ],
+        "magic_word_percentages": {
+            "obrigado": 0.0,
+            "obrigada": 0.0,
+            "por favor": 0.0,
+            "desculpa": 0.0,
+            "desculpe": 0.0,
+            "por gentileza": 0.0,
+            "bom dia": 0.0,
+            "boa tarde": 0.0,
+            "boa noite": 0.0,
+            "agradeço": 0.0,
+            "agradece": 0.0,
+            "gratidão": 0.0,
+            "sinto muito": 0.0,
+            "perdão": 0.0,
+            "me perdoe": 0.0,
+            "com licença": 0.0
+        }
+    }
+}

@@ -1,0 +1,305 @@
+{
+    "prompt": "Essa é uma transcrição de uma ligação para avialiação de NPS da empresa TOTVS.",
+    "model": "large-v3",
+    "audio_path": "audio_samples/2963764.wav",
+    "transcription": [
+        {
+            "order": 0,
+            "start": 0.8,
+            "end": 2.4,
+            "transcription": " Ascom, Verônica, boa tarde."
+        },
+        {
+            "order": 1,
+            "start": 3.04,
+            "end": 5.5200000000000005,
+            "transcription": " Boa tarde, Verônica. Meu nome é Lili, eu falo da TOTVS."
+        },
+        {
+            "order": 2,
+            "start": 5.5200000000000005,
+            "end": 7.82,
+            "transcription": " Eu estou ligando para o PA7PEP Hotel."
+        },
+        {
+            "order": 3,
+            "start": 9.78,
+            "end": 13.620000000000001,
+            "transcription": " Não, mas seria sobre qual assunto?"
+        },
+        {
+            "order": 4,
+            "start": 13.76,
+            "end": 15.96,
+            "transcription": " Porque pode ser que a gente tenha aberto algum chamado."
+        },
+        {
+            "order": 5,
+            "start": 17.1,
+            "end": 19.38,
+            "transcription": " Eu precisava falar com alguém responsável da TI."
+        },
+        {
+            "order": 6,
+            "start": 20.78,
+            "end": 21.32,
+            "transcription": " Da TI?"
+        },
+        {
+            "order": 7,
+            "start": 21.92,
+            "end": 23.18,
+            "transcription": " É, para falar do sistema."
+        },
+        {
+            "order": 8,
+            "start": 24.400000000000002,
+            "end": 26.54,
+            "transcription": " Então seria lá no hotel mesmo."
+        },
+        {
+            "order": 9,
+            "start": 27.38,
+            "end": 29.48,
+            "transcription": " Você sabe quem foi que abriu o chamado?"
+        },
+        {
+            "order": 10,
+            "start": 29.48,
+            "end": 30.16,
+            "transcription": " Você tem o nome?"
+        },
+        {
+            "order": 11,
+            "start": 30.48,
+            "end": 32.56,
+            "transcription": " Não, não é chamado não, é uma avaliação."
+        },
+        {
+            "order": 12,
+            "start": 33.18,
+            "end": 33.8,
+            "transcription": " Uma avaliação?"
+        },
+        {
+            "order": 13,
+            "start": 34.28,
+            "end": 37.18,
+            "transcription": " Ah, então, é porque aqui na verdade é o escritório de contabilidade."
+        },
+        {
+            "order": 14,
+            "start": 37.86,
+            "end": 39.8,
+            "transcription": " Aí a gente só faz a contabilidade dos hotéis."
+        },
+        {
+            "order": 15,
+            "start": 40.72,
+            "end": 41.120000000000005,
+            "transcription": " Entendi."
+        },
+        {
+            "order": 16,
+            "start": 41.28,
+            "end": 44.760000000000005,
+            "transcription": " É porque como a gente abre chamadas às vezes, eu achei que fosse algum retorno de chamada."
+        },
+        {
+            "order": 17,
+            "start": 45.24,
+            "end": 45.64,
+            "transcription": " Entendi."
+        },
+        {
+            "order": 18,
+            "start": 45.78,
+            "end": 49.96,
+            "transcription": " O final do CNPJ, eu estou ligando para fazer a avaliação, estou ligando para todos os hotéis."
+        },
+        {
+            "order": 19,
+            "start": 50.14,
+            "end": 56.32,
+            "transcription": " Aí o hotel que eu estou tentando falar é o final do CNPJ 3000 contra 02 e o outro 2000 contra 21."
+        },
+        {
+            "order": 20,
+            "start": 56.46,
+            "end": 57.22,
+            "transcription": " Tem o telefone?"
+        },
+        {
+            "order": 21,
+            "start": 59.22,
+            "end": 59.46,
+            "transcription": " Sim."
+        },
+        {
+            "order": 22,
+            "start": 59.480000000000004,
+            "end": 62.080000000000005,
+            "transcription": " Porque eu ligando é o que está no cadastro."
+        },
+        {
+            "order": 23,
+            "start": 68.9,
+            "end": 73.08,
+            "transcription": " Eu vou passar o telefone para você, só que vai cair no hotel Santos Dumont."
+        },
+        {
+            "order": 24,
+            "start": 73.96000000000001,
+            "end": 76.08000000000001,
+            "transcription": " E daí você tem que falar com a controladoria, tá bom?"
+        },
+        {
+            "order": 25,
+            "start": 76.5,
+            "end": 76.9,
+            "transcription": " Tá bom."
+        },
+        {
+            "order": 26,
+            "start": 77.0,
+            "end": 79.98,
+            "transcription": " Vai cair na recepção do hotel e você pede para falar na controladoria."
+        },
+        {
+            "order": 27,
+            "start": 80.68,
+            "end": 88.96000000000001,
+            "transcription": " O DDD é 21-0-3-5-0-6-85-0-0."
+        },
+        {
+            "order": 28,
+            "start": 89.48,
+            "end": 90.36,
+            "transcription": " Ah, já liguei."
+        },
+        {
+            "order": 29,
+            "start": 90.98,
+            "end": 92.54,
+            "transcription": " Não atende, não está atendendo."
+        },
+        {
+            "order": 30,
+            "start": 92.7,
+            "end": 93.54,
+            "transcription": " Vou tentar de novo então."
+        },
+        {
+            "order": 31,
+            "start": 93.54,
+            "end": 96.80000000000001,
+            "transcription": " É um pouquinho difícil mesmo falar com eles, mas vai tentando que na hora não serve."
+        },
+        {
+            "order": 32,
+            "start": 97.26,
+            "end": 97.98,
+            "transcription": " Tá bom então."
+        },
+        {
+            "order": 33,
+            "start": 98.0,
+            "end": 98.18,
+            "transcription": " Tá bom?"
+        },
+        {
+            "order": 34,
+            "start": 98.2,
+            "end": 98.84,
+            "transcription": " Muito obrigada pela atenção."
+        },
+        {
+            "order": 35,
+            "start": 98.84,
+            "end": 99.2,
+            "transcription": " Imagina."
+        },
+        {
+            "order": 36,
+            "start": 99.54,
+            "end": 99.76,
+            "transcription": " Tchau."
+        },
+        {
+            "order": 37,
+            "start": 99.76,
+            "end": 100.10000000000001,
+            "transcription": " Tchau, tchau."
+        },
+        {
+            "order": 38,
+            "start": 100.10000000000001,
+            "end": 100.18,
+            "transcription": " Tchau, tchau."
+        }
+    ],
+    "metrics": {
+        "total_words": 39,
+        "words_per_minute": 31.51939655172413,
+        "top_10_words": [
+            [
+                " entendi.",
+                2
+            ],
+            [
+                " tchau, tchau.",
+                2
+            ],
+            [
+                " ascom, verônica, boa tarde.",
+                1
+            ],
+            [
+                " boa tarde, verônica. meu nome é lili, eu falo da totvs.",
+                1
+            ],
+            [
+                " eu estou ligando para o pa7pep hotel.",
+                1
+            ],
+            [
+                " não, mas seria sobre qual assunto?",
+                1
+            ],
+            [
+                " porque pode ser que a gente tenha aberto algum chamado.",
+                1
+            ],
+            [
+                " eu precisava falar com alguém responsável da ti.",
+                1
+            ],
+            [
+                " da ti?",
+                1
+            ],
+            [
+                " é, para falar do sistema.",
+                1
+            ]
+        ],
+        "magic_word_percentages": {
+            "obrigado": 0.0,
+            "obrigada": 0.0,
+            "por favor": 0.0,
+            "desculpa": 0.0,
+            "desculpe": 0.0,
+            "por gentileza": 0.0,
+            "bom dia": 0.0,
+            "boa tarde": 0.0,
+            "boa noite": 0.0,
+            "agradeço": 0.0,
+            "agradece": 0.0,
+            "gratidão": 0.0,
+            "sinto muito": 0.0,
+            "perdão": 0.0,
+            "me perdoe": 0.0,
+            "com licença": 0.0
+        }
+    }
+}

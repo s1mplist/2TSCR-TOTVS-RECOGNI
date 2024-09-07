@@ -1,0 +1,91 @@
+{
+    "prompt": "Essa é uma transcrição de uma ligação para avialiação de NPS da empresa TOTVS.",
+    "model": "large-v3",
+    "audio_path": "audio_samples/2966892.wav",
+    "transcription": [
+        {
+            "order": 0,
+            "start": 0.0,
+            "end": 12.620000000000001,
+            "transcription": " Obrigada por chamar. Se você tem um telefone de toque, você pode entrar na extensão da pessoa que você gostaria de alcançar. Para uma diretoria de personalidade, clique 9. Se você precisa de ajuda, clique 0 ou permaneça na linha."
+        },
+        {
+            "order": 1,
+            "start": 16.44,
+            "end": 19.18,
+            "transcription": " Você está sendo transferido para o operador."
+        },
+        {
+            "order": 2,
+            "start": 19.18,
+            "end": 48.82,
+            "transcription": " Obrigada por chamar. Se você tem um telefone de toque, clique 9 ou permaneça na linha."
+        },
+        {
+            "order": 3,
+            "start": 49.18,
+            "end": 79.16,
+            "transcription": " Obrigada por chamar. Se você tem um telefone de toque, clique 9 ou permaneça na linha."
+        },
+        {
+            "order": 4,
+            "start": 79.18,
+            "end": 109.16000000000001,
+            "transcription": " Obrigada por chamar. Se você tem um telefone de toque, clique 9 ou permaneça na linha."
+        },
+        {
+            "order": 5,
+            "start": 109.18,
+            "end": 139.16,
+            "transcription": " Obrigada por chamar. Se você tem um telefone de toque, clique 9 ou permaneça na linha."
+        },
+        {
+            "order": 6,
+            "start": 139.18,
+            "end": 169.16,
+            "transcription": " Obrigada por chamar. Se você tem um telefone de toque, clique 9 ou permaneça na linha."
+        },
+        {
+            "order": 7,
+            "start": 169.18,
+            "end": 199.16,
+            "transcription": " Obrigada por chamar. Se você tem um telefone de toque, clique 9 ou permaneça na linha."
+        }
+    ],
+    "metrics": {
+        "total_words": 8,
+        "words_per_minute": 2.4628014366341717,
+        "top_10_words": [
+            [
+                " obrigada por chamar. se você tem um telefone de toque, clique 9 ou permaneça na linha.",
+                6
+            ],
+            [
+                " obrigada por chamar. se você tem um telefone de toque, você pode entrar na extensão da pessoa que você gostaria de alcançar. para uma diretoria de personalidade, clique 9. se você precisa de ajuda, clique 0 ou permaneça na linha.",
+                1
+            ],
+            [
+                " você está sendo transferido para o operador.",
+                1
+            ]
+        ],
+        "magic_word_percentages": {
+            "obrigado": 0.0,
+            "obrigada": 0.0,
+            "por favor": 0.0,
+            "desculpa": 0.0,
+            "desculpe": 0.0,
+            "por gentileza": 0.0,
+            "bom dia": 0.0,
+            "boa tarde": 0.0,
+            "boa noite": 0.0,
+            "agradeço": 0.0,
+            "agradece": 0.0,
+            "gratidão": 0.0,
+            "sinto muito": 0.0,
+            "perdão": 0.0,
+            "me perdoe": 0.0,
+            "com licença": 0.0
+        }
+    }
+}

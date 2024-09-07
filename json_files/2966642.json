@@ -1,0 +1,497 @@
+{
+    "prompt": "Essa é uma transcrição de uma ligação para avialiação de NPS da empresa TOTVS.",
+    "model": "large-v3",
+    "audio_path": "audio_samples/2966642.wav",
+    "transcription": [
+        {
+            "order": 0,
+            "start": 0.0,
+            "end": 4.18,
+            "transcription": " Bom dia. Fala com o Sr. Washington, Luiz."
+        },
+        {
+            "order": 1,
+            "start": 4.74,
+            "end": 5.0,
+            "transcription": " Sim."
+        },
+        {
+            "order": 2,
+            "start": 5.68,
+            "end": 8.5,
+            "transcription": " Sr. Washington, me chamo Beatriz, falo da TOTVS. Tudo bem?"
+        },
+        {
+            "order": 3,
+            "start": 9.18,
+            "end": 10.0,
+            "transcription": " Tudo bom, Beata."
+        },
+        {
+            "order": 4,
+            "start": 10.52,
+            "end": 16.080000000000002,
+            "transcription": " Tudo bem, obrigada. Sr. Washington, o senhor seria ainda responsável pelo sistema na Centro-Oeste Comercial de Alimentos da LTDA?"
+        },
+        {
+            "order": 5,
+            "start": 16.8,
+            "end": 17.16,
+            "transcription": " Sou."
+        },
+        {
+            "order": 6,
+            "start": 17.900000000000002,
+            "end": 18.38,
+            "transcription": " Ah, perfeito."
+        },
+        {
+            "order": 7,
+            "start": 18.76,
+            "end": 21.2,
+            "transcription": " Sou feliz e responsável aqui."
+        },
+        {
+            "order": 8,
+            "start": 21.94,
+            "end": 27.2,
+            "transcription": " Ah, que bom. Sr. Washington, eu preciso fazer um acompanhamento referente ao sistema que vocês utilizam."
+        },
+        {
+            "order": 9,
+            "start": 27.2,
+            "end": 28.82,
+            "transcription": " É bem rápido e simples, porém importante."
+        },
+        {
+            "order": 10,
+            "start": 28.82,
+            "end": 29.52,
+            "transcription": " É o CON5?"
+        },
+        {
+            "order": 11,
+            "start": 30.580000000000002,
+            "end": 34.480000000000004,
+            "transcription": " Isso. Para a gente saber como está a experiência e a satisfação de vocês, tá?"
+        },
+        {
+            "order": 12,
+            "start": 34.58,
+            "end": 36.34,
+            "transcription": " Estou tão feliz que dá vontade de chorar."
+        },
+        {
+            "order": 13,
+            "start": 37.26,
+            "end": 40.7,
+            "transcription": " Ah, entendi. Sr. Washington, há dois minutinhos, tá bom?"
+        },
+        {
+            "order": 14,
+            "start": 41.16,
+            "end": 42.42,
+            "transcription": " Tá bom, pode perguntar."
+        },
+        {
+            "order": 15,
+            "start": 42.96,
+            "end": 49.28,
+            "transcription": " Esse acompanhamento é feito pelo método de NPS, então o senhor vai avaliar somente de 0 a 10 alguns pontos que eu vou perguntar, tá bom?"
+        },
+        {
+            "order": 16,
+            "start": 49.760000000000005,
+            "end": 50.04,
+            "transcription": " Tá bom."
+        },
+        {
+            "order": 17,
+            "start": 51.260000000000005,
+            "end": 56.8,
+            "transcription": " Confirmando, então, se a NPS já está para iniciarmos, é o 24447-350-69, ok?"
+        },
+        {
+            "order": 18,
+            "start": 58.400000000000006,
+            "end": 58.8,
+            "transcription": " Ok."
+        },
+        {
+            "order": 19,
+            "start": 58.82,
+            "end": 64.02,
+            "transcription": " O e-mail do senhor continua o Washington, arroba tachicoweb.com.br?"
+        },
+        {
+            "order": 20,
+            "start": 64.36,
+            "end": 67.38,
+            "transcription": " Não, o Washington.cabral, arroba tachico.com.br."
+        },
+        {
+            "order": 21,
+            "start": 68.7,
+            "end": 70.62,
+            "transcription": " Ah, e não tem mais o Tachico Web, né?"
+        },
+        {
+            "order": 22,
+            "start": 70.98,
+            "end": 72.32,
+            "transcription": " Não, o seu nome me trocou."
+        },
+        {
+            "order": 23,
+            "start": 73.62,
+            "end": 75.82,
+            "transcription": " Tá, então, é o Washington.cabral..."
+        },
+        {
+            "order": 24,
+            "start": 77.1,
+            "end": 78.8,
+            "transcription": " Arroba tachico.com.br."
+        },
+        {
+            "order": 25,
+            "start": 82.46000000000001,
+            "end": 85.5,
+            "transcription": " Tá. Obrigada pela atualização, tá?"
+        },
+        {
+            "order": 26,
+            "start": 86.4,
+            "end": 88.7,
+            "transcription": " Iniciando, então, numa escala de 0 a 10, qual a proposta?"
+        },
+        {
+            "order": 27,
+            "start": 88.82000000000001,
+            "end": 92.64000000000001,
+            "transcription": " Qual a probabilidade do senhor recomendar a TOTUS a um amigo ou colega hoje, senhor Washington?"
+        },
+        {
+            "order": 28,
+            "start": 93.02000000000001,
+            "end": 93.74000000000001,
+            "transcription": " 10%."
+        },
+        {
+            "order": 29,
+            "start": 93.74000000000001,
+            "end": 96.02000000000001,
+            "transcription": " 10? Tá."
+        },
+        {
+            "order": 30,
+            "start": 96.44000000000001,
+            "end": 99.30000000000001,
+            "transcription": " Tem algum comentário que o senhor gostaria de deixar sobre a nota?"
+        },
+        {
+            "order": 31,
+            "start": 101.26,
+            "end": 101.74000000000001,
+            "transcription": " Não."
+        },
+        {
+            "order": 32,
+            "start": 101.74000000000001,
+            "end": 109.66000000000001,
+            "transcription": " Não? Tá. Então, para aprofundarmos um pouco mais na melhoria, agora vou falar alguns pontos específicos e peço que o senhor avalie também somente 0 a 10, tudo bem?"
+        },
+        {
+            "order": 33,
+            "start": 110.36000000000001,
+            "end": 110.56,
+            "transcription": " Tudo."
+        },
+        {
+            "order": 34,
+            "start": 111.32000000000001,
+            "end": 115.94000000000001,
+            "transcription": " Falando do suporte técnico, como o senhor avalia a agilidade nos processos do suporte técnico?"
+        },
+        {
+            "order": 35,
+            "start": 117.2,
+            "end": 118.46000000000001,
+            "transcription": " Lento pra cacete."
+        },
+        {
+            "order": 36,
+            "start": 118.82000000000001,
+            "end": 119.9,
+            "transcription": " Eu vou dar 2."
+        },
+        {
+            "order": 37,
+            "start": 120.88000000000001,
+            "end": 125.18,
+            "transcription": " Tá. Falando do atendimento dos agentes do suporte, os analistas que lidam com vocês?"
+        },
+        {
+            "order": 38,
+            "start": 127.44000000000001,
+            "end": 128.44,
+            "transcription": " Repete, me perdoa."
+        },
+        {
+            "order": 39,
+            "start": 128.44,
+            "end": 134.28,
+            "transcription": " O atendimento dos agentes do suporte técnico, né? Os analistas que lidam com vocês, em geral."
+        },
+        {
+            "order": 40,
+            "start": 135.92000000000002,
+            "end": 136.24,
+            "transcription": " 8."
+        },
+        {
+            "order": 41,
+            "start": 137.34,
+            "end": 141.24,
+            "transcription": " Falando em relação ao comercial, o atendimento do executivo de vendas de vocês?"
+        },
+        {
+            "order": 42,
+            "start": 142.66,
+            "end": 143.14000000000001,
+            "transcription": " Só um minutinho."
+        },
+        {
+            "order": 43,
+            "start": 144.26000000000002,
+            "end": 145.36,
+            "transcription": " 10. Comercial é 10?"
+        },
+        {
+            "order": 44,
+            "start": 146.22,
+            "end": 147.06,
+            "transcription": " Ah, pode."
+        },
+        {
+            "order": 45,
+            "start": 148.10000000000002,
+            "end": 148.64000000000001,
+            "transcription": " Falando em relação..."
+        },
+        {
+            "order": 46,
+            "start": 148.82,
+            "end": 151.45999999999998,
+            "transcription": " Falando em relação aos custos e valores dos produtos contratados?"
+        },
+        {
+            "order": 47,
+            "start": 151.72,
+            "end": 152.12,
+            "transcription": " 5."
+        },
+        {
+            "order": 48,
+            "start": 153.38,
+            "end": 157.06,
+            "transcription": " Atendimento do financeiro referente a boletos e negociações, caso precisem?"
+        },
+        {
+            "order": 49,
+            "start": 157.22,
+            "end": 157.56,
+            "transcription": " 10."
+        },
+        {
+            "order": 50,
+            "start": 158.56,
+            "end": 162.22,
+            "transcription": " A satisfação com a implantação do software, o senhor participou da implantação?"
+        },
+        {
+            "order": 51,
+            "start": 163.12,
+            "end": 167.51999999999998,
+            "transcription": " Hoje o sistema entrega o benefício que a empresa precisa? Entrega totalmente, parcialmente?"
+        },
+        {
+            "order": 52,
+            "start": 168.38,
+            "end": 168.94,
+            "transcription": " Totalmente."
+        },
+        {
+            "order": 53,
+            "start": 169.22,
+            "end": 169.38,
+            "transcription": " Totalmente? Tá."
+        },
+        {
+            "order": 54,
+            "start": 170.38,
+            "end": 174.04,
+            "transcription": " Como foi a experiência do senhor com a atualização do software, 0 a 10 também?"
+        },
+        {
+            "order": 55,
+            "start": 174.45999999999998,
+            "end": 174.76,
+            "transcription": " 5."
+        },
+        {
+            "order": 56,
+            "start": 175.85999999999999,
+            "end": 178.4,
+            "transcription": " Para finalizar, peço que o senhor avalie também 0 a 10."
+        },
+        {
+            "order": 57,
+            "start": 178.4,
+            "end": 179.66,
+            "transcription": " Mas o atendimento é reservado pela TOTS, certo?"
+        },
+        {
+            "order": 58,
+            "start": 179.66,
+            "end": 180.46,
+            "transcription": " 3,80 e 60."
+        },
+        {
+            "order": 59,
+            "start": 182.26000000000002,
+            "end": 185.08,
+            "transcription": " A TOTS Unidade de Brasília, de 0 a 10, como o senhor avalia?"
+        },
+        {
+            "order": 60,
+            "start": 185.8,
+            "end": 187.32,
+            "transcription": " Zero. Não tem nada aqui, ué."
+        },
+        {
+            "order": 61,
+            "start": 187.58,
+            "end": 188.52,
+            "transcription": " Não tem nem contato com ele."
+        },
+        {
+            "order": 62,
+            "start": 189.42000000000002,
+            "end": 190.26,
+            "transcription": " Não tem contato?"
+        },
+        {
+            "order": 63,
+            "start": 190.38,
+            "end": 190.66,
+            "transcription": " Não."
+        },
+        {
+            "order": 64,
+            "start": 191.1,
+            "end": 193.1,
+            "transcription": " Tá. Então não precisa avaliar, tá?"
+        },
+        {
+            "order": 65,
+            "start": 194.16,
+            "end": 196.98000000000002,
+            "transcription": " Tem algum comentário final que o senhor gostaria de deixar, senhor Washington?"
+        },
+        {
+            "order": 66,
+            "start": 198.14000000000001,
+            "end": 199.22,
+            "transcription": " Não. Obrigado."
+        },
+        {
+            "order": 67,
+            "start": 200.1,
+            "end": 205.46,
+            "transcription": " Tá. E se o acompanhamento ocorre no período de 6 meses a 1 ano, passando o período, retornamos o contato, tá bom?"
+        },
+        {
+            "order": 68,
+            "start": 205.86,
+            "end": 207.92000000000002,
+            "transcription": " Então ótimo de bom trabalho. Tchau, tchau."
+        },
+        {
+            "order": 69,
+            "start": 208.4,
+            "end": 209.4,
+            "transcription": " Tchau."
+        },
+        {
+            "order": 70,
+            "start": 210.4,
+            "end": 211.4,
+            "transcription": " Tchau."
+        }
+    ],
+    "metrics": {
+        "total_words": 71,
+        "words_per_minute": 26.996197718631187,
+        "top_10_words": [
+            [
+                " não.",
+                2
+            ],
+            [
+                " 5.",
+                2
+            ],
+            [
+                " tchau.",
+                2
+            ],
+            [
+                " bom dia. fala com o sr. washington, luiz.",
+                1
+            ],
+            [
+                " sim.",
+                1
+            ],
+            [
+                " sr. washington, me chamo beatriz, falo da totvs. tudo bem?",
+                1
+            ],
+            [
+                " tudo bom, beata.",
+                1
+            ],
+            [
+                " tudo bem, obrigada. sr. washington, o senhor seria ainda responsável pelo sistema na centro-oeste comercial de alimentos da ltda?",
+                1
+            ],
+            [
+                " sou.",
+                1
+            ],
+            [
+                " ah, perfeito.",
+                1
+            ]
+        ],
+        "magic_word_percentages": {
+            "obrigado": 0.0,
+            "obrigada": 0.0,
+            "por favor": 0.0,
+            "desculpa": 0.0,
+            "desculpe": 0.0,
+            "por gentileza": 0.0,
+            "bom dia": 0.0,
+            "boa tarde": 0.0,
+            "boa noite": 0.0,
+            "agradeço": 0.0,
+            "agradece": 0.0,
+            "gratidão": 0.0,
+            "sinto muito": 0.0,
+            "perdão": 0.0,
+            "me perdoe": 0.0,
+            "com licença": 0.0
+        }
+    }
+}

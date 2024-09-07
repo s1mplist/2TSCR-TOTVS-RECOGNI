@@ -1,0 +1,159 @@
+{
+    "prompt": "Essa é uma transcrição de uma ligação para avialiação de NPS da empresa TOTVS.",
+    "model": "large-v3",
+    "audio_path": "audio_samples/2966607.wav",
+    "transcription": [
+        {
+            "order": 0,
+            "start": 0.0,
+            "end": 7.46,
+            "transcription": " Bom dia, meu nome é Beatriz, falo da TOTVS, gostaria de falar com o Sr. Ricardo Santos, é isso aí?"
+        },
+        {
+            "order": 1,
+            "start": 7.76,
+            "end": 8.6,
+            "transcription": " Só um minuto, por favor."
+        },
+        {
+            "order": 2,
+            "start": 9.24,
+            "end": 9.72,
+            "transcription": " Obrigada."
+        },
+        {
+            "order": 3,
+            "start": 10.88,
+            "end": 18.3,
+            "transcription": " Com 16 anos de história e credibilidade, a Centerglass é a maior distribuidora de resinas e fibras de vidro do Norte e Nordeste."
+        },
+        {
+            "order": 4,
+            "start": 18.6,
+            "end": 25.400000000000002,
+            "transcription": " Sediada em Lauro de Freitas, possui filiais em Salvador, Feira de Santana, Vitória da Conquista, São Luís do Maranhão e Belém do Pará."
+        },
+        {
+            "order": 5,
+            "start": 25.400000000000002,
+            "end": 32.02,
+            "transcription": " Prezando pela qualidade dos seus produtos e serviços, a Centerglass está sempre pronta para atender a você e a sua empresa."
+        },
+        {
+            "order": 6,
+            "start": 32.300000000000004,
+            "end": 39.64,
+            "transcription": " Acesse www.centerglassresinas.com.br ou ligue 71-3288-7888."
+        },
+        {
+            "order": 7,
+            "start": 39.84,
+            "end": 44.800000000000004,
+            "transcription": " Siga-nos também no Instagram, Centerglass, sua melhor opção em resinas e fibras de vidro."
+        },
+        {
+            "order": 8,
+            "start": 45.42,
+            "end": 52.82000000000001,
+            "transcription": " Com 16 anos de história e credibilidade, a Centerglass é a maior distribuidora de resinas e fibras de vidro do Norte e Nordeste."
+        },
+        {
+            "order": 9,
+            "start": 52.82000000000001,
+            "end": 55.38,
+            "transcription": " Sediada em Lauro de Freitas, possui filiais em Salvador, Feira de Santana, Vitória da Conquista, São Luís do Maranhão e Belém do Pará."
+        },
+        {
+            "order": 10,
+            "start": 55.38,
+            "end": 59.96,
+            "transcription": " Sediada em Lauro de Freitas, possui filiais em Salvador, Feira de Santana, Vitória da Conquista, São Luís do Maranhão e Belém do Pará."
+        },
+        {
+            "order": 11,
+            "start": 60.2,
+            "end": 66.58,
+            "transcription": " Prezando pela qualidade dos seus produtos e serviços, a Centerglass está sempre pronta para atender a você e a sua empresa."
+        },
+        {
+            "order": 12,
+            "start": 66.86,
+            "end": 85.36,
+            "transcription": " Acesse www.centerglassresinas.com.br ou ligue 71-3288-7888."
+        },
+        {
+            "order": 13,
+            "start": 85.38,
+            "end": 115.36,
+            "transcription": " Sediada em Lauro de Freitas, possui filiais em Salvador, Feira de Santana, Vitória da Conquista, São Luís do Maranhão e Belém do Pará."
+        },
+        {
+            "order": 14,
+            "start": 115.36,
+            "end": 115.38,
+            "transcription": " Acesse www.centerglassresinas.com.br ou ligue 71-3288-7888."
+        },
+        {
+            "order": 15,
+            "start": 115.38,
+            "end": 145.35999999999999,
+            "transcription": " Acesse www.centerglassresinas.com.br ou ligue 71-3288-7888."
+        }
+    ],
+    "metrics": {
+        "total_words": 16,
+        "words_per_minute": 6.793093688083783,
+        "top_10_words": [
+            [
+                " sediada em lauro de freitas, possui filiais em salvador, feira de santana, vitória da conquista, são luís do maranhão e belém do pará.",
+                4
+            ],
+            [
+                " acesse www.centerglassresinas.com.br ou ligue 71-3288-7888.",
+                4
+            ],
+            [
+                " com 16 anos de história e credibilidade, a centerglass é a maior distribuidora de resinas e fibras de vidro do norte e nordeste.",
+                2
+            ],
+            [
+                " prezando pela qualidade dos seus produtos e serviços, a centerglass está sempre pronta para atender a você e a sua empresa.",
+                2
+            ],
+            [
+                " bom dia, meu nome é beatriz, falo da totvs, gostaria de falar com o sr. ricardo santos, é isso aí?",
+                1
+            ],
+            [
+                " só um minuto, por favor.",
+                1
+            ],
+            [
+                " obrigada.",
+                1
+            ],
+            [
+                " siga-nos também no instagram, centerglass, sua melhor opção em resinas e fibras de vidro.",
+                1
+            ]
+        ],
+        "magic_word_percentages": {
+            "obrigado": 0.0,
+            "obrigada": 0.0,
+            "por favor": 0.0,
+            "desculpa": 0.0,
+            "desculpe": 0.0,
+            "por gentileza": 0.0,
+            "bom dia": 0.0,
+            "boa tarde": 0.0,
+            "boa noite": 0.0,
+            "agradeço": 0.0,
+            "agradece": 0.0,
+            "gratidão": 0.0,
+            "sinto muito": 0.0,
+            "perdão": 0.0,
+            "me perdoe": 0.0,
+            "com licença": 0.0
+        }
+    }
+}

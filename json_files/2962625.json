@@ -1,0 +1,341 @@
+{
+    "prompt": "Essa é uma transcrição de uma ligação para avialiação de NPS da empresa TOTVS.",
+    "model": "large-v3",
+    "audio_path": "audio_samples/2962625.wav",
+    "transcription": [
+        {
+            "order": 0,
+            "start": 0.0,
+            "end": 4.72,
+            "transcription": " Bom dia, meu nome é Beatriz, falo da TOTVS, falo do Sr. Gabriel Lopes?"
+        },
+        {
+            "order": 1,
+            "start": 6.0,
+            "end": 8.98,
+            "transcription": " Não, mas eu posso estar trazendo a ligação para ele, só um instante."
+        },
+        {
+            "order": 2,
+            "start": 9.08,
+            "end": 9.96,
+            "transcription": " Tá bom, obrigada."
+        },
+        {
+            "order": 3,
+            "start": 10.4,
+            "end": 11.700000000000001,
+            "transcription": " De onde que é mesmo que você falou?"
+        },
+        {
+            "order": 4,
+            "start": 12.24,
+            "end": 13.0,
+            "transcription": " Da TOTVS."
+        },
+        {
+            "order": 5,
+            "start": 13.94,
+            "end": 14.74,
+            "transcription": " TOTVS, tá bom."
+        },
+        {
+            "order": 6,
+            "start": 15.66,
+            "end": 16.06,
+            "transcription": " Obrigada."
+        },
+        {
+            "order": 7,
+            "start": 30.0,
+            "end": 35.24,
+            "transcription": " Técnica?"
+        },
+        {
+            "order": 8,
+            "start": 36.06,
+            "end": 37.64,
+            "transcription": " Bom dia, falo com o Sr. Gabriel?"
+        },
+        {
+            "order": 9,
+            "start": 38.08,
+            "end": 38.480000000000004,
+            "transcription": " Isso."
+        },
+        {
+            "order": 10,
+            "start": 39.38,
+            "end": 41.82,
+            "transcription": " Sr. Gabriel, me chamo Beatriz, falo da TOTVS, tudo bem?"
+        },
+        {
+            "order": 11,
+            "start": 42.4,
+            "end": 44.18,
+            "transcription": " Tudo bem, Beatriz. Posso te ajudar?"
+        },
+        {
+            "order": 12,
+            "start": 44.36,
+            "end": 44.519999999999996,
+            "transcription": " Bom."
+        },
+        {
+            "order": 13,
+            "start": 45.06,
+            "end": 48.8,
+            "transcription": " Sr. Gabriel, o senhor seria ainda um dos responsáveis pelo sistema na técnica e engenharia?"
+        },
+        {
+            "order": 14,
+            "start": 50.66,
+            "end": 53.14,
+            "transcription": " Não, não está mais atualmente comigo."
+        },
+        {
+            "order": 15,
+            "start": 53.400000000000006,
+            "end": 55.28,
+            "transcription": " Sobre o que seria? Talvez eu possa ajudar?"
+        },
+        {
+            "order": 16,
+            "start": 55.28,
+            "end": 59.14,
+            "transcription": " Eu preciso fazer um acompanhamento rápido, porém importante."
+        },
+        {
+            "order": 17,
+            "start": 59.260000000000005,
+            "end": 59.980000000000004,
+            "transcription": " Sr. Gabriel, só para..."
+        },
+        {
+            "order": 18,
+            "start": 60.0,
+            "end": 62.14,
+            "transcription": " Só para saber como está a experiência e a satisfação de vocês,"
+        },
+        {
+            "order": 19,
+            "start": 62.26,
+            "end": 64.7,
+            "transcription": " o senhor seria do faturamento e utiliza o sistema ainda?"
+        },
+        {
+            "order": 20,
+            "start": 65.36,
+            "end": 69.96000000000001,
+            "transcription": " Ah, sim. Então, a gente está deixando o sistema."
+        },
+        {
+            "order": 21,
+            "start": 70.52,
+            "end": 71.92,
+            "transcription": " A gente está encerrando o contrato."
+        },
+        {
+            "order": 22,
+            "start": 73.04,
+            "end": 75.2,
+            "transcription": " Ah, entendi. Então, vocês não utilizam mais?"
+        },
+        {
+            "order": 23,
+            "start": 75.92,
+            "end": 79.06,
+            "transcription": " Não, não. Desde fevereiro a gente parou de utilizar."
+        },
+        {
+            "order": 24,
+            "start": 79.36,
+            "end": 82.3,
+            "transcription": " Atualmente a gente está utilizando mesmo só para consulta dos..."
+        },
+        {
+            "order": 25,
+            "start": 82.3,
+            "end": 83.64,
+            "transcription": " Ah, sim."
+        },
+        {
+            "order": 26,
+            "start": 83.64,
+            "end": 87.3,
+            "transcription": " Já estão feitos, né? Mas a gente encerrou o contrato com a TOTVS."
+        },
+        {
+            "order": 27,
+            "start": 88.18,
+            "end": 89.58,
+            "transcription": " Ah, então tá bom, Sr. Gabriel."
+        },
+        {
+            "order": 28,
+            "start": 89.7,
+            "end": 89.98,
+            "transcription": " Eu agradeço."
+        },
+        {
+            "order": 29,
+            "start": 89.98,
+            "end": 90.82000000000001,
+            "transcription": " Eu agradeço. Está ótimo."
+        },
+        {
+            "order": 30,
+            "start": 91.12,
+            "end": 91.74000000000001,
+            "transcription": " Tchau, tchau."
+        },
+        {
+            "order": 31,
+            "start": 92.14,
+            "end": 92.82000000000001,
+            "transcription": " Até amanhã. Tchau, tchau."
+        },
+        {
+            "order": 32,
+            "start": 93.14,
+            "end": 93.46000000000001,
+            "transcription": " Tchau."
+        },
+        {
+            "order": 33,
+            "start": 93.46000000000001,
+            "end": 94.46000000000001,
+            "transcription": " Tchau."
+        },
+        {
+            "order": 34,
+            "start": 94.46000000000001,
+            "end": 95.46000000000001,
+            "transcription": " Tchau."
+        },
+        {
+            "order": 35,
+            "start": 95.46000000000001,
+            "end": 95.48,
+            "transcription": " Tchau."
+        },
+        {
+            "order": 36,
+            "start": 95.48,
+            "end": 95.5,
+            "transcription": " Tchau."
+        },
+        {
+            "order": 37,
+            "start": 95.5,
+            "end": 95.52000000000001,
+            "transcription": " Tchau."
+        },
+        {
+            "order": 38,
+            "start": 95.52000000000001,
+            "end": 95.56,
+            "transcription": " Tchau."
+        },
+        {
+            "order": 39,
+            "start": 95.56,
+            "end": 95.58,
+            "transcription": " Tchau."
+        },
+        {
+            "order": 40,
+            "start": 95.58,
+            "end": 95.60000000000001,
+            "transcription": " Tchau."
+        },
+        {
+            "order": 41,
+            "start": 95.60000000000001,
+            "end": 95.64,
+            "transcription": " Tchau."
+        },
+        {
+            "order": 42,
+            "start": 95.64,
+            "end": 95.66,
+            "transcription": " Tchau."
+        },
+        {
+            "order": 43,
+            "start": 95.66,
+            "end": 95.68,
+            "transcription": " Tchau."
+        },
+        {
+            "order": 44,
+            "start": 95.68,
+            "end": 95.72,
+            "transcription": " Tchau."
+        }
+    ],
+    "metrics": {
+        "total_words": 45,
+        "words_per_minute": 40.6994271932469,
+        "top_10_words": [
+            [
+                " tchau.",
+                13
+            ],
+            [
+                " bom dia, meu nome é beatriz, falo da totvs, falo do sr. gabriel lopes?",
+                1
+            ],
+            [
+                " não, mas eu posso estar trazendo a ligação para ele, só um instante.",
+                1
+            ],
+            [
+                " tá bom, obrigada.",
+                1
+            ],
+            [
+                " de onde que é mesmo que você falou?",
+                1
+            ],
+            [
+                " da totvs.",
+                1
+            ],
+            [
+                " totvs, tá bom.",
+                1
+            ],
+            [
+                " obrigada.",
+                1
+            ],
+            [
+                " técnica?",
+                1
+            ],
+            [
+                " bom dia, falo com o sr. gabriel?",
+                1
+            ]
+        ],
+        "magic_word_percentages": {
+            "obrigado": 0.0,
+            "obrigada": 0.0,
+            "por favor": 0.0,
+            "desculpa": 0.0,
+            "desculpe": 0.0,
+            "por gentileza": 0.0,
+            "bom dia": 0.0,
+            "boa tarde": 0.0,
+            "boa noite": 0.0,
+            "agradeço": 0.0,
+            "agradece": 0.0,
+            "gratidão": 0.0,
+            "sinto muito": 0.0,
+            "perdão": 0.0,
+            "me perdoe": 0.0,
+            "com licença": 0.0
+        }
+    }
+}

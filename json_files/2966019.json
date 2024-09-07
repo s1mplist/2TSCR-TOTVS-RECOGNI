@@ -1,0 +1,521 @@
+{
+    "prompt": "Essa é uma transcrição de uma ligação para avialiação de NPS da empresa TOTVS.",
+    "model": "large-v3",
+    "audio_path": "audio_samples/2966019.wav",
+    "transcription": [
+        {
+            "order": 0,
+            "start": 0.0,
+            "end": 3.3000000000000003,
+            "transcription": " NPS da Vona Anderson, posso ajudar?"
+        },
+        {
+            "order": 1,
+            "start": 3.9,
+            "end": 6.26,
+            "transcription": " Oi, bom dia. Meu nome é Elisa, falo da TOTVS."
+        },
+        {
+            "order": 2,
+            "start": 6.28,
+            "end": 10.0,
+            "transcription": " Eu gostaria de falar com o gerente ou na controladoria da TOTVS."
+        },
+        {
+            "order": 3,
+            "start": 11.0,
+            "end": 11.94,
+            "transcription": " Da TOTVS?"
+        },
+        {
+            "order": 4,
+            "start": 12.36,
+            "end": 14.24,
+            "transcription": " Da TOTVS, é do sistema."
+        },
+        {
+            "order": 5,
+            "start": 18.44,
+            "end": 18.92,
+            "transcription": " Momento."
+        },
+        {
+            "order": 6,
+            "start": 30.0,
+            "end": 46.2,
+            "transcription": " Alô, a ligação cortou."
+        },
+        {
+            "order": 7,
+            "start": 47.66,
+            "end": 48.44,
+            "transcription": " Recepção, Eduardo."
+        },
+        {
+            "order": 8,
+            "start": 49.260000000000005,
+            "end": 50.5,
+            "transcription": " Oi, Eduardo, bom dia."
+        },
+        {
+            "order": 9,
+            "start": 50.900000000000006,
+            "end": 51.5,
+            "transcription": " Bom dia."
+        },
+        {
+            "order": 10,
+            "start": 52.16,
+            "end": 55.0,
+            "transcription": " Eu gostaria de falar com alguém responsável pelo sistema, gerente ou controladoria."
+        },
+        {
+            "order": 11,
+            "start": 56.519999999999996,
+            "end": 58.94,
+            "transcription": " Daí é direto com o pessoal do nosso TI no corporativo."
+        },
+        {
+            "order": 12,
+            "start": 59.64,
+            "end": 59.96,
+            "transcription": " É."
+        },
+        {
+            "order": 13,
+            "start": 60.0,
+            "end": 61.84,
+            "transcription": " É, eu estou ligando para toda a rede de hotéis."
+        },
+        {
+            "order": 14,
+            "start": 62.0,
+            "end": 63.86,
+            "transcription": " Aí eu precisava falar no condomínio agora."
+        },
+        {
+            "order": 15,
+            "start": 64.76,
+            "end": 66.58,
+            "transcription": " Ah, vai ter a transcrição financeira, então. Só um momento."
+        },
+        {
+            "order": 16,
+            "start": 66.94,
+            "end": 67.68,
+            "transcription": " Muito obrigada."
+        },
+        {
+            "order": 17,
+            "start": 75.14,
+            "end": 76.0,
+            "transcription": " Bom dia, Lázaro."
+        },
+        {
+            "order": 18,
+            "start": 76.53999999999999,
+            "end": 79.53999999999999,
+            "transcription": " Oi, Lázaro, bom dia. Meu nome é Lilian, falo da TOTVS. Tudo bem?"
+        },
+        {
+            "order": 19,
+            "start": 80.02,
+            "end": 81.18,
+            "transcription": " Tudo bom, Lilian. Bom dia."
+        },
+        {
+            "order": 20,
+            "start": 81.56,
+            "end": 84.74000000000001,
+            "transcription": " Que ótimo. Eu sou do departamento Voz do Cliente da TOTVS Matriz."
+        },
+        {
+            "order": 21,
+            "start": 84.74000000000001,
+            "end": 89.88,
+            "transcription": " Eu estou entrando em contato com todas as redes de hotéis e condomínios para fazer uma avaliação geral."
+        },
+        {
+            "order": 22,
+            "start": 90.0,
+            "end": 96.82,
+            "transcription": " Eu precisava falar com alguém responsável pelo departamento ou pelo software daí da empresa Piazza Navona."
+        },
+        {
+            "order": 23,
+            "start": 97.34,
+            "end": 97.94,
+            "transcription": " Seria o senhor?"
+        },
+        {
+            "order": 24,
+            "start": 98.38,
+            "end": 100.34,
+            "transcription": " Pode ser eu, aham, sobre esse assunto."
+        },
+        {
+            "order": 25,
+            "start": 100.56,
+            "end": 107.36,
+            "transcription": " Certo. Então eu vou confirmar o final do CNPJ do condomínio Piazza Navona, que é o 1000 contra 11, confirma?"
+        },
+        {
+            "order": 26,
+            "start": 107.38,
+            "end": 108.34,
+            "transcription": " Aham, isso aí."
+        },
+        {
+            "order": 27,
+            "start": 108.78,
+            "end": 110.56,
+            "transcription": " O senhor responde por outro ou só por esse?"
+        },
+        {
+            "order": 28,
+            "start": 111.6,
+            "end": 113.62,
+            "transcription": " Por um outro também."
+        },
+        {
+            "order": 29,
+            "start": 114.24000000000001,
+            "end": 116.1,
+            "transcription": " Qual que é o final? Só me confirma o final."
+        },
+        {
+            "order": 30,
+            "start": 116.1,
+            "end": 118.1,
+            "transcription": " Deixa eu só pegar aqui o..."
+        },
+        {
+            "order": 31,
+            "start": 120.0,
+            "end": 122.0,
+            "transcription": " O senhor é do financeiro, né?"
+        },
+        {
+            "order": 32,
+            "start": 132.24,
+            "end": 134.24,
+            "transcription": " Só um segundo, por favor."
+        },
+        {
+            "order": 33,
+            "start": 137.76,
+            "end": 146.56,
+            "transcription": " No caso é o condomínio e tem o hotel também, aham."
+        },
+        {
+            "order": 34,
+            "start": 146.56,
+            "end": 147.06,
+            "transcription": " Aham."
+        },
+        {
+            "order": 35,
+            "start": 150.0,
+            "end": 151.0,
+            "transcription": " E é o celular."
+        },
+        {
+            "order": 36,
+            "start": 151.0,
+            "end": 152.0,
+            "transcription": "爱 drop item, tá ligado?"
+        },
+        {
+            "order": 37,
+            "start": 152.0,
+            "end": 153.0,
+            "transcription": " É!"
+        },
+        {
+            "order": 38,
+            "start": 154.4,
+            "end": 160.4,
+            "transcription": " ..."
+        },
+        {
+            "order": 39,
+            "start": 160.4,
+            "end": 162.4,
+            "transcription": " ..."
+        },
+        {
+            "order": 40,
+            "start": 162.4,
+            "end": 164.38,
+            "transcription": " ..."
+        },
+        {
+            "order": 41,
+            "start": 164.38,
+            "end": 166.38,
+            "transcription": " ..."
+        },
+        {
+            "order": 42,
+            "start": 166.38,
+            "end": 168.38,
+            "transcription": " ..."
+        },
+        {
+            "order": 43,
+            "start": 168.38,
+            "end": 170.38,
+            "transcription": " ..."
+        },
+        {
+            "order": 44,
+            "start": 170.38,
+            "end": 174.38,
+            "transcription": " Eu posso pedir um favor? Eu estou no meio de um fechamento aqui."
+        },
+        {
+            "order": 45,
+            "start": 174.38,
+            "end": 178.24,
+            "transcription": " Gente, como o final do mês aqui é um pouquinho complicado."
+        },
+        {
+            "order": 46,
+            "start": 178.24,
+            "end": 179.12,
+            "transcription": " Mas assim, sendo bem..."
+        },
+        {
+            "order": 47,
+            "start": 179.12,
+            "end": 179.68,
+            "transcription": " ..."
+        },
+        {
+            "order": 48,
+            "start": 179.68,
+            "end": 185.94,
+            "transcription": " Sendo bem transparente, eu estou bem descontente com o atendimento da TOTS."
+        },
+        {
+            "order": 49,
+            "start": 186.32,
+            "end": 187.64000000000001,
+            "transcription": " O senhor quer responder por e-mail?"
+        },
+        {
+            "order": 50,
+            "start": 188.96,
+            "end": 189.96,
+            "transcription": " Pode ser, sim."
+        },
+        {
+            "order": 51,
+            "start": 190.4,
+            "end": 191.70000000000002,
+            "transcription": " É o e-mail que eu tenho."
+        },
+        {
+            "order": 52,
+            "start": 191.70000000000002,
+            "end": 195.12,
+            "transcription": " Muito. Tem chamado em aberto que não me retornam."
+        },
+        {
+            "order": 53,
+            "start": 195.14000000000001,
+            "end": 198.46,
+            "transcription": " Ah, então seria interessante, porque daí a gente consegue verificar para o senhor."
+        },
+        {
+            "order": 54,
+            "start": 198.8,
+            "end": 201.12,
+            "transcription": " O senhor está respondendo por e-mail, já que o senhor está sem tempo?"
+        },
+        {
+            "order": 55,
+            "start": 201.8,
+            "end": 207.38,
+            "transcription": " É o lazaro.saliba.pizanavona.com.br"
+        },
+        {
+            "order": 56,
+            "start": 207.38,
+            "end": 208.60000000000002,
+            "transcription": " É, piaza."
+        },
+        {
+            "order": 57,
+            "start": 208.6,
+            "end": 210.66,
+            "transcription": " Isso mesmo, eu li errado."
+        },
+        {
+            "order": 58,
+            "start": 210.82,
+            "end": 211.98,
+            "transcription": " Eu li errado, é piaza."
+        },
+        {
+            "order": 59,
+            "start": 212.44,
+            "end": 213.44,
+            "transcription": " Tá, eu vou encaminhar."
+        },
+        {
+            "order": 60,
+            "start": 214.23999999999998,
+            "end": 216.48,
+            "transcription": " É que eu não estou recebendo o e-mail de vocês também."
+        },
+        {
+            "order": 61,
+            "start": 219.9,
+            "end": 229.42,
+            "transcription": " Enfim, se eu falar um pouco do meu descontento com os atendimentos da TOTS aqui com o hotel,"
+        },
+        {
+            "order": 62,
+            "start": 229.98,
+            "end": 234.45999999999998,
+            "transcription": " eu vou até meio dia tranquilo aqui falando contigo, sendo bem sincero."
+        },
+        {
+            "order": 63,
+            "start": 234.72,
+            "end": 235.51999999999998,
+            "transcription": " Ah, entendi."
+        },
+        {
+            "order": 64,
+            "start": 236.7,
+            "end": 238.57999999999998,
+            "transcription": " Bom, o tempinho que a gente está falando aqui..."
+        },
+        {
+            "order": 65,
+            "start": 238.58,
+            "end": 242.38000000000002,
+            "transcription": " Você já poderia me passar alguns números de chamada e a gente verificar."
+        },
+        {
+            "order": 66,
+            "start": 242.38000000000002,
+            "end": 246.38000000000002,
+            "transcription": " Só precisava da primeira nota para poder abrir a avaliação."
+        },
+        {
+            "order": 67,
+            "start": 247.36,
+            "end": 253.08,
+            "transcription": " Tá, esse assunto é muito importante para mim, mas eu não vou conseguir dar atenção para ele agora."
+        },
+        {
+            "order": 68,
+            "start": 253.48000000000002,
+            "end": 255.3,
+            "transcription": " Tá, qual dia você prefere que eu ligue, então?"
+        },
+        {
+            "order": 69,
+            "start": 257.2,
+            "end": 259.68,
+            "transcription": " Me dá uma ligada na terça de manhã, pode ser?"
+        },
+        {
+            "order": 70,
+            "start": 260.2,
+            "end": 263.44,
+            "transcription": " Tá, terça de manhã eu retorno para o senhor, sem problema."
+        },
+        {
+            "order": 71,
+            "start": 263.72,
+            "end": 264.56,
+            "transcription": " Obrigada, Lázaro."
+        },
+        {
+            "order": 72,
+            "start": 264.66,
+            "end": 265.52000000000004,
+            "transcription": " Eu que agradeço."
+        },
+        {
+            "order": 73,
+            "start": 265.76,
+            "end": 266.22,
+            "transcription": " Para ti também."
+        },
+        {
+            "order": 74,
+            "start": 266.62,
+            "end": 266.94,
+            "transcription": " Tchau, tchau."
+        }
+    ],
+    "metrics": {
+        "total_words": 75,
+        "words_per_minute": 23.020257826887658,
+        "top_10_words": [
+            [
+                " ...",
+                7
+            ],
+            [
+                " nps da vona anderson, posso ajudar?",
+                1
+            ],
+            [
+                " oi, bom dia. meu nome é elisa, falo da totvs.",
+                1
+            ],
+            [
+                " eu gostaria de falar com o gerente ou na controladoria da totvs.",
+                1
+            ],
+            [
+                " da totvs?",
+                1
+            ],
+            [
+                " da totvs, é do sistema.",
+                1
+            ],
+            [
+                " momento.",
+                1
+            ],
+            [
+                " alô, a ligação cortou.",
+                1
+            ],
+            [
+                " recepção, eduardo.",
+                1
+            ],
+            [
+                " oi, eduardo, bom dia.",
+                1
+            ]
+        ],
+        "magic_word_percentages": {
+            "obrigado": 0.0,
+            "obrigada": 0.0,
+            "por favor": 0.0,
+            "desculpa": 0.0,
+            "desculpe": 0.0,
+            "por gentileza": 0.0,
+            "bom dia": 0.0,
+            "boa tarde": 0.0,
+            "boa noite": 0.0,
+            "agradeço": 0.0,
+            "agradece": 0.0,
+            "gratidão": 0.0,
+            "sinto muito": 0.0,
+            "perdão": 0.0,
+            "me perdoe": 0.0,
+            "com licença": 0.0
+        }
+    }
+}

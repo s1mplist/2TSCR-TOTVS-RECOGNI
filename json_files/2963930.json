@@ -1,0 +1,251 @@
+{
+    "prompt": "Essa é uma transcrição de uma ligação para avialiação de NPS da empresa TOTVS.",
+    "model": "large-v3",
+    "audio_path": "audio_samples/2963930.wav",
+    "transcription": [
+        {
+            "order": 0,
+            "start": 0.0,
+            "end": 6.1000000000000005,
+            "transcription": " Olá, seja bem-vindo. Você ligou para o eslavieiro Bahia Norte Hotel Florianópolis."
+        },
+        {
+            "order": 1,
+            "start": 6.48,
+            "end": 12.86,
+            "transcription": " For English, press 1. Digite 1 para tratar de assuntos sobre reservas e eventos."
+        },
+        {
+            "order": 2,
+            "start": 13.32,
+            "end": 21.76,
+            "transcription": " 2, setores administrativos, financeiros e RH. 3, para recepção ou aguarde para ser atendido."
+        },
+        {
+            "order": 3,
+            "start": 30.0,
+            "end": 40.6,
+            "transcription": " O eslavieiro Bahia Norte, Eduardo, bom dia. Boa tarde."
+        },
+        {
+            "order": 4,
+            "start": 40.88,
+            "end": 43.22,
+            "transcription": " Oi, boa tarde, Eduardo. Gostaria de falar na controladoria?"
+        },
+        {
+            "order": 5,
+            "start": 44.6,
+            "end": 46.3,
+            "transcription": " Controladoria do?"
+        },
+        {
+            "order": 6,
+            "start": 47.3,
+            "end": 47.980000000000004,
+            "transcription": " Do hotel."
+        },
+        {
+            "order": 7,
+            "start": 50.5,
+            "end": 52.36,
+            "transcription": " A gente não tem controladoria."
+        },
+        {
+            "order": 8,
+            "start": 52.6,
+            "end": 57.34,
+            "transcription": " Não tem? Eu precisava falar com algum gerente ou coordenadora para fazer uma avaliação do sistema."
+        },
+        {
+            "order": 9,
+            "start": 57.34,
+            "end": 59.980000000000004,
+            "transcription": " Só um momento."
+        },
+        {
+            "order": 10,
+            "start": 60.0,
+            "end": 73.56,
+            "transcription": " A senhora teria que entrar em contato com a nossa matriz, que fica em Curitiba."
+        },
+        {
+            "order": 11,
+            "start": 74.2,
+            "end": 75.36,
+            "transcription": " Certo, com o Leonel, né?"
+        },
+        {
+            "order": 12,
+            "start": 75.82,
+            "end": 76.2,
+            "transcription": " Isso."
+        },
+        {
+            "order": 13,
+            "start": 76.74000000000001,
+            "end": 81.86,
+            "transcription": " É que ele já fez a avaliação. Eu estou ligando para todas as redes dos hotéis, eslavieiro, hotéis."
+        },
+        {
+            "order": 14,
+            "start": 82.22,
+            "end": 86.96000000000001,
+            "transcription": " Cada CNPJ eu estou falando com algum coordenador ou gerente para ter essa avaliação."
+        },
+        {
+            "order": 15,
+            "start": 86.96000000000001,
+            "end": 87.64,
+            "transcription": " Só um pouquinho."
+        },
+        {
+            "order": 16,
+            "start": 90.0,
+            "end": 94.36,
+            "transcription": " Desculpa, qual é o seu nome?"
+        },
+        {
+            "order": 17,
+            "start": 95.08,
+            "end": 96.44,
+            "transcription": " Lilian, da TOTS."
+        },
+        {
+            "order": 18,
+            "start": 96.8,
+            "end": 97.06,
+            "transcription": " Ok."
+        },
+        {
+            "order": 19,
+            "start": 116.62,
+            "end": 119.02,
+            "transcription": " No momento, o nosso gerente está em uma reunião?"
+        },
+        {
+            "order": 20,
+            "start": 119.58,
+            "end": 119.98,
+            "transcription": " Uhum."
+        },
+        {
+            "order": 21,
+            "start": 120.0,
+            "end": 121.0,
+            "transcription": " Tá bom."
+        },
+        {
+            "order": 22,
+            "start": 121.0,
+            "end": 122.0,
+            "transcription": " Eu retorno mais tarde. Quem seria?"
+        },
+        {
+            "order": 23,
+            "start": 122.0,
+            "end": 123.0,
+            "transcription": " É o Tiago Silveira."
+        },
+        {
+            "order": 24,
+            "start": 123.0,
+            "end": 124.0,
+            "transcription": " Tiago Silveira, tá bom. Então, obrigada."
+        },
+        {
+            "order": 25,
+            "start": 124.0,
+            "end": 125.0,
+            "transcription": " Obrigado."
+        },
+        {
+            "order": 26,
+            "start": 125.0,
+            "end": 126.0,
+            "transcription": " Tchau, tchau."
+        },
+        {
+            "order": 27,
+            "start": 126.0,
+            "end": 127.0,
+            "transcription": " Tchau, tchau."
+        },
+        {
+            "order": 28,
+            "start": 127.0,
+            "end": 128.0,
+            "transcription": " Tchau, tchau."
+        },
+        {
+            "order": 29,
+            "start": 128.0,
+            "end": 128.5,
+            "transcription": " Tchau, tchau."
+        }
+    ],
+    "metrics": {
+        "total_words": 30,
+        "words_per_minute": 20.361990950226243,
+        "top_10_words": [
+            [
+                " tchau, tchau.",
+                4
+            ],
+            [
+                " olá, seja bem-vindo. você ligou para o eslavieiro bahia norte hotel florianópolis.",
+                1
+            ],
+            [
+                " for english, press 1. digite 1 para tratar de assuntos sobre reservas e eventos.",
+                1
+            ],
+            [
+                " 2, setores administrativos, financeiros e rh. 3, para recepção ou aguarde para ser atendido.",
+                1
+            ],
+            [
+                " o eslavieiro bahia norte, eduardo, bom dia. boa tarde.",
+                1
+            ],
+            [
+                " oi, boa tarde, eduardo. gostaria de falar na controladoria?",
+                1
+            ],
+            [
+                " controladoria do?",
+                1
+            ],
+            [
+                " do hotel.",
+                1
+            ],
+            [
+                " a gente não tem controladoria.",
+                1
+            ],
+            [
+                " não tem? eu precisava falar com algum gerente ou coordenadora para fazer uma avaliação do sistema.",
+                1
+            ]
+        ],
+        "magic_word_percentages": {
+            "obrigado": 0.0,
+            "obrigada": 0.0,
+            "por favor": 0.0,
+            "desculpa": 0.0,
+            "desculpe": 0.0,
+            "por gentileza": 0.0,
+            "bom dia": 0.0,
+            "boa tarde": 0.0,
+            "boa noite": 0.0,
+            "agradeço": 0.0,
+            "agradece": 0.0,
+            "gratidão": 0.0,
+            "sinto muito": 0.0,
+            "perdão": 0.0,
+            "me perdoe": 0.0,
+            "com licença": 0.0
+        }
+    }
+}

@@ -1,0 +1,623 @@
+{
+    "prompt": "Essa é uma transcrição de uma ligação para avialiação de NPS da empresa TOTVS.",
+    "model": "large-v3",
+    "audio_path": "audio_samples/2968125.wav",
+    "transcription": [
+        {
+            "order": 0,
+            "start": 0.0,
+            "end": 5.6000000000000005,
+            "transcription": " Boa tarde, Beatriz da TOTVS falando. Gostaria de falar com a senhora Heloína."
+        },
+        {
+            "order": 1,
+            "start": 6.4,
+            "end": 8.0,
+            "transcription": " Ela seria responsável?"
+        },
+        {
+            "order": 2,
+            "start": 9.200000000000001,
+            "end": 10.08,
+            "transcription": " Pelo escritório?"
+        },
+        {
+            "order": 3,
+            "start": 10.94,
+            "end": 12.6,
+            "transcription": " É, pelo sistema na empresa."
+        },
+        {
+            "order": 4,
+            "start": 30.0,
+            "end": 58.56,
+            "transcription": " A senhora Helo, eu gostaria de falar rapidinho com a senhora."
+        },
+        {
+            "order": 5,
+            "start": 58.56,
+            "end": 59.879999999999995,
+            "transcription": " A senhora seria uma das responsáveis?"
+        },
+        {
+            "order": 6,
+            "start": 60.0,
+            "end": 61.08,
+            "transcription": " Que utiliza o sistema, né?"
+        },
+        {
+            "order": 7,
+            "start": 61.14,
+            "end": 61.74,
+            "transcription": " Na CONSAG?"
+        },
+        {
+            "order": 8,
+            "start": 62.1,
+            "end": 62.76,
+            "transcription": " Sim, sim."
+        },
+        {
+            "order": 9,
+            "start": 63.36,
+            "end": 63.76,
+            "transcription": " Perfeito."
+        },
+        {
+            "order": 10,
+            "start": 63.88,
+            "end": 66.44,
+            "transcription": " A senhora Helo, meu contato é bem rápido, porém importante."
+        },
+        {
+            "order": 11,
+            "start": 66.58,
+            "end": 69.62,
+            "transcription": " É só para saber como está a experiência e a satisfação de vocês, tá?"
+        },
+        {
+            "order": 12,
+            "start": 70.18,
+            "end": 73.3,
+            "transcription": " Esse acompanhamento é feito pelo método de NPS."
+        },
+        {
+            "order": 13,
+            "start": 73.48,
+            "end": 76.58,
+            "transcription": " Então, a senhora vai avaliar de zero a dez da marca TOTVS alguns pontos específicos."
+        },
+        {
+            "order": 14,
+            "start": 76.66,
+            "end": 77.72,
+            "transcription": " Dois minutinhos, tá bom?"
+        },
+        {
+            "order": 15,
+            "start": 78.24000000000001,
+            "end": 78.56,
+            "transcription": " Ok."
+        },
+        {
+            "order": 16,
+            "start": 78.66,
+            "end": 81.16,
+            "transcription": " A senhora seria responsável pelo TI ou pelo administrativo?"
+        },
+        {
+            "order": 17,
+            "start": 82.22,
+            "end": 88.2,
+            "transcription": " Na realidade, eu sou responsável pela parte da contabilidade administrativa, entendeu?"
+        },
+        {
+            "order": 18,
+            "start": 88.2,
+            "end": 89.96000000000001,
+            "transcription": " Então, a gente usa a parte contabilidade."
+        },
+        {
+            "order": 19,
+            "start": 90.0,
+            "end": 92.82,
+            "transcription": " Tá bom, não tem importância, tá?"
+        },
+        {
+            "order": 20,
+            "start": 92.96,
+            "end": 98.96000000000001,
+            "transcription": " A gente, eu vou fazer com a senhora e aí a gente tem a percepção que vocês estão tendo."
+        },
+        {
+            "order": 21,
+            "start": 99.08,
+            "end": 104.04,
+            "transcription": " Só confirmando, CNPJ 03, 588, 380, mil contra 15."
+        },
+        {
+            "order": 22,
+            "start": 104.74,
+            "end": 105.18,
+            "transcription": " Ok?"
+        },
+        {
+            "order": 23,
+            "start": 105.68,
+            "end": 106.08,
+            "transcription": " Ok."
+        },
+        {
+            "order": 24,
+            "start": 106.12,
+            "end": 107.38,
+            "transcription": " Obrigada pela confirmação."
+        },
+        {
+            "order": 25,
+            "start": 107.84,
+            "end": 109.24000000000001,
+            "transcription": " A senhora Helo, eu não me escalei de zero a dez."
+        },
+        {
+            "order": 26,
+            "start": 109.38,
+            "end": 113.9,
+            "transcription": " Qual a probabilidade da senhora recomendar a TOTVS a um amigo ou colega hoje, na visão que a senhora tem?"
+        },
+        {
+            "order": 27,
+            "start": 116.18,
+            "end": 116.62,
+            "transcription": " Nove."
+        },
+        {
+            "order": 28,
+            "start": 116.62,
+            "end": 119.62,
+            "transcription": " Para vocês não ficarem muito orgulhosos no dedo."
+        },
+        {
+            "order": 29,
+            "start": 120.0,
+            "end": 122.9,
+            "transcription": " Tá, então, seria a nota nove."
+        },
+        {
+            "order": 30,
+            "start": 122.98,
+            "end": 125.66,
+            "transcription": " Tem algum comentário que gostaria de deixar sobre a nota?"
+        },
+        {
+            "order": 31,
+            "start": 126.6,
+            "end": 127.4,
+            "transcription": " Não, não, não."
+        },
+        {
+            "order": 32,
+            "start": 127.76,
+            "end": 132.42,
+            "transcription": " Tá, então, para aprofundarmos um pouquinho mais na melhoria, agora eu vou falar os pontos específicos"
+        },
+        {
+            "order": 33,
+            "start": 132.42,
+            "end": 135.8,
+            "transcription": " e parece que a Sara Vali também somente de zero a dez, caso tenha contato, tá?"
+        },
+        {
+            "order": 34,
+            "start": 136.28,
+            "end": 136.64,
+            "transcription": " Ok."
+        },
+        {
+            "order": 35,
+            "start": 137.26,
+            "end": 141.22,
+            "transcription": " Falando do suporte, como a Sara Vali é agilidade nos processos de suporte?"
+        },
+        {
+            "order": 36,
+            "start": 143.3,
+            "end": 146.78,
+            "transcription": " Peraí, só um pouquinho, eu vou sair daqui que está um pouco barulho e eu não estou te escutando."
+        },
+        {
+            "order": 37,
+            "start": 146.88,
+            "end": 147.74,
+            "transcription": " Peraí, só um minutinho."
+        },
+        {
+            "order": 38,
+            "start": 150.0,
+            "end": 159.38,
+            "transcription": " Alô, pode falar."
+        },
+        {
+            "order": 39,
+            "start": 160.04,
+            "end": 160.56,
+            "transcription": " Melhorou?"
+        },
+        {
+            "order": 40,
+            "start": 161.16,
+            "end": 162.32,
+            "transcription": " Melhorou, agora."
+        },
+        {
+            "order": 41,
+            "start": 162.94,
+            "end": 163.72,
+            "transcription": " Aham, tá bom."
+        },
+        {
+            "order": 42,
+            "start": 163.98,
+            "end": 166.4,
+            "transcription": " Então, você falou do último..."
+        },
+        {
+            "order": 43,
+            "start": 166.4,
+            "end": 168.24,
+            "transcription": " Em relação ao suporte, né?"
+        },
+        {
+            "order": 44,
+            "start": 168.38,
+            "end": 172.14,
+            "transcription": " Como que a Sara Vali é agilidade nos processos de suporte técnico de zero a dez?"
+        },
+        {
+            "order": 45,
+            "start": 172.52,
+            "end": 173.42000000000002,
+            "transcription": " Não, dez."
+        },
+        {
+            "order": 46,
+            "start": 173.74,
+            "end": 176.14,
+            "transcription": " Sempre estão nos atendendo."
+        },
+        {
+            "order": 47,
+            "start": 177.0,
+            "end": 179.98,
+            "transcription": " Tá, falando em relação ao atendimento dos agentes do suporte."
+        },
+        {
+            "order": 48,
+            "start": 180.0,
+            "end": 181.28,
+            "transcription": " O da Annalisa?"
+        },
+        {
+            "order": 49,
+            "start": 181.58,
+            "end": 183.6,
+            "transcription": " Não, ótimo, ótimo, dez."
+        },
+        {
+            "order": 50,
+            "start": 183.74,
+            "end": 185.2,
+            "transcription": " Sempre nos atendem muito bem."
+        },
+        {
+            "order": 51,
+            "start": 186.28,
+            "end": 190.64,
+            "transcription": " Tá, falando em relação ao atendimento do comercial referente ao executivo de venda?"
+        },
+        {
+            "order": 52,
+            "start": 191.86,
+            "end": 193.14,
+            "transcription": " Ok, dez."
+        },
+        {
+            "order": 53,
+            "start": 194.14,
+            "end": 196.78,
+            "transcription": " Os custos e valores dos produtos contratados?"
+        },
+        {
+            "order": 54,
+            "start": 198.1,
+            "end": 201.4,
+            "transcription": " Esse aí eu já não posso te dizer, mas eu acho que está bom."
+        },
+        {
+            "order": 55,
+            "start": 202.12,
+            "end": 204.58,
+            "transcription": " Porque ainda o chefe não mandou tocar."
+        },
+        {
+            "order": 56,
+            "start": 205.96,
+            "end": 206.98,
+            "transcription": " E para a gente, está na hora."
+        },
+        {
+            "order": 57,
+            "start": 206.98,
+            "end": 207.42000000000002,
+            "transcription": " Tá, tá, tá."
+        },
+        {
+            "order": 58,
+            "start": 210.0,
+            "end": 211.62,
+            "transcription": " De zero a dez, você quer que eu diga?"
+        },
+        {
+            "order": 59,
+            "start": 212.46,
+            "end": 212.86,
+            "transcription": " Isso."
+        },
+        {
+            "order": 60,
+            "start": 213.66,
+            "end": 214.06,
+            "transcription": " Nove."
+        },
+        {
+            "order": 61,
+            "start": 215.38,
+            "end": 219.7,
+            "transcription": " Tá, falando em relação ao atendimento do financeiro referente a boletos e negociações."
+        },
+        {
+            "order": 62,
+            "start": 219.88,
+            "end": 220.62,
+            "transcription": " Como a Sara Vali é?"
+        },
+        {
+            "order": 63,
+            "start": 220.98,
+            "end": 221.94,
+            "transcription": " Ah, sim, dez."
+        },
+        {
+            "order": 64,
+            "start": 223.1,
+            "end": 225.66,
+            "transcription": " A satisfação com a implantação do software."
+        },
+        {
+            "order": 65,
+            "start": 225.78,
+            "end": 227.06,
+            "transcription": " A Sara participou da implantação?"
+        },
+        {
+            "order": 66,
+            "start": 227.38,
+            "end": 228.52,
+            "transcription": " Não, eu não participei."
+        },
+        {
+            "order": 67,
+            "start": 228.6,
+            "end": 230.3,
+            "transcription": " Quando eu cheguei, já estava implantada."
+        },
+        {
+            "order": 68,
+            "start": 231.52,
+            "end": 234.68,
+            "transcription": " Tá, hoje o sistema, ele entrega o benefício que vocês precisam?"
+        },
+        {
+            "order": 69,
+            "start": 234.76,
+            "end": 237.04,
+            "transcription": " Entrega totalmente, parcialmente ou não entrega?"
+        },
+        {
+            "order": 70,
+            "start": 237.7,
+            "end": 238.58,
+            "transcription": " Entrega totalmente."
+        },
+        {
+            "order": 71,
+            "start": 238.58,
+            "end": 238.9,
+            "transcription": " Entrega totalmente."
+        },
+        {
+            "order": 72,
+            "start": 238.9,
+            "end": 243.92000000000002,
+            "transcription": " Como foi a experiência da senhora com a atualização do software de zero a dez também?"
+        },
+        {
+            "order": 73,
+            "start": 244.08,
+            "end": 245.12,
+            "transcription": " Caso tenha atualizado?"
+        },
+        {
+            "order": 74,
+            "start": 245.64000000000001,
+            "end": 246.24,
+            "transcription": " Dez."
+        },
+        {
+            "order": 75,
+            "start": 246.82,
+            "end": 251.54000000000002,
+            "transcription": " Para finalizar, Sara Lopes, acho que a Sara Vali também, zero a dez,"
+        },
+        {
+            "order": 76,
+            "start": 251.62,
+            "end": 255.54000000000002,
+            "transcription": " o atendimento realizado pela POTS Amazonas, a unidade responsável por vocês aí."
+        },
+        {
+            "order": 77,
+            "start": 255.92000000000002,
+            "end": 257.3,
+            "transcription": " Ah, sim, dez."
+        },
+        {
+            "order": 78,
+            "start": 257.56,
+            "end": 259.8,
+            "transcription": " A gente sempre está super bem."
+        },
+        {
+            "order": 79,
+            "start": 260.5,
+            "end": 261.86,
+            "transcription": " Sempre nos atendem."
+        },
+        {
+            "order": 80,
+            "start": 262.58,
+            "end": 263.84000000000003,
+            "transcription": " Que bom, Sara Lopes."
+        },
+        {
+            "order": 81,
+            "start": 263.84000000000003,
+            "end": 264.86,
+            "transcription": " São essas as perguntas."
+        },
+        {
+            "order": 82,
+            "start": 264.94,
+            "end": 267.08,
+            "transcription": " A Sara tem algum comentário final, mais algum ponto?"
+        },
+        {
+            "order": 83,
+            "start": 267.42,
+            "end": 268.64,
+            "transcription": " Não, não, está tudo bem."
+        },
+        {
+            "order": 84,
+            "start": 269.52,
+            "end": 272.41999999999996,
+            "transcription": " Tá, tem alguma empresa que gostaria de indicar para a gente?"
+        },
+        {
+            "order": 85,
+            "start": 273.67999999999995,
+            "end": 277.97999999999996,
+            "transcription": " Não, assim, de cabeça não tenho ainda, assim, para falar para você, tá?"
+        },
+        {
+            "order": 86,
+            "start": 278.88,
+            "end": 283.26,
+            "transcription": " Tá bom, então, esse acompanhamento, ele ocorre em um período de seis meses a um ano."
+        },
+        {
+            "order": 87,
+            "start": 283.41999999999996,
+            "end": 285.71999999999997,
+            "transcription": " Passando o período, retornaremos o contato, tá bom?"
+        },
+        {
+            "order": 88,
+            "start": 285.97999999999996,
+            "end": 286.34,
+            "transcription": " Tá bom."
+        },
+        {
+            "order": 89,
+            "start": 286.4,
+            "end": 288.15999999999997,
+            "transcription": " Então, uma ótima tarde, bom fim de semana."
+        },
+        {
+            "order": 90,
+            "start": 288.32,
+            "end": 288.64,
+            "transcription": " Tchau, tchau."
+        },
+        {
+            "order": 91,
+            "start": 288.71999999999997,
+            "end": 289.5,
+            "transcription": " Obrigada, tchau, tchau."
+        }
+    ],
+    "metrics": {
+        "total_words": 92,
+        "words_per_minute": 24.500665778961373,
+        "top_10_words": [
+            [
+                " ok.",
+                3
+            ],
+            [
+                " nove.",
+                2
+            ],
+            [
+                " ah, sim, dez.",
+                2
+            ],
+            [
+                " entrega totalmente.",
+                2
+            ],
+            [
+                " boa tarde, beatriz da totvs falando. gostaria de falar com a senhora heloína.",
+                1
+            ],
+            [
+                " ela seria responsável?",
+                1
+            ],
+            [
+                " pelo escritório?",
+                1
+            ],
+            [
+                " é, pelo sistema na empresa.",
+                1
+            ],
+            [
+                " a senhora helo, eu gostaria de falar rapidinho com a senhora.",
+                1
+            ],
+            [
+                " a senhora seria uma das responsáveis?",
+                1
+            ]
+        ],
+        "magic_word_percentages": {
+            "obrigado": 0.0,
+            "obrigada": 0.0,
+            "por favor": 0.0,
+            "desculpa": 0.0,
+            "desculpe": 0.0,
+            "por gentileza": 0.0,
+            "bom dia": 0.0,
+            "boa tarde": 0.0,
+            "boa noite": 0.0,
+            "agradeço": 0.0,
+            "agradece": 0.0,
+            "gratidão": 0.0,
+            "sinto muito": 0.0,
+            "perdão": 0.0,
+            "me perdoe": 0.0,
+            "com licença": 0.0
+        }
+    }
+}

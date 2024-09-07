@@ -1,0 +1,455 @@
+{
+    "prompt": "Essa é uma transcrição de uma ligação para avialiação de NPS da empresa TOTVS.",
+    "model": "large-v3",
+    "audio_path": "audio_samples/2965051.wav",
+    "transcription": [
+        {
+            "order": 0,
+            "start": 0.0,
+            "end": 8.78,
+            "transcription": " Boa tarde. Conai, for English, press 7. Digite o ramal desejado ou aguarde para ser atendido."
+        },
+        {
+            "order": 1,
+            "start": 8.78,
+            "end": 26.740000000000002,
+            "transcription": " Bom dia, entre outros. Colocamos à disposição de nossos clientes diversas linhas de queimadores..."
+        },
+        {
+            "order": 2,
+            "start": 26.740000000000002,
+            "end": 28.64,
+            "transcription": " Conai, Gasteca, Aline, boa tarde."
+        },
+        {
+            "order": 3,
+            "start": 28.9,
+            "end": 32.14,
+            "transcription": " Aline, boa tarde. O Alberto..."
+        },
+        {
+            "order": 4,
+            "start": 32.14,
+            "end": 32.92,
+            "transcription": " Só um minutinho."
+        },
+        {
+            "order": 5,
+            "start": 38.78,
+            "end": 48.24,
+            "transcription": " ... ignição, fotocélulas ultravioleta e infravermelho, pressostatos para ar e gás, manômetros e medidores de vazão."
+        },
+        {
+            "order": 6,
+            "start": 55.02,
+            "end": 60.72,
+            "transcription": " A Conai agradece sua ligação. Por favor, aguarde que dentro de instantes iremos atendê-lo."
+        },
+        {
+            "order": 7,
+            "start": 63.2,
+            "end": 68.72,
+            "transcription": " A Conai foi fundada em 1991 com o principal objetivo de..."
+        },
+        {
+            "order": 8,
+            "start": 68.78,
+            "end": 72.44,
+            "transcription": " ... atender aos seus clientes no ramo da combustão industrial."
+        },
+        {
+            "order": 9,
+            "start": 73.2,
+            "end": 81.16,
+            "transcription": " A Conai representa e distribui com exclusividade no Brasil equipamentos de conceituados fabricantes europeus como..."
+        },
+        {
+            "order": 10,
+            "start": 81.16,
+            "end": 84.56,
+            "transcription": " ... Cronschröder, LDE, Zevon e GD."
+        },
+        {
+            "order": 11,
+            "start": 85.14,
+            "end": 90.78,
+            "transcription": " Os equipamentos oferecidos pela Conai são para segurança, controle, automação e queimagem..."
+        },
+        {
+            "order": 12,
+            "start": 96.92,
+            "end": 97.64,
+            "transcription": " Alô?"
+        },
+        {
+            "order": 13,
+            "start": 98.14,
+            "end": 98.76,
+            "transcription": " Alô?"
+        },
+        {
+            "order": 14,
+            "start": 98.78,
+            "end": 100.58,
+            "transcription": " Alô? Boa tarde. Mateus?"
+        },
+        {
+            "order": 15,
+            "start": 101.08,
+            "end": 101.5,
+            "transcription": " Oi?"
+        },
+        {
+            "order": 16,
+            "start": 102.18,
+            "end": 104.5,
+            "transcription": " É a Lília da TOTOS de novo. O Alberto está disponível?"
+        },
+        {
+            "order": 17,
+            "start": 104.86,
+            "end": 107.98,
+            "transcription": " Oi. É... Oi, Aline. É Aline?"
+        },
+        {
+            "order": 18,
+            "start": 108.42,
+            "end": 109.08,
+            "transcription": " É Lília."
+        },
+        {
+            "order": 19,
+            "start": 109.4,
+            "end": 111.7,
+            "transcription": " Lília. Oi, Lília. É Alberto. Tudo bem?"
+        },
+        {
+            "order": 20,
+            "start": 111.76,
+            "end": 114.52,
+            "transcription": " Ah, olá, Alberto. Tudo bem. Graças a Deus e o senhor?"
+        },
+        {
+            "order": 21,
+            "start": 115.08,
+            "end": 116.0,
+            "transcription": " Tudo jóia."
+        },
+        {
+            "order": 22,
+            "start": 116.3,
+            "end": 118.94,
+            "transcription": " Que ótimo. Eu sou do departamento Voz do Cliente da TOTOS."
+        },
+        {
+            "order": 23,
+            "start": 119.02000000000001,
+            "end": 122.96000000000001,
+            "transcription": " Eu estou ligando para fazer o NPS, uma avaliação geral anual. Tem dois minutos?"
+        },
+        {
+            "order": 24,
+            "start": 124.32,
+            "end": 125.12,
+            "transcription": " Pode falar."
+        },
+        {
+            "order": 25,
+            "start": 125.12,
+            "end": 128.34,
+            "transcription": " Tá. Só vou confirmar o final do CNPJ da empresa Conai."
+        },
+        {
+            "order": 26,
+            "start": 128.78,
+            "end": 131.24,
+            "transcription": " Que é o final 1.000 contra 7.2. Confirma?"
+        },
+        {
+            "order": 27,
+            "start": 131.44,
+            "end": 131.76,
+            "transcription": " Ok."
+        },
+        {
+            "order": 28,
+            "start": 132.82,
+            "end": 138.16,
+            "transcription": " Iniciando, de uma escala de 0 a 10, qual a probabilidade do senhor recomendar a TOTOS a alguém hoje no geral?"
+        },
+        {
+            "order": 29,
+            "start": 138.6,
+            "end": 138.96,
+            "transcription": " 10."
+        },
+        {
+            "order": 30,
+            "start": 139.98,
+            "end": 143.42000000000002,
+            "transcription": " 10. Suporte técnico ou uma nota para agilidade nos processos?"
+        },
+        {
+            "order": 31,
+            "start": 144.08,
+            "end": 144.56,
+            "transcription": " 10."
+        },
+        {
+            "order": 32,
+            "start": 145.5,
+            "end": 147.52,
+            "transcription": " 10. E o atendimento em si dos agentes?"
+        },
+        {
+            "order": 33,
+            "start": 149.82,
+            "end": 150.3,
+            "transcription": " 10."
+        },
+        {
+            "order": 34,
+            "start": 150.96,
+            "end": 151.36,
+            "transcription": " 10."
+        },
+        {
+            "order": 35,
+            "start": 151.94,
+            "end": 154.46,
+            "transcription": " A atendimento do comercial executivo de vendas?"
+        },
+        {
+            "order": 36,
+            "start": 154.54,
+            "end": 154.96,
+            "transcription": " 10."
+        },
+        {
+            "order": 37,
+            "start": 155.58,
+            "end": 157.88,
+            "transcription": " 10. Com relação aos custos e os valores?"
+        },
+        {
+            "order": 38,
+            "start": 158.78,
+            "end": 159.78,
+            "transcription": " 10."
+        },
+        {
+            "order": 39,
+            "start": 159.78,
+            "end": 166.08,
+            "transcription": " O pessoal reclama muito aqui."
+        },
+        {
+            "order": 40,
+            "start": 166.8,
+            "end": 167.26,
+            "transcription": " 5?"
+        },
+        {
+            "order": 41,
+            "start": 167.96,
+            "end": 168.92000000000002,
+            "transcription": " 5. Ok."
+        },
+        {
+            "order": 42,
+            "start": 169.16,
+            "end": 171.14,
+            "transcription": " E atendimento administrativo e financeiro?"
+        },
+        {
+            "order": 43,
+            "start": 174.46,
+            "end": 175.1,
+            "transcription": " 8."
+        },
+        {
+            "order": 44,
+            "start": 175.8,
+            "end": 177.28,
+            "transcription": " 8. Mais três perguntas."
+        },
+        {
+            "order": 45,
+            "start": 177.32,
+            "end": 183.14,
+            "transcription": " O programa que vocês estão usando atende a necessidade da empresa total, atende parcial ou não atende?"
+        },
+        {
+            "order": 46,
+            "start": 183.56,
+            "end": 184.2,
+            "transcription": " Total."
+        },
+        {
+            "order": 47,
+            "start": 184.92000000000002,
+            "end": 186.9,
+            "transcription": " Uma nota para as atualizações."
+        },
+        {
+            "order": 48,
+            "start": 186.9,
+            "end": 186.98,
+            "transcription": " Ok."
+        },
+        {
+            "order": 49,
+            "start": 188.78,
+            "end": 189.78,
+            "transcription": " 10."
+        },
+        {
+            "order": 50,
+            "start": 189.78,
+            "end": 190.76,
+            "transcription": " É, 10."
+        },
+        {
+            "order": 51,
+            "start": 191.44,
+            "end": 196.46,
+            "transcription": " 10. Bom. E a última pergunta é para avaliar a nossa matriz no atendimento geral aqui de São Paulo."
+        },
+        {
+            "order": 52,
+            "start": 197.96,
+            "end": 198.52,
+            "transcription": " 10."
+        },
+        {
+            "order": 53,
+            "start": 199.16,
+            "end": 203.44,
+            "transcription": " 10. Certo. Gostaria de comentar, deixar alguma reclamação ou sugestão."
+        },
+        {
+            "order": 54,
+            "start": 206.36,
+            "end": 214.82,
+            "transcription": " É, a única reclamação é do valor mesmo da licença, né, que os donos aqui reclamam bastante desse valor que está alto, né."
+        },
+        {
+            "order": 55,
+            "start": 215.46,
+            "end": 217.52,
+            "transcription": " Essa é a única reclamação que nós temos."
+        },
+        {
+            "order": 56,
+            "start": 217.52,
+            "end": 217.8,
+            "transcription": " Ok."
+        },
+        {
+            "order": 57,
+            "start": 217.8,
+            "end": 223.54000000000002,
+            "transcription": " Enquanto os atendimentos estão bons e o software nos atende plenamente."
+        },
+        {
+            "order": 58,
+            "start": 225.36,
+            "end": 228.18,
+            "transcription": " Ok, então é isso. Obrigada, Alberto, pela sua atenção."
+        },
+        {
+            "order": 59,
+            "start": 228.36,
+            "end": 230.84,
+            "transcription": " Ano que vem a gente liga de novo para saber como está, tá bom?"
+        },
+        {
+            "order": 60,
+            "start": 231.04000000000002,
+            "end": 231.4,
+            "transcription": " Ok."
+        },
+        {
+            "order": 61,
+            "start": 232.04000000000002,
+            "end": 232.9,
+            "transcription": " Ótima tarde. Tchau, tchau."
+        },
+        {
+            "order": 62,
+            "start": 232.9,
+            "end": 233.72,
+            "transcription": " Para você também, tchau."
+        },
+        {
+            "order": 63,
+            "start": 233.72,
+            "end": 234.72000000000003,
+            "transcription": " Tchau."
+        }
+    ],
+    "metrics": {
+        "total_words": 64,
+        "words_per_minute": 21.47170655334378,
+        "top_10_words": [
+            [
+                " 10.",
+                8
+            ],
+            [
+                " ok.",
+                4
+            ],
+            [
+                " alô?",
+                2
+            ],
+            [
+                " boa tarde. conai, for english, press 7. digite o ramal desejado ou aguarde para ser atendido.",
+                1
+            ],
+            [
+                " bom dia, entre outros. colocamos à disposição de nossos clientes diversas linhas de queimadores...",
+                1
+            ],
+            [
+                " conai, gasteca, aline, boa tarde.",
+                1
+            ],
+            [
+                " aline, boa tarde. o alberto...",
+                1
+            ],
+            [
+                " só um minutinho.",
+                1
+            ],
+            [
+                " ... ignição, fotocélulas ultravioleta e infravermelho, pressostatos para ar e gás, manômetros e medidores de vazão.",
+                1
+            ],
+            [
+                " a conai agradece sua ligação. por favor, aguarde que dentro de instantes iremos atendê-lo.",
+                1
+            ]
+        ],
+        "magic_word_percentages": {
+            "obrigado": 0.0,
+            "obrigada": 0.0,
+            "por favor": 0.0,
+            "desculpa": 0.0,
+            "desculpe": 0.0,
+            "por gentileza": 0.0,
+            "bom dia": 0.0,
+            "boa tarde": 0.0,
+            "boa noite": 0.0,
+            "agradeço": 0.0,
+            "agradece": 0.0,
+            "gratidão": 0.0,
+            "sinto muito": 0.0,
+            "perdão": 0.0,
+            "me perdoe": 0.0,
+            "com licença": 0.0
+        }
+    }
+}

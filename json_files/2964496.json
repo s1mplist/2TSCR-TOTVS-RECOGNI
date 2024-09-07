@@ -1,0 +1,63 @@
+{
+    "prompt": "Essa é uma transcrição de uma ligação para avialiação de NPS da empresa TOTVS.",
+    "model": "large-v3",
+    "audio_path": "audio_samples/2964496.wav",
+    "transcription": [
+        {
+            "order": 0,
+            "start": 0.0,
+            "end": 20.02,
+            "transcription": " Shark. Obrigado pela sua ligação. Digite 1 para Televendas Shark Tratores. 2 para Balcão de Venda Shark Tratores. 3 para Televendas SK Automotive. 4 para Recepcionista. 5 para Ouvir Novamente ou Aguarde para Falar com um Atendente."
+        },
+        {
+            "order": 1,
+            "start": 30.0,
+            "end": 59.980000000000004,
+            "transcription": " 4 para Ouvir Novamente ou Aguarde para Falar com um Atendente."
+        },
+        {
+            "order": 2,
+            "start": 60.0,
+            "end": 89.98,
+            "transcription": " 4 para Ouvir Novamente ou Aguarde para Falar com um Atendente."
+        },
+        {
+            "order": 3,
+            "start": 90.0,
+            "end": 119.98,
+            "transcription": " 4 para Ouvir Novamente ou Aguarde para Falar com um Atendente."
+        }
+    ],
+    "metrics": {
+        "total_words": 4,
+        "words_per_minute": 2.1826118588577663,
+        "top_10_words": [
+            [
+                " 4 para ouvir novamente ou aguarde para falar com um atendente.",
+                3
+            ],
+            [
+                " shark. obrigado pela sua ligação. digite 1 para televendas shark tratores. 2 para balcão de venda shark tratores. 3 para televendas sk automotive. 4 para recepcionista. 5 para ouvir novamente ou aguarde para falar com um atendente.",
+                1
+            ]
+        ],
+        "magic_word_percentages": {
+            "obrigado": 0.0,
+            "obrigada": 0.0,
+            "por favor": 0.0,
+            "desculpa": 0.0,
+            "desculpe": 0.0,
+            "por gentileza": 0.0,
+            "bom dia": 0.0,
+            "boa tarde": 0.0,
+            "boa noite": 0.0,
+            "agradeço": 0.0,
+            "agradece": 0.0,
+            "gratidão": 0.0,
+            "sinto muito": 0.0,
+            "perdão": 0.0,
+            "me perdoe": 0.0,
+            "com licença": 0.0
+        }
+    }
+}

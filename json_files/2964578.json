@@ -1,0 +1,65 @@
+{
+    "prompt": "Essa é uma transcrição de uma ligação para avialiação de NPS da empresa TOTVS.",
+    "model": "large-v3",
+    "audio_path": "audio_samples/2964578.wav",
+    "transcription": [
+        {
+            "order": 0,
+            "start": 0.0,
+            "end": 29.98,
+            "transcription": " A transcrição de uma ligação para avialiação de NPS da empresa TOTVS"
+        },
+        {
+            "order": 1,
+            "start": 30.0,
+            "end": 59.980000000000004,
+            "transcription": " A transcrição de uma ligação para avialiação de NPS da empresa TOTVS"
+        },
+        {
+            "order": 2,
+            "start": 59.980000000000004,
+            "end": 89.96000000000001,
+            "transcription": " A transcrição de uma ligação para avialiação de NPS da empresa TOTVS"
+        },
+        {
+            "order": 3,
+            "start": 89.98,
+            "end": 119.96000000000001,
+            "transcription": " A transcrição de uma ligação para avialiação de NPS da empresa TOTVS"
+        },
+        {
+            "order": 4,
+            "start": 119.98,
+            "end": 149.96,
+            "transcription": " A transcrição de uma ligação para avialiação de NPS da empresa TOTVS"
+        }
+    ],
+    "metrics": {
+        "total_words": 5,
+        "words_per_minute": 2.00133422281521,
+        "top_10_words": [
+            [
+                " a transcrição de uma ligação para avialiação de nps da empresa totvs",
+                5
+            ]
+        ],
+        "magic_word_percentages": {
+            "obrigado": 0.0,
+            "obrigada": 0.0,
+            "por favor": 0.0,
+            "desculpa": 0.0,
+            "desculpe": 0.0,
+            "por gentileza": 0.0,
+            "bom dia": 0.0,
+            "boa tarde": 0.0,
+            "boa noite": 0.0,
+            "agradeço": 0.0,
+            "agradece": 0.0,
+            "gratidão": 0.0,
+            "sinto muito": 0.0,
+            "perdão": 0.0,
+            "me perdoe": 0.0,
+            "com licença": 0.0
+        }
+    }
+}

@@ -1,0 +1,431 @@
+{
+    "prompt": "Essa é uma transcrição de uma ligação para avialiação de NPS da empresa TOTVS.",
+    "model": "large-v3",
+    "audio_path": "audio_samples/2962505.wav",
+    "transcription": [
+        {
+            "order": 0,
+            "start": 0.0,
+            "end": 23.82,
+            "transcription": " Você ligou para a Escola Comunitária de Campinas, para falar na Secretaria sobre Documentação e Matrícula, digite 1, Financeiro digite 2, Biblioteca digite 3, TI, Portal Educacional digite 4, Cantina digite 5, ou aguarde para ser atendido."
+        },
+        {
+            "order": 1,
+            "start": 30.0,
+            "end": 38.980000000000004,
+            "transcription": " Escola Comunitária, Ivan, bom dia."
+        },
+        {
+            "order": 2,
+            "start": 39.86,
+            "end": 43.84,
+            "transcription": " Bom dia, Ivan, Beatriz da TOTVS falando. Gostaria de falar com a Sra. Mariana, do TI."
+        },
+        {
+            "order": 3,
+            "start": 44.18,
+            "end": 45.32,
+            "transcription": " Só um minutinho, Beatriz."
+        },
+        {
+            "order": 4,
+            "start": 46.22,
+            "end": 46.66,
+            "transcription": " Obrigada."
+        },
+        {
+            "order": 5,
+            "start": 54.72,
+            "end": 55.120000000000005,
+            "transcription": " Informática."
+        },
+        {
+            "order": 6,
+            "start": 56.0,
+            "end": 57.74,
+            "transcription": " Bom dia, falo com a Sra. Mariana?"
+        },
+        {
+            "order": 7,
+            "start": 57.86,
+            "end": 58.14,
+            "transcription": " Isso."
+        },
+        {
+            "order": 8,
+            "start": 58.14,
+            "end": 59.980000000000004,
+            "transcription": " Sra. Mariana, Beatriz."
+        },
+        {
+            "order": 9,
+            "start": 60.0,
+            "end": 61.48,
+            "transcription": " Beatriz da TOTVS falando, tudo bem?"
+        },
+        {
+            "order": 10,
+            "start": 61.58,
+            "end": 62.0,
+            "transcription": " Tudo bem, e você?"
+        },
+        {
+            "order": 11,
+            "start": 63.1,
+            "end": 64.02,
+            "transcription": " Estou bem, obrigada."
+        },
+        {
+            "order": 12,
+            "start": 64.12,
+            "end": 66.58,
+            "transcription": " Sra. Mariana, a Sra. seria responsável pelo sistema, né?"
+        },
+        {
+            "order": 13,
+            "start": 66.62,
+            "end": 66.94,
+            "transcription": " Isso."
+        },
+        {
+            "order": 14,
+            "start": 67.18,
+            "end": 67.74,
+            "transcription": " Na empresa?"
+        },
+        {
+            "order": 15,
+            "start": 68.26,
+            "end": 68.62,
+            "transcription": " Perfeito."
+        },
+        {
+            "order": 16,
+            "start": 68.76,
+            "end": 70.5,
+            "transcription": " É bem rápido o meu contato, Sra. Mariana."
+        },
+        {
+            "order": 17,
+            "start": 70.6,
+            "end": 75.38,
+            "transcription": " Eu preciso só fazer um acompanhamento, né, para saber como está a experiência e a satisfação de vocês."
+        },
+        {
+            "order": 18,
+            "start": 75.52,
+            "end": 75.72,
+            "transcription": " Perfeito."
+        },
+        {
+            "order": 19,
+            "start": 76.08,
+            "end": 81.1,
+            "transcription": " Esse acompanhamento, ele é feito pelo método de NPS, então a Sra. vai avaliar somente 0 a 10 da marca TOTVS,"
+        },
+        {
+            "order": 20,
+            "start": 81.1,
+            "end": 83.46000000000001,
+            "transcription": " são os pontos específicos, dura dois minutinhos, tá bom?"
+        },
+        {
+            "order": 21,
+            "start": 83.48,
+            "end": 83.58,
+            "transcription": " Tá, já."
+        },
+        {
+            "order": 22,
+            "start": 85.16,
+            "end": 89.98,
+            "transcription": " Confirmando, CNPJ, então, é o 49430, 1564,000 contra 53."
+        },
+        {
+            "order": 23,
+            "start": 90.0,
+            "end": 90.88,
+            "transcription": " Isso mesmo."
+        },
+        {
+            "order": 24,
+            "start": 91.8,
+            "end": 95.5,
+            "transcription": " E o da área continua informática, arroba e comunitária, ponto com, ponto BR."
+        },
+        {
+            "order": 25,
+            "start": 95.72,
+            "end": 95.86,
+            "transcription": " É, sim."
+        },
+        {
+            "order": 26,
+            "start": 97.16,
+            "end": 98.5,
+            "transcription": " Obrigada pela confirmação."
+        },
+        {
+            "order": 27,
+            "start": 98.6,
+            "end": 105.52,
+            "transcription": " Sra. Mariana, iniciando, então, numa escala de 0 a 10, qual a probabilidade da Sra. recomendar a TOTVS a um amigo ou colega hoje, na visão que a Sra. tem?"
+        },
+        {
+            "order": 28,
+            "start": 105.54,
+            "end": 105.84,
+            "transcription": " 10."
+        },
+        {
+            "order": 29,
+            "start": 107.26,
+            "end": 109.52,
+            "transcription": " Tem algum comentário que gostaria de deixar sobre a nota?"
+        },
+        {
+            "order": 30,
+            "start": 111.14,
+            "end": 118.2,
+            "transcription": " Então, para a gente aprofundar um pouco mais na melhoria, agora vou falar os pontos específicos e peço que a Sra. avalie também somente 0 a 10, caso tenha contato, tá?"
+        },
+        {
+            "order": 31,
+            "start": 118.2,
+            "end": 118.22,
+            "transcription": " Tá, já."
+        },
+        {
+            "order": 32,
+            "start": 118.22,
+            "end": 118.26,
+            "transcription": " Tá."
+        },
+        {
+            "order": 33,
+            "start": 120.0,
+            "end": 124.0,
+            "transcription": " Em relação ao suporte técnico, como a Sra. avalia a agilidade nos processos de suporte?"
+        },
+        {
+            "order": 34,
+            "start": 124.02,
+            "end": 124.32,
+            "transcription": " 10."
+        },
+        {
+            "order": 35,
+            "start": 125.54,
+            "end": 127.96,
+            "transcription": " E o atendimento dos agentes do suporte?"
+        },
+        {
+            "order": 36,
+            "start": 128.08,
+            "end": 128.5,
+            "transcription": " 10 também."
+        },
+        {
+            "order": 37,
+            "start": 129.92,
+            "end": 133.24,
+            "transcription": " Falando do comercial, o atendimento do executivo de vendas de vocês?"
+        },
+        {
+            "order": 38,
+            "start": 133.36,
+            "end": 133.56,
+            "transcription": " 10."
+        },
+        {
+            "order": 39,
+            "start": 134.92,
+            "end": 137.96,
+            "transcription": " Em relação aos custos e valores dos produtos contratados?"
+        },
+        {
+            "order": 40,
+            "start": 137.98,
+            "end": 138.38,
+            "transcription": " 8."
+        },
+        {
+            "order": 41,
+            "start": 140.16,
+            "end": 142.86,
+            "transcription": " Atendimento do financeiro, referente a boletos, negociações?"
+        },
+        {
+            "order": 42,
+            "start": 142.88,
+            "end": 143.2,
+            "transcription": " 10."
+        },
+        {
+            "order": 43,
+            "start": 145.12,
+            "end": 148.58,
+            "transcription": " Satisfação com a implantação do software? A Sra. participou da implantação?"
+        },
+        {
+            "order": 44,
+            "start": 148.58,
+            "end": 149.58,
+            "transcription": " Não participei."
+        },
+        {
+            "order": 45,
+            "start": 150.0,
+            "end": 159.04,
+            "transcription": " Não, então não precisa avaliar, tá. Falando em relação ao sistema, ele entrega o benefício que vocês precisam? Entrega totalmente, parcialmente ou não entrega?"
+        },
+        {
+            "order": 46,
+            "start": 159.04,
+            "end": 159.54,
+            "transcription": " Entrega, sim."
+        },
+        {
+            "order": 47,
+            "start": 160.98,
+            "end": 165.9,
+            "transcription": " Como foi a experiência da Sra. com a atualização dos softwares? 0 a 10, caso tenha atualizado?"
+        },
+        {
+            "order": 48,
+            "start": 166.38,
+            "end": 167.12,
+            "transcription": " Foi 10."
+        },
+        {
+            "order": 49,
+            "start": 168.46,
+            "end": 175.36,
+            "transcription": " Para finalizar, Sra. Mariana, peço que a Sra. avalie também 0 a 10 o atendimento realizado pela TOPS IP Campinas, a unidade responsável aí por vocês."
+        },
+        {
+            "order": 50,
+            "start": 175.36,
+            "end": 175.62,
+            "transcription": " 10."
+        },
+        {
+            "order": 51,
+            "start": 175.62,
+            "end": 175.74,
+            "transcription": " 10."
+        },
+        {
+            "order": 52,
+            "start": 177.06,
+            "end": 179.84,
+            "transcription": " Então, essas são as perguntas. A Sra. tem algum comentário final?"
+        },
+        {
+            "order": 53,
+            "start": 180.0,
+            "end": 181.48,
+            "transcription": " Não, então é isso mesmo."
+        },
+        {
+            "order": 54,
+            "start": 182.94,
+            "end": 189.14,
+            "transcription": " Tá, esse acompanhamento ocorre em um período de 6 meses a 1 ano, então passando o período, retornaremos o contato, tá bom?"
+        },
+        {
+            "order": 55,
+            "start": 189.98,
+            "end": 192.64,
+            "transcription": " A Sra. tem alguma empresa que gostaria de indicar para a gente ou não?"
+        },
+        {
+            "order": 56,
+            "start": 192.66,
+            "end": 193.44,
+            "transcription": " Não, no momento não."
+        },
+        {
+            "order": 57,
+            "start": 194.66,
+            "end": 196.9,
+            "transcription": " Tá bom, agradeço. Então, ótimo dia e bom trabalho."
+        },
+        {
+            "order": 58,
+            "start": 197.02,
+            "end": 197.1,
+            "transcription": " Tchau."
+        },
+        {
+            "order": 59,
+            "start": 197.1,
+            "end": 197.28,
+            "transcription": " Tchau."
+        }
+    ],
+    "metrics": {
+        "total_words": 60,
+        "words_per_minute": 23.796932839767315,
+        "top_10_words": [
+            [
+                " 10.",
+                6
+            ],
+            [
+                " isso.",
+                2
+            ],
+            [
+                " perfeito.",
+                2
+            ],
+            [
+                " tá, já.",
+                2
+            ],
+            [
+                " tchau.",
+                2
+            ],
+            [
+                " você ligou para a escola comunitária de campinas, para falar na secretaria sobre documentação e matrícula, digite 1, financeiro digite 2, biblioteca digite 3, ti, portal educacional digite 4, cantina digite 5, ou aguarde para ser atendido.",
+                1
+            ],
+            [
+                " escola comunitária, ivan, bom dia.",
+                1
+            ],
+            [
+                " bom dia, ivan, beatriz da totvs falando. gostaria de falar com a sra. mariana, do ti.",
+                1
+            ],
+            [
+                " só um minutinho, beatriz.",
+                1
+            ],
+            [
+                " obrigada.",
+                1
+            ]
+        ],
+        "magic_word_percentages": {
+            "obrigado": 0.0,
+            "obrigada": 0.0,
+            "por favor": 0.0,
+            "desculpa": 0.0,
+            "desculpe": 0.0,
+            "por gentileza": 0.0,
+            "bom dia": 0.0,
+            "boa tarde": 0.0,
+            "boa noite": 0.0,
+            "agradeço": 0.0,
+            "agradece": 0.0,
+            "gratidão": 0.0,
+            "sinto muito": 0.0,
+            "perdão": 0.0,
+            "me perdoe": 0.0,
+            "com licença": 0.0
+        }
+    }
+}

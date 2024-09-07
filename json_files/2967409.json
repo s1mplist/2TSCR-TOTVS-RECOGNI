@@ -1,0 +1,161 @@
+{
+    "prompt": "Essa é uma transcrição de uma ligação para avialiação de NPS da empresa TOTVS.",
+    "model": "large-v3",
+    "audio_path": "audio_samples/2967409.wav",
+    "transcription": [
+        {
+            "order": 0,
+            "start": 0.0,
+            "end": 5.5,
+            "transcription": " Olá, você ligou para a Central de Atendimento da Cartus."
+        },
+        {
+            "order": 1,
+            "start": 5.94,
+            "end": 7.54,
+            "transcription": " Seja muito bem-vindo."
+        },
+        {
+            "order": 2,
+            "start": 8.02,
+            "end": 14.32,
+            "transcription": " Informamos que a Cartus não entra em contato com os clientes solicitando atualização cadastral."
+        },
+        {
+            "order": 3,
+            "start": 14.82,
+            "end": 16.94,
+            "transcription": " Fique atento à segurança dos seus dados."
+        },
+        {
+            "order": 4,
+            "start": 17.56,
+            "end": 21.96,
+            "transcription": " Você sabia que você também pode ser atendido pelo WhatsApp da Cartus?"
+        },
+        {
+            "order": 5,
+            "start": 21.96,
+            "end": 30.340000000000003,
+            "transcription": " Entre em contato através do número 11-3900-2980 e ganhe tempo no seu atendimento."
+        },
+        {
+            "order": 6,
+            "start": 30.86,
+            "end": 36.7,
+            "transcription": " Se você já é nosso cliente e quer falar sobre operações de PLR, digite 1."
+        },
+        {
+            "order": 7,
+            "start": 36.980000000000004,
+            "end": 41.96,
+            "transcription": " Se você já é nosso cliente e quer falar sobre conta digital, digite 2."
+        },
+        {
+            "order": 8,
+            "start": 42.480000000000004,
+            "end": 45.760000000000005,
+            "transcription": " Se você ainda não é nosso cliente, digite 3."
+        },
+        {
+            "order": 9,
+            "start": 46.14,
+            "end": 48.7,
+            "transcription": " Para outros assuntos, digite 4."
+        },
+        {
+            "order": 10,
+            "start": 51.96,
+            "end": 81.94,
+            "transcription": " Se você ainda não é nosso cliente e quer falar sobre operações de PLR, digite 4."
+        },
+        {
+            "order": 11,
+            "start": 82.9,
+            "end": 86.58000000000001,
+            "transcription": " Não, então, aqui é a Central de Atendimento da Cartus, aqui é a CERCOM."
+        },
+        {
+            "order": 12,
+            "start": 87.68,
+            "end": 90.80000000000001,
+            "transcription": " Entendi. E você teria algum telefone dela para poder me passar?"
+        },
+        {
+            "order": 13,
+            "start": 91.98,
+            "end": 92.94000000000001,
+            "transcription": " Não teria."
+        },
+        {
+            "order": 14,
+            "start": 93.56,
+            "end": 94.30000000000001,
+            "transcription": " Tá bom, obrigada."
+        }
+    ],
+    "metrics": {
+        "total_words": 15,
+        "words_per_minute": 10.786193672099708,
+        "top_10_words": [
+            [
+                " olá, você ligou para a central de atendimento da cartus.",
+                1
+            ],
+            [
+                " seja muito bem-vindo.",
+                1
+            ],
+            [
+                " informamos que a cartus não entra em contato com os clientes solicitando atualização cadastral.",
+                1
+            ],
+            [
+                " fique atento à segurança dos seus dados.",
+                1
+            ],
+            [
+                " você sabia que você também pode ser atendido pelo whatsapp da cartus?",
+                1
+            ],
+            [
+                " entre em contato através do número 11-3900-2980 e ganhe tempo no seu atendimento.",
+                1
+            ],
+            [
+                " se você já é nosso cliente e quer falar sobre operações de plr, digite 1.",
+                1
+            ],
+            [
+                " se você já é nosso cliente e quer falar sobre conta digital, digite 2.",
+                1
+            ],
+            [
+                " se você ainda não é nosso cliente, digite 3.",
+                1
+            ],
+            [
+                " para outros assuntos, digite 4.",
+                1
+            ]
+        ],
+        "magic_word_percentages": {
+            "obrigado": 0.0,
+            "obrigada": 0.0,
+            "por favor": 0.0,
+            "desculpa": 0.0,
+            "desculpe": 0.0,
+            "por gentileza": 0.0,
+            "bom dia": 0.0,
+            "boa tarde": 0.0,
+            "boa noite": 0.0,
+            "agradeço": 0.0,
+            "agradece": 0.0,
+            "gratidão": 0.0,
+            "sinto muito": 0.0,
+            "perdão": 0.0,
+            "me perdoe": 0.0,
+            "com licença": 0.0
+        }
+    }
+}

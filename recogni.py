@@ -1,129 +1,193 @@
 import argparse
-import json
 import logging
 import os
-import numpy as np
+import ujson
+import re
+
 from collections import Counter
-from faster_whisper import WhisperModel
+from datetime import datetime
 from pathlib import Path
+from typing import Tuple
+from torch import cuda
+from faster_whisper import WhisperModel
 
-def transcribe_and_analyze(audio_path: str,
-                            model_size: str = "large-v3",
-                            device: str = "cuda",
-                            compute_type: str = "float16",
-                            magic_words: list[str] = None) -> None:
-    """
-    This function performs speech transcription and analysis using the Whisper model.
+MAGIC_WORD_ROOTS = {
+    "obrigado": 0,
+    "por favor": 0,
+    "desculpa": 0,
+    "boa": 0,
+    "agradeço": 0,
+    "gratidão": 0,
+    "sinto muito": 0,
+    "perdão": 0,
+    "com licença": 0,
+}
 
-    Args:
-        audio_path (str): Path to the audio file (.wav format preferred).
-        model_size (str, optional): Whisper model size ("base", "medium", or "large-v3"). 
-            Defaults to "large-v3". Larger models offer higher accuracy but require more resources.
-        device (str, optional): Device to use for transcription ("cpu" or "cuda"). Defaults to "cuda" 
-            if available, leveraging GPU acceleration.
-        compute_type (str, optional): Compute type for transcription ("float16" or "float32"). Defaults to "float16" 
-            for potential memory savings, but may impact accuracy slightly.
-        magic_words (list[str], optional): List of specific words to track their occurrences in the transcription. 
-            Defaults to None.
-    """
-    
-    logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+MAGIC_WORD_PATTERNS = {
+    root: re.compile(rf"\b{root}(a|o|as|os)?s?\b") for root in MAGIC_WORD_ROOTS
+}
 
-    contexto = "Essa é uma transcrição de uma ligação para avialiação de NPS da empresa TOTVS."
+def setup_logging() -> None:
+    """Configura o logging para salvar logs em um diretório 'logs'."""
+    log_directory = "logs"
+    os.makedirs(log_directory, exist_ok=True)
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    log_filename = os.path.join(log_directory, f"transcription_{timestamp}.log")
 
+    logging.basicConfig(
+        filename=log_filename,
+        level=logging.INFO,
+        format="%(asctime)s - %(levelname)s - %(message)s",
+    )
+    console_handler = logging.StreamHandler()
+    console_handler.setLevel(logging.INFO)
+    console_handler.setFormatter(
+        logging.Formatter("%(asctime)s - %(levelname)s - %(message)s")
+    )
+    logging.getLogger().addHandler(console_handler)
+
+
+def transcribe_and_analyze(
+    audio_path: str, prompt: str, model: WhisperModel, beam_size: int
+) -> Tuple[str, dict]:
+    """Transcreve um arquivo de áudio e analisa a transcrição."""
     try:
-        model = WhisperModel(model_size, device=device, compute_type=compute_type)
-        segments, _ = model.transcribe(audio=audio_path,
-                                       language='pt',
-                                       beam_size=5,
-                                       initial_prompt=contexto)
+        segments, _ = model.transcribe(
+            audio=audio_path, language="pt", beam_size=beam_size, initial_prompt=prompt
+        )
 
-        total_words = 0
-        total_duration = 0
-        word_count = Counter()
-        
-        magic_words = ["obrigado", "obrigada", "por favor", "desculpa", "desculpe", 
-                    "por gentileza", "bom dia", "boa tarde", "boa noite", 
-                    "agradeço", "agradece", "gratidão", "sinto muito", 
-                    "perdão", "me perdoe", "com licença"]
-        magic_word_count = Counter({word: 0 for word in magic_words})
-        
         transcription_data_optimized = {
-            "prompt": contexto,
-            "model": model_size,
+            "prompt": prompt,
             "audio_path": str(audio_path),
             "transcription": [],
-            "metrics": {}
-        }
-
-        id = 0
-
-        for segment in segments:
-            if isinstance(segment.text, str):
-                words = np.vectorize(str.lower)(np.array([segment.text])).tolist()
-            else:
-                words = segment.text.lower().split()
-    
-            total_words += len(words)
-            word_count.update(words)
-            magic_word_count.update(set(words) & set(magic_words))
-            total_duration += segment.end - segment.start
-            transcription_data_optimized["transcription"].append({
-                "order": id,
-                "start": segment.start,
-                "end": segment.end,
-                "transcription": segment.text
-            })
-            id += 1
-            
-        if total_duration > 0 and total_words > 0:
-            words_per_minute = (total_words / total_duration) * 60
-            sorted_word_count = word_count.most_common(10) 
-            magic_word_percentages = {word: (count / total_words) * 100 for word, count in magic_word_count.items()}
-            transcription_data_optimized["metrics"].update({
-                "total_words": total_words,
-                "words_per_minute": words_per_minute,
-                "top_10_words": sorted_word_count,
-                "magic_word_percentages": magic_word_percentages,
-            })
-        else:
-            transcription_data_optimized["metrics"].update({
-                "total_words": total_words,
+            "metrics": {
+                "total_words": 0,
                 "words_per_minute": 0,
                 "top_10_words": [],
-                "magic_word_percentages": {word: 0 for word in magic_words},
-            })
+                "magic_word_percentages": {},  # Inicializa vazio
+            },
+        }
+        
+        total_words = 0
+        word_count = Counter()
+        total_duration = 0
+        
+        for root in MAGIC_WORD_ROOTS:
+            MAGIC_WORD_ROOTS[root] = 0
+        
+        # Otimizando o loop de processamento de segmentos
+        for id, segment in enumerate(segments):
+            segment_text_lower = segment.text.lower()
+            words = segment_text_lower.split()
+            total_words += len(words)
+            word_count.update(words)
+            total_duration += segment.end - segment.start
             
-        json_path = 'json_files'
-        os.makedirs(json_path, exist_ok=True)
-
-        json_file = os.path.join(json_path, os.path.basename(os.path.splitext(audio_path)[0])) + '.json'
-
-        try:
-            with open(json_file, "w", encoding="utf-8") as f:
-                json.dump(transcription_data_optimized, f, ensure_ascii=False, indent=4, default=lambda o: str(o))
-                logging.info(f"Transcription and metrics successfully saved in {json_file}")
-        except IOError as e:
-             logging.error(f"Failed to save JSON file: {e}")
+            transcription_data_optimized["transcription"].append(
+                {
+                    "order": id,
+                    "start": segment.start,
+                    "end": segment.end,
+                    "transcription": segment.text,
+                }
+            )
             
+            # Buscar "magic words" usando regex
+            for root, pattern in MAGIC_WORD_PATTERNS.items():
+                matches = pattern.findall(segment_text_lower)
+                MAGIC_WORD_ROOTS[root] += len(matches)
+
+        if total_duration > 0 and total_words > 0:
+            transcription_data_optimized["metrics"].update(
+                {
+                    "total_words": total_words,
+                    "words_per_minute": (total_words / total_duration) * 60,
+                    "top_10_words": word_count.most_common(10),
+                    # Calcula a porcentagem aqui
+                    "magic_word_percentages": {
+                        root: (count / total_words) * 100
+                        for root, count in MAGIC_WORD_ROOTS.items()
+                    },
+                }
+            )
+
+        json_filename = os.path.basename(os.path.splitext(audio_path)[0]) + ".json"
+        return json_filename, transcription_data_optimized
+
     except Exception as e:
-        logging.error(f"Error loading model: {e}")
-        return
+        logging.error(f"Erro ao processar arquivo {audio_path}: {e}")
+        return None, None
+
+
+def save_json(filename: str, data: dict) -> None:
+    """Salva os dados em um arquivo JSON."""
+    json_path = "json_files"
+    os.makedirs(json_path, exist_ok=True)
+    json_file = os.path.join(json_path, filename)
+
+    try:
+        with open(json_file, "w", encoding="utf-8") as f:
+            ujson.dump(data, f, ensure_ascii=False, indent=4)
+        logging.info(f"Transcrição e métricas salvas com sucesso em {json_file}")
+    except IOError as e:
+        logging.error(f"Falha ao salvar arquivo JSON: {e}")
+
+
+def process_file(audio_file: str, prompt: str, model: WhisperModel, beam_size: int) -> None:
+    """Processa um único arquivo de áudio."""
+    filename, data = transcribe_and_analyze(audio_file, prompt, model, beam_size)
+    if filename and data:
+        save_json(filename, data)
+
 
 if __name__ == "__main__":
+    setup_logging()
+
     parser = argparse.ArgumentParser()
-    parser.add_argument("audio_path", help="Path to an audio file or a directory containing audio files")
-    parser.add_argument("--model_size", default="large-v3", help="Whisper model size")
-    parser.add_argument("--device", default="cuda", help="Device to use for transcription")
-    parser.add_argument("--compute_type", default="float16", help="Compute type for transcription")
+    parser.add_argument(
+        "audio_path",
+        help="Caminho para um arquivo de áudio ou um diretório contendo arquivos de áudio",
+    )
+    parser.add_argument(
+        "--prompt",
+        default="Essa é uma transcrição de uma ligação para avaliação de NPS da empresa TOTVS.",
+        help="Prompt inicial para ajudar o modelo a transcrever o áudio",
+    )
+    parser.add_argument(
+        "--model_size", default="large-v3", help="Tamanho do modelo Whisper"
+    )
+    parser.add_argument(
+        "--beam_size", default=5, help="Tamanho do beam"
+    )
+    parser.add_argument(
+        "--device",
+        default="cuda",
+        help="Dispositivo para usar na transcrição (cuda ou cpu)",
+    )
+    parser.add_argument(
+        "--compute_type",
+        default="int8_float16",
+        help="Tipo de computação para a transcrição (float16 ou int8_float16)",
+    )
     args = parser.parse_args()
 
+    # Verifica se a GPU está disponível
+    if args.device == "cuda" and not cuda.is_available():
+        logging.warning(
+            "GPU não encontrada, utilizando CPU. Para usar a GPU, certifique-se de que o PyTorch esteja configurado corretamente."
+        )
+        args.device = "cpu"
+
     audio_path = Path(args.audio_path)
+    model = WhisperModel(
+        args.model_size, device=args.device, compute_type=args.compute_type
+    )
 
     if audio_path.is_file():
-        transcribe_and_analyze(audio_path, args.model_size, args.device, args.compute_type)
+        process_file(audio_path, str(args.prompt), model, args.beam_size)
     elif audio_path.is_dir():
-        for audio_file in audio_path.glob("*.wav"):
-            transcribe_and_analyze(audio_file, args.model_size, args.device, args.compute_type)
+        audio_files = list(audio_path.glob("*.wav"))
+        for audio_file in audio_files:
+            process_file(audio_file, str(args.prompt), model, args.beam_size)
     else:
-        logging.error(f"Error: {audio_path} is not a valid file or directory.")
+        logging.error(f"Erro: {audio_path} não é um arquivo ou diretório válido.")

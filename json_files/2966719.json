@@ -1,0 +1,551 @@
+{
+    "prompt": "Essa é uma transcrição de uma ligação para avialiação de NPS da empresa TOTVS.",
+    "model": "large-v3",
+    "audio_path": "audio_samples/2966719.wav",
+    "transcription": [
+        {
+            "order": 0,
+            "start": 0.0,
+            "end": 0.76,
+            "transcription": " Alô?"
+        },
+        {
+            "order": 1,
+            "start": 0.92,
+            "end": 2.34,
+            "transcription": " Alô, bom dia."
+        },
+        {
+            "order": 2,
+            "start": 2.58,
+            "end": 3.08,
+            "transcription": " Bom dia."
+        },
+        {
+            "order": 3,
+            "start": 3.08,
+            "end": 4.88,
+            "transcription": " Meu nome é Beatriz, falo da TOTVS."
+        },
+        {
+            "order": 4,
+            "start": 4.96,
+            "end": 6.46,
+            "transcription": " Gostaria de falar com o Sr. David Ferraz."
+        },
+        {
+            "order": 5,
+            "start": 6.6000000000000005,
+            "end": 7.16,
+            "transcription": " Sou eu."
+        },
+        {
+            "order": 6,
+            "start": 7.82,
+            "end": 9.32,
+            "transcription": " Oi, Sr. David, tudo bem com o senhor?"
+        },
+        {
+            "order": 7,
+            "start": 9.6,
+            "end": 10.58,
+            "transcription": " Tudo bem, e com você?"
+        },
+        {
+            "order": 8,
+            "start": 11.14,
+            "end": 12.06,
+            "transcription": " Tudo bem, obrigada."
+        },
+        {
+            "order": 9,
+            "start": 12.14,
+            "end": 14.66,
+            "transcription": " O senhor seria o responsável pelo sistema na empresa, não é?"
+        },
+        {
+            "order": 10,
+            "start": 14.84,
+            "end": 14.98,
+            "transcription": " Sim."
+        },
+        {
+            "order": 11,
+            "start": 15.860000000000001,
+            "end": 16.04,
+            "transcription": " Tá."
+        },
+        {
+            "order": 12,
+            "start": 16.6,
+            "end": 18.22,
+            "transcription": " Meu contato é bem rápido, Sr. David."
+        },
+        {
+            "order": 13,
+            "start": 18.32,
+            "end": 23.04,
+            "transcription": " Eu preciso só fazer um acompanhamento para saber como está a experiência e a satisfação de vocês."
+        },
+        {
+            "order": 14,
+            "start": 23.54,
+            "end": 25.92,
+            "transcription": " Esse acompanhamento é feito pelo método de NPS,"
+        },
+        {
+            "order": 15,
+            "start": 26.1,
+            "end": 28.18,
+            "transcription": " então o Sr. avalia de 0 a 10 a marca TOTVS,"
+        },
+        {
+            "order": 16,
+            "start": 28.18,
+            "end": 30.759999999999998,
+            "transcription": " são os pontos específicos, dura dois minutinhos, tudo bem?"
+        },
+        {
+            "order": 17,
+            "start": 30.98,
+            "end": 31.4,
+            "transcription": " Tudo bem."
+        },
+        {
+            "order": 18,
+            "start": 31.4,
+            "end": 38.14,
+            "transcription": " Estou confirmando ser em PJ para iniciarmos ao 61-603-387-1000 contra 65, ok?"
+        },
+        {
+            "order": 19,
+            "start": 38.3,
+            "end": 38.74,
+            "transcription": " Correto."
+        },
+        {
+            "order": 20,
+            "start": 39.72,
+            "end": 45.379999999999995,
+            "transcription": " O e-mail da área, na verdade, seria ti-centro-cervicos.com.br ainda."
+        },
+        {
+            "order": 21,
+            "start": 45.44,
+            "end": 46.36,
+            "transcription": " Perfeito, isso aí."
+        },
+        {
+            "order": 22,
+            "start": 46.96,
+            "end": 48.32,
+            "transcription": " Obrigada pela confirmação."
+        },
+        {
+            "order": 23,
+            "start": 48.46,
+            "end": 53.2,
+            "transcription": " Numa escala de 0 a 10, Sr. David, qual a probabilidade do senhor recomendar a TOTVS a um amigo ou colega?"
+        },
+        {
+            "order": 24,
+            "start": 53.34,
+            "end": 53.6,
+            "transcription": " 10."
+        },
+        {
+            "order": 25,
+            "start": 54.980000000000004,
+            "end": 57.3,
+            "transcription": " Tem algum comentário que gostaria de deixar sobre a nota?"
+        },
+        {
+            "order": 26,
+            "start": 57.54,
+            "end": 57.980000000000004,
+            "transcription": " Não."
+        },
+        {
+            "order": 27,
+            "start": 58.18,
+            "end": 61.06,
+            "transcription": " O produto em si, perfeito, muito bom."
+        },
+        {
+            "order": 28,
+            "start": 62.0,
+            "end": 65.08,
+            "transcription": " Tem as suas eficiências, mas não existe nada compatível no mercado."
+        },
+        {
+            "order": 29,
+            "start": 66.14,
+            "end": 67.48,
+            "transcription": " Muito bom, entendi."
+        },
+        {
+            "order": 30,
+            "start": 67.8,
+            "end": 70.38,
+            "transcription": " Então, para a gente aprofundar um pouquinho mais na melhoria,"
+        },
+        {
+            "order": 31,
+            "start": 70.48,
+            "end": 72.28,
+            "transcription": " agora vou falar alguns pontos específicos"
+        },
+        {
+            "order": 32,
+            "start": 72.28,
+            "end": 75.6,
+            "transcription": " e peço que o Sr. avalie também somente 0 a 10, caso tenha contato."
+        },
+        {
+            "order": 33,
+            "start": 76.53999999999999,
+            "end": 80.78,
+            "transcription": " Falando do suporte técnico, como o Sr. avalia a agilidade nos processos do suporte?"
+        },
+        {
+            "order": 34,
+            "start": 81.68,
+            "end": 82.22,
+            "transcription": " Vamos lá."
+        },
+        {
+            "order": 35,
+            "start": 82.66,
+            "end": 84.12,
+            "transcription": " Vou separar isso em duas áreas."
+        },
+        {
+            "order": 36,
+            "start": 85.12,
+            "end": 87.24000000000001,
+            "transcription": " Eu tenho o suporte ao produto,"
+        },
+        {
+            "order": 37,
+            "start": 88.18,
+            "end": 93.0,
+            "transcription": " que são os módulos, quando a gente abre um chamado com dúvida de algum processo, alguma coisa."
+        },
+        {
+            "order": 38,
+            "start": 94.24000000000001,
+            "end": 95.14,
+            "transcription": " Esse daí é muito bom."
+        },
+        {
+            "order": 39,
+            "start": 95.9,
+            "end": 98.94000000000001,
+            "transcription": " Porém, hoje eu utilizo o cloud."
+        },
+        {
+            "order": 40,
+            "start": 99.56,
+            "end": 105.44000000000001,
+            "transcription": " E quando eu ligo no cloud para pedir qualquer coisa, eu sinto uma ineficiência muito grande."
+        },
+        {
+            "order": 41,
+            "start": 107.16000000000001,
+            "end": 107.64000000000001,
+            "transcription": " Entendi."
+        },
+        {
+            "order": 42,
+            "start": 108.04,
+            "end": 112.18,
+            "transcription": " Então, o Sr. pode avaliar conforme a experiência que o Sr. tem de mais uso, tá?"
+        },
+        {
+            "order": 43,
+            "start": 112.18,
+            "end": 115.16000000000001,
+            "transcription": " Se o Sr. utiliza mais o cloud, o Sr. pode..."
+        },
+        {
+            "order": 44,
+            "start": 115.16000000000001,
+            "end": 117.18,
+            "transcription": " Porque eu não consigo avaliar esses dois..."
+        },
+        {
+            "order": 45,
+            "start": 117.74000000000001,
+            "end": 118.14000000000001,
+            "transcription": " Entendi."
+        },
+        {
+            "order": 46,
+            "start": 118.24000000000001,
+            "end": 119.42,
+            "transcription": " Aí eu uso mais o cloud."
+        },
+        {
+            "order": 47,
+            "start": 119.5,
+            "end": 122.66000000000001,
+            "transcription": " É que eu não gostaria de ser injusto com o pessoal de produtos, entende?"
+        },
+        {
+            "order": 48,
+            "start": 122.84,
+            "end": 126.38000000000001,
+            "transcription": " Em geral, o Sr. pode balancear, então, uma nota em relação ao suporte."
+        },
+        {
+            "order": 49,
+            "start": 126.62,
+            "end": 128.38,
+            "transcription": " Então, de 0 a 10, vamos colocar 5."
+        },
+        {
+            "order": 50,
+            "start": 129.3,
+            "end": 129.54000000000002,
+            "transcription": " Tá."
+        },
+        {
+            "order": 51,
+            "start": 129.72,
+            "end": 134.48000000000002,
+            "transcription": " Falando em relação ao atendimento dos agentes do suporte técnico, como o Sr. avalia..."
+        },
+        {
+            "order": 52,
+            "start": 134.48000000000002,
+            "end": 137.32,
+            "transcription": " Aí eu vou ter que colocar 5 também, por causa do pessoal do cloud."
+        },
+        {
+            "order": 53,
+            "start": 138.32,
+            "end": 138.56,
+            "transcription": " Tá."
+        },
+        {
+            "order": 54,
+            "start": 138.56,
+            "end": 142.38,
+            "transcription": " Falando em relação ao comercial, atendimento do executivo de vendas de vocês?"
+        },
+        {
+            "order": 55,
+            "start": 143.0,
+            "end": 143.36,
+            "transcription": " 8."
+        },
+        {
+            "order": 56,
+            "start": 144.54000000000002,
+            "end": 147.54000000000002,
+            "transcription": " Em relação aos custos e valores dos produtos contratados?"
+        },
+        {
+            "order": 57,
+            "start": 147.68,
+            "end": 148.04000000000002,
+            "transcription": " 3."
+        },
+        {
+            "order": 58,
+            "start": 148.18,
+            "end": 151.86,
+            "transcription": " Pago mais de 60 mil por mês."
+        },
+        {
+            "order": 59,
+            "start": 154.26000000000002,
+            "end": 157.58,
+            "transcription": " Atendimento do financeiro referente a boletos, negociações, caso precise."
+        },
+        {
+            "order": 60,
+            "start": 157.58,
+            "end": 158.94,
+            "transcription": " Esse é 10. Esse é muito rápido."
+        },
+        {
+            "order": 61,
+            "start": 160.16,
+            "end": 163.82,
+            "transcription": " Satisfação com a implantação do software. O Sr. participou da implantação?"
+        },
+        {
+            "order": 62,
+            "start": 163.88,
+            "end": 167.04000000000002,
+            "transcription": " Participei. 10 também. Foi super tranquilo."
+        },
+        {
+            "order": 63,
+            "start": 168.42000000000002,
+            "end": 173.64000000000001,
+            "transcription": " Hoje o sistema entrega o benefício que vocês precisam? Entrega totalmente? Parcialmente ou não entrega?"
+        },
+        {
+            "order": 64,
+            "start": 173.64000000000001,
+            "end": 173.66,
+            "transcription": " Parcialmente."
+        },
+        {
+            "order": 65,
+            "start": 174.84,
+            "end": 178.16,
+            "transcription": " Como foi a experiência do Sr. com a atualização do software?"
+        },
+        {
+            "order": 66,
+            "start": 178.18,
+            "end": 182.72,
+            "transcription": " Olha, foi 10. Achei que ficou muito boa."
+        },
+        {
+            "order": 67,
+            "start": 183.94,
+            "end": 190.64000000000001,
+            "transcription": " Tá. Para finalizar, então, peço que o Sr. avalie também 010 o atendimento realizado pela TOTS São Paulo, a unidade responsável por vocês, Sr. David."
+        },
+        {
+            "order": 68,
+            "start": 191.0,
+            "end": 194.64000000000001,
+            "transcription": " Vamos colocar 8, né? Para não puxar muito tardinha."
+        },
+        {
+            "order": 69,
+            "start": 196.06,
+            "end": 198.98000000000002,
+            "transcription": " São essas as perguntas. Não sei se tem algum comentário final, mais algum ponto?"
+        },
+        {
+            "order": 70,
+            "start": 199.04000000000002,
+            "end": 199.66,
+            "transcription": " Não, só isso."
+        },
+        {
+            "order": 71,
+            "start": 200.5,
+            "end": 202.84,
+            "transcription": " Teria alguma empresa que gostaria de indicar para a gente?"
+        },
+        {
+            "order": 72,
+            "start": 202.88,
+            "end": 203.5,
+            "transcription": " Por enquanto, não."
+        },
+        {
+            "order": 73,
+            "start": 204.36,
+            "end": 208.02,
+            "transcription": " Tá, Sr. David, esse acompanhamento ocorre em um período de 6 meses a 1 ano."
+        },
+        {
+            "order": 74,
+            "start": 208.18,
+            "end": 210.34,
+            "transcription": " Passando o período, retornaremos ao contato, tá bom?"
+        },
+        {
+            "order": 75,
+            "start": 210.46,
+            "end": 210.78,
+            "transcription": " Perfeito."
+        },
+        {
+            "order": 76,
+            "start": 210.96,
+            "end": 212.14000000000001,
+            "transcription": " Então, ótimo dia e bom trabalho."
+        },
+        {
+            "order": 77,
+            "start": 212.32,
+            "end": 213.06,
+            "transcription": " Perfeitamente. Tchau, tchau."
+        },
+        {
+            "order": 78,
+            "start": 213.4,
+            "end": 213.76000000000002,
+            "transcription": " Obrigada."
+        },
+        {
+            "order": 79,
+            "start": 219.94,
+            "end": 220.94,
+            "transcription": " Obrigado."
+        }
+    ],
+    "metrics": {
+        "total_words": 80,
+        "words_per_minute": 27.07581227436822,
+        "top_10_words": [
+            [
+                " tá.",
+                3
+            ],
+            [
+                " entendi.",
+                2
+            ],
+            [
+                " alô?",
+                1
+            ],
+            [
+                " alô, bom dia.",
+                1
+            ],
+            [
+                " bom dia.",
+                1
+            ],
+            [
+                " meu nome é beatriz, falo da totvs.",
+                1
+            ],
+            [
+                " gostaria de falar com o sr. david ferraz.",
+                1
+            ],
+            [
+                " sou eu.",
+                1
+            ],
+            [
+                " oi, sr. david, tudo bem com o senhor?",
+                1
+            ],
+            [
+                " tudo bem, e com você?",
+                1
+            ]
+        ],
+        "magic_word_percentages": {
+            "obrigado": 0.0,
+            "obrigada": 0.0,
+            "por favor": 0.0,
+            "desculpa": 0.0,
+            "desculpe": 0.0,
+            "por gentileza": 0.0,
+            "bom dia": 0.0,
+            "boa tarde": 0.0,
+            "boa noite": 0.0,
+            "agradeço": 0.0,
+            "agradece": 0.0,
+            "gratidão": 0.0,
+            "sinto muito": 0.0,
+            "perdão": 0.0,
+            "me perdoe": 0.0,
+            "com licença": 0.0
+        }
+    }
+}

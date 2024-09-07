@@ -1,0 +1,683 @@
+{
+    "prompt": "Essa é uma transcrição de uma ligação para avialiação de NPS da empresa TOTVS.",
+    "model": "large-v3",
+    "audio_path": "audio_samples/2967576.wav",
+    "transcription": [
+        {
+            "order": 0,
+            "start": 0.0,
+            "end": 4.14,
+            "transcription": " Bem-vindo ao Bourbon Curitiba Hotel & Suites."
+        },
+        {
+            "order": 1,
+            "start": 4.54,
+            "end": 6.74,
+            "transcription": " Para falar com reservas, digite 1."
+        },
+        {
+            "order": 2,
+            "start": 7.44,
+            "end": 9.38,
+            "transcription": " Vendas e comercial, digite 2."
+        },
+        {
+            "order": 3,
+            "start": 10.14,
+            "end": 12.88,
+            "transcription": " Financeiro e administração, digite 3."
+        },
+        {
+            "order": 4,
+            "start": 13.620000000000001,
+            "end": 15.16,
+            "transcription": " Recepção, digite 4."
+        },
+        {
+            "order": 5,
+            "start": 15.92,
+            "end": 17.66,
+            "transcription": " Ou aguarde para ser atendido."
+        },
+        {
+            "order": 6,
+            "start": 18.16,
+            "end": 18.88,
+            "transcription": " Aguarde!"
+        },
+        {
+            "order": 7,
+            "start": 19.66,
+            "end": 22.8,
+            "transcription": " ...por lhe amar a Bourbon Curitiba Convention Hotel."
+        },
+        {
+            "order": 8,
+            "start": 23.38,
+            "end": 25.68,
+            "transcription": " Conozca a maneira brasileira de alojar."
+        },
+        {
+            "order": 9,
+            "start": 27.68,
+            "end": 29.060000000000002,
+            "transcription": " Consuladoria Alessandra?"
+        },
+        {
+            "order": 10,
+            "start": 29.060000000000002,
+            "end": 30.860000000000003,
+            "transcription": " Oi Alessandra, bom dia."
+        },
+        {
+            "order": 11,
+            "start": 31.1,
+            "end": 31.76,
+            "transcription": " Boa tarde."
+        },
+        {
+            "order": 12,
+            "start": 31.94,
+            "end": 33.24,
+            "transcription": " Oi, boa tarde. Tudo bem?"
+        },
+        {
+            "order": 13,
+            "start": 33.260000000000005,
+            "end": 35.34,
+            "transcription": " Meu nome é Lília, eu falo da TOTVS. Tudo bem, você?"
+        },
+        {
+            "order": 14,
+            "start": 36.480000000000004,
+            "end": 37.0,
+            "transcription": " Tudo certo."
+        },
+        {
+            "order": 15,
+            "start": 37.540000000000006,
+            "end": 40.88,
+            "transcription": " É certo. Eu precisava falar com alguém responsável pela controladoria"
+        },
+        {
+            "order": 16,
+            "start": 40.88,
+            "end": 43.78,
+            "transcription": " ou algum gerente para fazer uma avaliação aqui da TOTVS."
+        },
+        {
+            "order": 17,
+            "start": 43.84,
+            "end": 47.06,
+            "transcription": " Eu estou lhe ligando para todas as redes de hotéis para fazer uma avaliação."
+        },
+        {
+            "order": 18,
+            "start": 48.540000000000006,
+            "end": 49.46000000000001,
+            "transcription": " É da TOTVS?"
+        },
+        {
+            "order": 19,
+            "start": 50.18000000000001,
+            "end": 50.58,
+            "transcription": " Isso."
+        },
+        {
+            "order": 20,
+            "start": 51.02,
+            "end": 53.68000000000001,
+            "transcription": " Aguarde um momento, por favor."
+        },
+        {
+            "order": 21,
+            "start": 59.06,
+            "end": 79.68,
+            "transcription": " Só um momento."
+        },
+        {
+            "order": 22,
+            "start": 79.68,
+            "end": 80.68,
+            "transcription": " Ok."
+        },
+        {
+            "order": 23,
+            "start": 83.14,
+            "end": 85.2,
+            "transcription": " ...por lhe amar a Bourbon Curitiba Convention Hotel."
+        },
+        {
+            "order": 24,
+            "start": 85.74000000000001,
+            "end": 88.14,
+            "transcription": " Conozca a maneira brasileira de alojar."
+        },
+        {
+            "order": 25,
+            "start": 89.06,
+            "end": 91.84,
+            "transcription": " Oi, boa tarde. Lília da TOTVS. Com quem eu falo?"
+        },
+        {
+            "order": 26,
+            "start": 92.12,
+            "end": 92.68,
+            "transcription": " Com o Marcon."
+        },
+        {
+            "order": 27,
+            "start": 93.04,
+            "end": 93.94,
+            "transcription": " Tudo bem, Marcon?"
+        },
+        {
+            "order": 28,
+            "start": 94.18,
+            "end": 94.96000000000001,
+            "transcription": " Tudo bem, contigo."
+        },
+        {
+            "order": 29,
+            "start": 95.28,
+            "end": 98.32000000000001,
+            "transcription": " Tudo bem. Eu sou do departamento Voz do Cliente da TOTVS Matriz."
+        },
+        {
+            "order": 30,
+            "start": 98.48,
+            "end": 101.8,
+            "transcription": " Estou entrando em contato com todas as redes de hotéis para fazer uma avaliação."
+        },
+        {
+            "order": 31,
+            "start": 101.96000000000001,
+            "end": 103.48,
+            "transcription": " É o NPS da TOTVS."
+        },
+        {
+            "order": 32,
+            "start": 103.82000000000001,
+            "end": 105.30000000000001,
+            "transcription": " O senhor seria um dos responsáveis?"
+        },
+        {
+            "order": 33,
+            "start": 105.42,
+            "end": 106.74000000000001,
+            "transcription": " Que pode responder?"
+        },
+        {
+            "order": 34,
+            "start": 107.44,
+            "end": 109.14,
+            "transcription": " Eu sou responsável pela controladoria."
+        },
+        {
+            "order": 35,
+            "start": 109.28,
+            "end": 112.16,
+            "transcription": " Seria uma avaliação módulo geral?"
+        },
+        {
+            "order": 36,
+            "start": 113.0,
+            "end": 113.74000000000001,
+            "transcription": " Não, pode ser."
+        },
+        {
+            "order": 37,
+            "start": 114.22,
+            "end": 118.48,
+            "transcription": " Na verdade, eu estou fazendo com a maioria com os controllers dos hotéis."
+        },
+        {
+            "order": 38,
+            "start": 118.48,
+            "end": 119.02000000000001,
+            "transcription": " Certo."
+        },
+        {
+            "order": 39,
+            "start": 119.06,
+            "end": 119.82000000000001,
+            "transcription": " Tem dois minutos?"
+        },
+        {
+            "order": 40,
+            "start": 120.28,
+            "end": 120.92,
+            "transcription": " Sim, tenho."
+        },
+        {
+            "order": 41,
+            "start": 121.42,
+            "end": 124.8,
+            "transcription": " Ok. Só vou confirmar o final do CNPJ para ver se é esse mesmo."
+        },
+        {
+            "order": 42,
+            "start": 124.94,
+            "end": 126.3,
+            "transcription": " É o mil contra 17?"
+        },
+        {
+            "order": 43,
+            "start": 126.84,
+            "end": 127.28,
+            "transcription": " Perfeito."
+        },
+        {
+            "order": 44,
+            "start": 127.9,
+            "end": 130.46,
+            "transcription": " Ok. O senhor responde por outros além desse ou só esse?"
+        },
+        {
+            "order": 45,
+            "start": 130.74,
+            "end": 131.6,
+            "transcription": " Somente esse."
+        },
+        {
+            "order": 46,
+            "start": 131.84,
+            "end": 133.18,
+            "transcription": " Tá. Iniciando então."
+        },
+        {
+            "order": 47,
+            "start": 133.3,
+            "end": 138.74,
+            "transcription": " De uma escala de 0 a 10, qual a probabilidade do senhor recomendar a marca TOTVS a alguém hoje no geral?"
+        },
+        {
+            "order": 48,
+            "start": 140.28,
+            "end": 140.72,
+            "transcription": " Nove."
+        },
+        {
+            "order": 49,
+            "start": 141.22,
+            "end": 146.14000000000001,
+            "transcription": " Nove. As demais perguntas, se não conseguir responder, a gente sabe que é sempre a matriz que fala mais com a gente."
+        },
+        {
+            "order": 50,
+            "start": 146.28,
+            "end": 146.8,
+            "transcription": " É só pular."
+        },
+        {
+            "order": 51,
+            "start": 146.8,
+            "end": 146.9,
+            "transcription": " Tá."
+        },
+        {
+            "order": 52,
+            "start": 147.7,
+            "end": 148.62,
+            "transcription": " Suporte técnico?"
+        },
+        {
+            "order": 53,
+            "start": 149.06,
+            "end": 150.56,
+            "transcription": " Ou só para agilidade nos processos?"
+        },
+        {
+            "order": 54,
+            "start": 150.82,
+            "end": 153.8,
+            "transcription": " Uma pula, porque é direto com a matriz, né? Que faz os chamados, né?"
+        },
+        {
+            "order": 55,
+            "start": 154.36,
+            "end": 159.3,
+            "transcription": " Aham. Consegue avaliar a satisfação com os custos e os valores dos produtos desse hotel?"
+        },
+        {
+            "order": 56,
+            "start": 160.88,
+            "end": 161.4,
+            "transcription": " Oito."
+        },
+        {
+            "order": 57,
+            "start": 161.88,
+            "end": 165.02,
+            "transcription": " Oito. Tem contato com a administrativa e financeira?"
+        },
+        {
+            "order": 58,
+            "start": 166.38,
+            "end": 166.9,
+            "transcription": " Sim."
+        },
+        {
+            "order": 59,
+            "start": 167.68,
+            "end": 168.26,
+            "transcription": " Uma nota?"
+        },
+        {
+            "order": 60,
+            "start": 169.8,
+            "end": 170.32,
+            "transcription": " Nove."
+        },
+        {
+            "order": 61,
+            "start": 171.22,
+            "end": 173.66,
+            "transcription": " Tem contato com o comercial, executivo de vendas?"
+        },
+        {
+            "order": 62,
+            "start": 174.0,
+            "end": 174.9,
+            "transcription": " Não. Pode pular."
+        },
+        {
+            "order": 63,
+            "start": 174.9,
+            "end": 175.06,
+            "transcription": " Aham."
+        },
+        {
+            "order": 64,
+            "start": 176.62,
+            "end": 178.98000000000002,
+            "transcription": " Mais três perguntas... Não, mais quatro perguntas."
+        },
+        {
+            "order": 65,
+            "start": 179.06,
+            "end": 181.48,
+            "transcription": " Implantação. Se o senhor participou, uma nota?"
+        },
+        {
+            "order": 66,
+            "start": 182.8,
+            "end": 184.12,
+            "transcription": " Já, já participei."
+        },
+        {
+            "order": 67,
+            "start": 184.64000000000001,
+            "end": 185.02,
+            "transcription": " Aham."
+        },
+        {
+            "order": 68,
+            "start": 185.08,
+            "end": 185.68,
+            "transcription": " Implantação."
+        },
+        {
+            "order": 69,
+            "start": 188.12,
+            "end": 191.38,
+            "transcription": " Nós que eu participei, oito."
+        },
+        {
+            "order": 70,
+            "start": 191.84,
+            "end": 193.22,
+            "transcription": " Oito. Mais três perguntas."
+        },
+        {
+            "order": 71,
+            "start": 193.28,
+            "end": 198.5,
+            "transcription": " O programa que vocês estão usando atende à necessidade da empresa total, atende parcial ou não atende?"
+        },
+        {
+            "order": 72,
+            "start": 200.0,
+            "end": 202.44,
+            "transcription": " Dos módulos que nós utilizamos hoje?"
+        },
+        {
+            "order": 73,
+            "start": 202.9,
+            "end": 204.64000000000001,
+            "transcription": " Isso. No hotel."
+        },
+        {
+            "order": 74,
+            "start": 205.28,
+            "end": 205.78,
+            "transcription": " Atende."
+        },
+        {
+            "order": 75,
+            "start": 206.36,
+            "end": 207.22,
+            "transcription": " Total ou parcial?"
+        },
+        {
+            "order": 76,
+            "start": 207.74,
+            "end": 208.04,
+            "transcription": " Total."
+        },
+        {
+            "order": 77,
+            "start": 208.04,
+            "end": 208.12,
+            "transcription": " Total."
+        },
+        {
+            "order": 78,
+            "start": 209.06,
+            "end": 210.84,
+            "transcription": " Uma nota para as atualizações?"
+        },
+        {
+            "order": 79,
+            "start": 212.64000000000001,
+            "end": 213.2,
+            "transcription": " Oito."
+        },
+        {
+            "order": 80,
+            "start": 213.76,
+            "end": 217.5,
+            "transcription": " Oito. E ótima pergunta para avaliar a unidade TOTUS CM Net Soluções."
+        },
+        {
+            "order": 81,
+            "start": 218.44,
+            "end": 219.38,
+            "transcription": " Desculpa, pergunta?"
+        },
+        {
+            "order": 82,
+            "start": 219.38,
+            "end": 225.76,
+            "transcription": " Para avaliar a unidade TOTUS CM Net Soluções que presta serviço para os hotéis."
+        },
+        {
+            "order": 83,
+            "start": 226.12,
+            "end": 226.7,
+            "transcription": " Tem contato?"
+        },
+        {
+            "order": 84,
+            "start": 227.12,
+            "end": 227.44,
+            "transcription": " Não."
+        },
+        {
+            "order": 85,
+            "start": 227.96,
+            "end": 228.84,
+            "transcription": " Não? Tá bem."
+        },
+        {
+            "order": 86,
+            "start": 229.48000000000002,
+            "end": 232.62,
+            "transcription": " Gostaria de comentar, deixar alguma reclamação ou sugestão?"
+        },
+        {
+            "order": 87,
+            "start": 233.06,
+            "end": 233.96,
+            "transcription": " No momento não, também."
+        },
+        {
+            "order": 88,
+            "start": 234.12,
+            "end": 236.22,
+            "transcription": " Não? Certinho. Então é isso."
+        },
+        {
+            "order": 89,
+            "start": 236.36,
+            "end": 238.88,
+            "transcription": " É só confirmando que... Deixa eu ver se eu localizo."
+        },
+        {
+            "order": 90,
+            "start": 239.06,
+            "end": 239.56,
+            "transcription": " Os dados."
+        },
+        {
+            "order": 91,
+            "start": 241.5,
+            "end": 242.34,
+            "transcription": " É Marco."
+        },
+        {
+            "order": 92,
+            "start": 243.0,
+            "end": 243.44,
+            "transcription": " Marco."
+        },
+        {
+            "order": 93,
+            "start": 244.44,
+            "end": 246.66,
+            "transcription": " Marco. Não localizei."
+        },
+        {
+            "order": 94,
+            "start": 246.74,
+            "end": 247.92000000000002,
+            "transcription": " Me confirma só o seu e-mail."
+        },
+        {
+            "order": 95,
+            "start": 248.42000000000002,
+            "end": 252.0,
+            "transcription": " É marco.campos.com.br"
+        },
+        {
+            "order": 96,
+            "start": 252.0,
+            "end": 254.56,
+            "transcription": " Ok. Da controladoria."
+        },
+        {
+            "order": 97,
+            "start": 254.94,
+            "end": 255.12,
+            "transcription": " Isso."
+        },
+        {
+            "order": 98,
+            "start": 255.3,
+            "end": 259.24,
+            "transcription": " Certo, então. De seis meses a um ano a gente volta a ligar para saber se está tudo bem e manter o relacionamento."
+        },
+        {
+            "order": 99,
+            "start": 259.42,
+            "end": 260.82,
+            "transcription": " Obrigada, Marco. Ótima tarde."
+        },
+        {
+            "order": 100,
+            "start": 261.08,
+            "end": 261.52,
+            "transcription": " Tchau, tchau."
+        },
+        {
+            "order": 101,
+            "start": 261.64,
+            "end": 261.86,
+            "transcription": " Tchau."
+        }
+    ],
+    "metrics": {
+        "total_words": 102,
+        "words_per_minute": 30.65825067628495,
+        "top_10_words": [
+            [
+                " ...por lhe amar a bourbon curitiba convention hotel.",
+                2
+            ],
+            [
+                " conozca a maneira brasileira de alojar.",
+                2
+            ],
+            [
+                " isso.",
+                2
+            ],
+            [
+                " nove.",
+                2
+            ],
+            [
+                " oito.",
+                2
+            ],
+            [
+                " aham.",
+                2
+            ],
+            [
+                " total.",
+                2
+            ],
+            [
+                " bem-vindo ao bourbon curitiba hotel & suites.",
+                1
+            ],
+            [
+                " para falar com reservas, digite 1.",
+                1
+            ],
+            [
+                " vendas e comercial, digite 2.",
+                1
+            ]
+        ],
+        "magic_word_percentages": {
+            "obrigado": 0.0,
+            "obrigada": 0.0,
+            "por favor": 0.0,
+            "desculpa": 0.0,
+            "desculpe": 0.0,
+            "por gentileza": 0.0,
+            "bom dia": 0.0,
+            "boa tarde": 0.0,
+            "boa noite": 0.0,
+            "agradeço": 0.0,
+            "agradece": 0.0,
+            "gratidão": 0.0,
+            "sinto muito": 0.0,
+            "perdão": 0.0,
+            "me perdoe": 0.0,
+            "com licença": 0.0
+        }
+    }
+}
