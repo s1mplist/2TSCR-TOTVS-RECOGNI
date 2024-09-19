@@ -11,7 +11,7 @@
 
 ## Instalação
 
-O Recogni requer Python 3.8 ou superior e depende de bibliotecas como `faster-whisper`, `ctranslate2`, e `CUDA`. Um guia detalhado de instalação, incluindo a configuração do CUDA no Windows (WSL) e Ubuntu, está disponível no arquivo [README.md](README.md) do projeto. 
+O Recogni requer Python 3.8 ou superior e depende de bibliotecas como `faster-whisper`, `ctranslate2`, e `CUDA`.
 
 ## Utilização
 
