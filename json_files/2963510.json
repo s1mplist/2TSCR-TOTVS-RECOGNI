@@ -1,7 +1,6 @@
 {
-    "prompt": "Essa é uma transcrição de uma ligação para avialiação de NPS da empresa TOTVS.",
-    "model": "large-v3",
-    "audio_path": "audio_samples/2963510.wav",
+    "prompt": "Essa é uma transcrição de uma ligação para avaliação de NPS da empresa TOTVS.",
+    "audio_path": "audio_samples\/2963510.wav",
     "transcription": [
         {
             "order": 0,
@@ -47,7 +46,7 @@
         },
         {
             "order": 7,
-            "start": 16.86,
+            "start": 16.84,
             "end": 18.0,
             "transcription": " Ou aguarde atendimento."
         },
@@ -90,7 +89,7 @@
         {
             "order": 14,
             "start": 46.879999999999995,
-            "end": 47.879999999999995,
+            "end": 47.94,
             "transcription": " Só um minutinho."
         },
         {
@@ -102,12 +101,12 @@
         {
             "order": 16,
             "start": 58.5,
-            "end": 63.34,
-            "transcription": " Eu gostaria de fazer um acompanhamento referente ao sistema que vocês utilizam,"
+            "end": 63.32,
+            "transcription": " Eu gostaria de fazer um acompanhamento referente ao sistema que você utiliza,"
         },
         {
             "order": 17,
-            "start": 63.44,
+            "start": 63.4,
             "end": 65.78,
             "transcription": " no caso, se for ele o responsável pelo sistema."
         },
@@ -143,7 +142,7 @@
         },
         {
             "order": 23,
-            "start": 107.9,
+            "start": 107.88,
             "end": 110.38,
             "transcription": " Seria o Sr. Moisés ou teria um outro responsável?"
         },
@@ -162,7 +161,7 @@
         {
             "order": 26,
             "start": 116.34,
-            "end": 117.18,
+            "end": 117.22,
             "transcription": " Muito obrigada."
         },
         {
@@ -173,66 +172,59 @@
         }
     ],
     "metrics": {
-        "total_words": 28,
-        "words_per_minute": 25.225225225225223,
+        "total_words": 142,
+        "words_per_minute": 127.62133013780706,
         "top_10_words": [
             [
-                " obrigada.",
-                2
+                "o",
+                6
             ],
             [
-                " você ligou para a sanquímica. é um prazer atendê-lo.",
-                1
+                "um",
+                5
             ],
             [
-                " para falar na área comercial, digite 1.",
-                1
+                "falar",
+                4
             ],
             [
-                " compras, 2.",
-                1
+                "gostaria",
+                4
             ],
             [
-                " faturamento, 3.",
-                1
+                "de",
+                4
             ],
             [
-                " laboratório, 4.",
-                1
+                "para",
+                3
             ],
             [
-                " produção, 5.",
-                1
+                "na",
+                3
             ],
             [
-                " financeiro administrativo, 6.",
-                1
+                "obrigada.",
+                3
             ],
             [
-                " ou aguarde atendimento.",
-                1
+                "boa",
+                3
             ],
             [
-                " sanquímica, vitória, boa tarde.",
-                1
+                "com",
+                3
             ]
         ],
         "magic_word_percentages": {
             "obrigado": 0.0,
-            "obrigada": 0.0,
             "por favor": 0.0,
             "desculpa": 0.0,
-            "desculpe": 0.0,
-            "por gentileza": 0.0,
-            "bom dia": 0.0,
-            "boa tarde": 0.0,
-            "boa noite": 0.0,
+            "boa": 2.112676056338028,
             "agradeço": 0.0,
-            "agradece": 0.0,
             "gratidão": 0.0,
             "sinto muito": 0.0,
             "perdão": 0.0,
-            "me perdoe": 0.0,
             "com licença": 0.0
         }
     }

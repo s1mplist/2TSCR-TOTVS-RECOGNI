@@ -1,132 +1,134 @@
 {
-    "prompt": "Essa é uma transcrição de uma ligação para avialiação de NPS da empresa TOTVS.",
-    "model": "large-v3",
-    "audio_path": "audio_samples/2967344.wav",
+    "prompt": "Essa é uma transcrição de uma ligação para avaliação de NPS da empresa TOTVS.",
+    "audio_path": "audio_samples\/2967344.wav",
     "transcription": [
         {
             "order": 0,
             "start": 0.0,
+            "end": 1.92,
+            "transcription": " Olá, Sojas BR, boa tarde."
+        },
+        {
+            "order": 1,
+            "start": 2.34,
             "end": 6.0600000000000005,
             "transcription": " Boa tarde, meu nome é Viviane, eu falo aqui da TOTVS Matriz, tudo bem?"
         },
         {
-            "order": 1,
-            "start": 6.78,
-            "end": 7.24,
+            "order": 2,
+            "start": 6.76,
+            "end": 7.22,
             "transcription": " Tudo."
         },
         {
-            "order": 2,
+            "order": 3,
             "start": 7.74,
             "end": 10.8,
             "transcription": " Eu gostaria, por favor, de falar com o Giovanni Queiroga."
         },
         {
-            "order": 3,
+            "order": 4,
             "start": 11.88,
-            "end": 13.120000000000001,
+            "end": 13.1,
             "transcription": " Ele não se encontra."
         },
         {
-            "order": 4,
+            "order": 5,
             "start": 14.040000000000001,
             "end": 18.54,
             "transcription": " Certo, e teria algum outro responsável pelo sistema da TOTVS ou seria somente ele?"
         },
         {
-            "order": 5,
-            "start": 19.26,
+            "order": 6,
+            "start": 19.240000000000002,
             "end": 20.2,
             "transcription": " É só ele mesmo."
         },
         {
-            "order": 6,
-            "start": 20.72,
+            "order": 7,
+            "start": 20.740000000000002,
             "end": 22.94,
             "transcription": " Entendi, eu consigo falar com ele em qual horário?"
         },
         {
-            "order": 7,
+            "order": 8,
             "start": 23.96,
-            "end": 25.92,
+            "end": 25.94,
             "transcription": " Deixa eu verificar aqui com o Juliano só um instante, tá?"
         },
         {
-            "order": 8,
+            "order": 9,
             "start": 30.0,
             "end": 31.0,
             "transcription": " Obrigado."
         },
         {
-            "order": 9,
+            "order": 10,
             "start": 60.0,
             "end": 61.0,
             "transcription": " Obrigado."
         },
         {
-            "order": 10,
+            "order": 11,
             "start": 90.0,
             "end": 91.0,
             "transcription": " Obrigado."
         }
     ],
     "metrics": {
-        "total_words": 11,
-        "words_per_minute": 28.156996587030715,
+        "total_words": 75,
+        "words_per_minute": 195.48218940052135,
         "top_10_words": [
             [
-                " obrigado.",
+                "eu",
+                4
+            ],
+            [
+                "com",
                 3
             ],
             [
-                " boa tarde, meu nome é viviane, eu falo aqui da totvs matriz, tudo bem?",
-                1
+                "ele",
+                3
             ],
             [
-                " tudo.",
-                1
+                "obrigado.",
+                3
             ],
             [
-                " eu gostaria, por favor, de falar com o giovanni queiroga.",
-                1
+                "boa",
+                2
             ],
             [
-                " ele não se encontra.",
-                1
+                "é",
+                2
             ],
             [
-                " certo, e teria algum outro responsável pelo sistema da totvs ou seria somente ele?",
-                1
+                "aqui",
+                2
             ],
             [
-                " é só ele mesmo.",
-                1
+                "da",
+                2
             ],
             [
-                " entendi, eu consigo falar com ele em qual horário?",
-                1
+                "totvs",
+                2
             ],
             [
-                " deixa eu verificar aqui com o juliano só um instante, tá?",
-                1
+                "falar",
+                2
             ]
         ],
         "magic_word_percentages": {
-            "obrigado": 0.0,
-            "obrigada": 0.0,
-            "por favor": 0.0,
+            "obrigado": 4.0,
+            "por favor": 1.3333333333333335,
             "desculpa": 0.0,
-            "desculpe": 0.0,
-            "por gentileza": 0.0,
-            "bom dia": 0.0,
-            "boa tarde": 0.0,
-            "boa noite": 0.0,
+            "boa": 2.666666666666667,
             "agradeço": 0.0,
-            "agradece": 0.0,
             "gratidão": 0.0,
             "sinto muito": 0.0,
             "perdão": 0.0,
-            "me perdoe": 0.0,
             "com licença": 0.0
         }
     }

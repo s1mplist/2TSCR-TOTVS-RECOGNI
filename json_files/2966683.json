@@ -1,7 +1,6 @@
 {
-    "prompt": "Essa é uma transcrição de uma ligação para avialiação de NPS da empresa TOTVS.",
-    "model": "large-v3",
-    "audio_path": "audio_samples/2966683.wav",
+    "prompt": "Essa é uma transcrição de uma ligação para avaliação de NPS da empresa TOTVS.",
+    "audio_path": "audio_samples\/2966683.wav",
     "transcription": [
         {
             "order": 0,
@@ -36,7 +35,7 @@
         {
             "order": 5,
             "start": 18.900000000000002,
-            "end": 27.28,
+            "end": 27.26,
             "transcription": " E para todas as entidades, chegou o Hotbit Olímpia."
         },
         {
@@ -53,7 +52,7 @@
         },
         {
             "order": 8,
-            "start": 45.040000000000006,
+            "start": 45.14,
             "end": 47.160000000000004,
             "transcription": " Percebção, Elisângela, bom dia."
         },
@@ -71,7 +70,7 @@
         },
         {
             "order": 11,
-            "start": 50.46,
+            "start": 50.44,
             "end": 53.62,
             "transcription": " Gostaria de falar no administrativo financeiro ou com o gerente?"
         },
@@ -89,7 +88,7 @@
         },
         {
             "order": 14,
-            "start": 58.36,
+            "start": 58.379999999999995,
             "end": 58.98,
             "transcription": " Obrigada."
         },
@@ -119,7 +118,7 @@
         },
         {
             "order": 19,
-            "start": 81.22,
+            "start": 81.2,
             "end": 81.5,
             "transcription": " Tudo."
         },
@@ -132,7 +131,7 @@
         {
             "order": 21,
             "start": 82.88000000000001,
-            "end": 85.9,
+            "end": 86.62,
             "transcription": " Eu precisava falar com algum gerente ou coordenadora ou supervisor para fazer uma avaliação."
         },
         {
@@ -156,77 +155,70 @@
         {
             "order": 25,
             "start": 93.60000000000001,
-            "end": 94.56,
+            "end": 94.82000000000001,
             "transcription": " Tá bom, obrigada, Letícia."
         },
         {
             "order": 26,
-            "start": 94.56,
-            "end": 95.56,
+            "start": 94.82000000000001,
+            "end": 95.54,
             "transcription": " De nada, tchau, tchau."
         }
     ],
     "metrics": {
-        "total_words": 27,
-        "words_per_minute": 29.40108892921962,
+        "total_words": 140,
+        "words_per_minute": 150.8078994614004,
         "top_10_words": [
             [
-                " de nada, tchau, tchau.",
-                2
+                "para",
+                7
             ],
             [
-                " obrigado por ligar para o hotbit resort.",
-                1
+                "o",
+                5
             ],
             [
-                " para falar em reservas, disque 1.",
-                1
+                "de",
+                4
             ],
             [
-                " departamento administrativo, disque 2.",
-                1
+                "ou",
+                4
             ],
             [
-                " departamento de compras, disque 3.",
-                1
+                "bom",
+                4
             ],
             [
-                " ou aguarde para ser atendido.",
-                1
+                "com",
+                4
             ],
             [
-                " e para todas as entidades, chegou o hotbit olímpia.",
-                1
+                "eu",
+                4
             ],
             [
-                " para quem quer muita diversão e tranquilidade.",
-                1
+                "falar",
+                3
             ],
             [
-                " hotbit.",
-                1
+                "disque",
+                3
             ],
             [
-                " percebção, elisângela, bom dia.",
-                1
+                "dia.",
+                3
             ]
         ],
         "magic_word_percentages": {
-            "obrigado": 0.0,
-            "obrigada": 0.0,
+            "obrigado": 0.7142857142857143,
             "por favor": 0.0,
             "desculpa": 0.0,
-            "desculpe": 0.0,
-            "por gentileza": 0.0,
-            "bom dia": 0.0,
-            "boa tarde": 0.0,
-            "boa noite": 0.0,
+            "boa": 0.0,
             "agradeço": 0.0,
-            "agradece": 0.0,
             "gratidão": 0.0,
             "sinto muito": 0.0,
             "perdão": 0.0,
-            "me perdoe": 0.0,
             "com licença": 0.0
         }
     }

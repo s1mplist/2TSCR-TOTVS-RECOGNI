@@ -1,7 +1,6 @@
 {
-    "prompt": "Essa é uma transcrição de uma ligação para avialiação de NPS da empresa TOTVS.",
-    "model": "large-v3",
-    "audio_path": "audio_samples/2968443.wav",
+    "prompt": "Essa é uma transcrição de uma ligação para avaliação de NPS da empresa TOTVS.",
+    "audio_path": "audio_samples\/2968443.wav",
     "transcription": [
         {
             "order": 0,
@@ -35,8 +34,8 @@
         },
         {
             "order": 5,
-            "start": 15.72,
-            "end": 16.5,
+            "start": 15.74,
+            "end": 16.48,
             "transcription": " Sim, tenho sim."
         },
         {
@@ -66,26 +65,26 @@
         {
             "order": 10,
             "start": 29.580000000000002,
-            "end": 35.24,
-            "transcription": " A nota que vocês utilizam hoje na empresa e no seu departamento, você teria dois minutinhos para falar comigo?"
+            "end": 33.52,
+            "transcription": " A nota está aqui no tema, a gente tem uma nota até alta."
         },
         {
             "order": 11,
-            "start": 35.24,
+            "start": 34.02,
             "end": 36.72,
             "transcription": " O que a nota seria um pouco mais baixa, então, seria no suporte."
         },
         {
             "order": 12,
-            "start": 36.900000000000006,
-            "end": 39.88,
-            "transcription": " Certo, eu só vou fazer algumas informações, porque está em segurança."
+            "start": 37.08,
+            "end": 39.760000000000005,
+            "transcription": " Mas até então, eu deixo chegar nesse caso ainda."
         },
         {
             "order": 13,
-            "start": 40.980000000000004,
+            "start": 40.7,
             "end": 47.040000000000006,
-            "transcription": " O seu nome é Marlon Almeida e atualmente o senhor é um dos responsáveis que faz a utilização do TOTVS na empresa."
+            "transcription": " O seu nome é Marlon Almeida e atualmente o senhor é um dos responsáveis que faz a utilização do TOTVS na empresa?"
         },
         {
             "order": 14,
@@ -97,19 +96,19 @@
             "order": 15,
             "start": 48.540000000000006,
             "end": 52.540000000000006,
-            "transcription": " Certo, o e-mail continua sendo marlon.marcineiro.com.br."
+            "transcription": " Certo, o e-mail continua sendo marlon.marcineiro.com.br?"
         },
         {
             "order": 16,
             "start": 53.24,
-            "end": 54.620000000000005,
+            "end": 54.6,
             "transcription": " Isso, eu não tenho suporte, não tenho contato."
         },
         {
             "order": 17,
-            "start": 54.64,
-            "end": 56.18000000000001,
-            "transcription": " Certo, obrigada pelas informações."
+            "start": 54.620000000000005,
+            "end": 56.36,
+            "transcription": " Certo, obrigada pelas confirmações."
         },
         {
             "order": 18,
@@ -133,13 +132,13 @@
             "order": 21,
             "start": 59.58,
             "end": 66.24,
-            "transcription": " Numa escala de 0 a 10, qual a probabilidade do senhor recomendar a TOTVS a um amigo ou colega hoje?"
+            "transcription": " Em uma escala de 0 a 10, qual a probabilidade do senhor recomendar a TOTVS a um amigo ou colega hoje?"
         },
         {
             "order": 22,
             "start": 66.25999999999999,
             "end": 68.02,
-            "transcription": " É imparcial, pode pôr um parcial."
+            "transcription": " É imparcial, pode colocar um imparcial."
         },
         {
             "order": 23,
@@ -155,13 +154,13 @@
         },
         {
             "order": 25,
-            "start": 73.46,
-            "end": 74.36,
-            "transcription": " Não, não, estou tranquilo."
+            "start": 73.48,
+            "end": 74.38,
+            "transcription": " Não, não estou se preocupando."
         },
         {
             "order": 26,
-            "start": 74.38,
+            "start": 74.4,
             "end": 77.48,
             "transcription": " Certo, eu gostaria de me informar o motivo da sua nota ou não."
         },
@@ -191,21 +190,21 @@
         },
         {
             "order": 31,
-            "start": 95.36,
+            "start": 95.38,
             "end": 97.94,
             "transcription": " aonde você vai me responder a nota de 0 a 10."
         },
         {
             "order": 32,
-            "start": 98.36,
+            "start": 98.38,
             "end": 100.52,
-            "transcription": " Não precisa falar o motivo da sua nota."
+            "transcription": " Não precisa falar o motivo da sua nota"
         },
         {
             "order": 33,
-            "start": 100.72,
+            "start": 100.52,
             "end": 105.32,
-            "transcription": " E também não precisa responder caso você não tenha o contato direto com a área, tudo bem?"
+            "transcription": " e também não precisa responder caso você não tenha o contato direto com a área, tudo bem?"
         },
         {
             "order": 34,
@@ -215,7 +214,7 @@
         },
         {
             "order": 35,
-            "start": 114.5,
+            "start": 114.52,
             "end": 118.44,
             "transcription": " Certo, em relação ao atendimento 4, né?"
         },
@@ -233,117 +232,117 @@
         },
         {
             "order": 38,
-            "start": 125.6,
+            "start": 125.84,
             "end": 128.35999999999999,
             "transcription": " Certo, o atendimento do executivo de vendas."
         },
         {
             "order": 39,
-            "start": 132.34,
+            "start": 132.4,
             "end": 136.38,
             "transcription": " Certo, a sua satisfação com o custo dos produtos contratados."
         },
         {
             "order": 40,
-            "start": 138.57999999999998,
+            "start": 138.64,
             "end": 142.32,
             "transcription": " Certo, o atendimento do administrativo financeiro da TOTVS."
         },
         {
             "order": 41,
-            "start": 145.12,
+            "start": 145.16,
             "end": 149.32,
             "transcription": " Certo, e a sua satisfação com a importância."
         },
         {
             "order": 42,
             "start": 149.32,
-            "end": 149.4,
-            "transcription": " Certo, e a sua satisfação com a importância."
-        },
-        {
-            "order": 43,
-            "start": 149.4,
             "end": 149.56,
             "transcription": " Certo, e a sua satisfação com a importância."
         },
         {
-            "order": 44,
+            "order": 43,
             "start": 149.58,
             "end": 153.46,
             "transcription": " Certo, e a sua implantação do software ou de algum módulo, caso você tenha participado."
         },
         {
-            "order": 45,
-            "start": 155.20000000000002,
+            "order": 44,
+            "start": 155.18,
             "end": 161.54000000000002,
             "transcription": " Certo, você acha que hoje o produto da TOTVS entrega o benefício esperado pela empresa ou pelo seu departamento?"
         },
         {
-            "order": 46,
+            "order": 45,
             "start": 161.9,
             "end": 164.86,
             "transcription": " Tem a opção de entrega total, parcial ou não entrega?"
         },
         {
-            "order": 47,
+            "order": 46,
             "start": 168.96,
             "end": 173.84,
             "transcription": " Certo, também de 0 a 10, como que foi essa experiência com a última atualização do software,"
         },
         {
-            "order": 48,
+            "order": 47,
             "start": 174.02,
             "end": 176.78,
             "transcription": " caso vocês tenham feito essa atualização de 0 a 10?"
         },
         {
-            "order": 49,
+            "order": 48,
             "start": 179.58,
             "end": 185.54000000000002,
             "transcription": " Certo, e a última nota, Marlon, que seria em relação à unidade TOTVS Goiás,"
         },
         {
-            "order": 50,
+            "order": 49,
             "start": 185.72000000000003,
             "end": 188.60000000000002,
             "transcription": " de 0 a 10, como que você avalia, caso tenha contato?"
         },
         {
-            "order": 51,
+            "order": 50,
             "start": 190.06,
             "end": 193.9,
             "transcription": " Certo, e de tudo isso que eu lhe perguntei, você gostaria de acrescentar algum ponto?"
         },
         {
-            "order": 52,
+            "order": 51,
             "start": 195.9,
             "end": 201.02,
             "transcription": " Certo, no caso, nós estamos entrando em contato mesmo, realizando esse acompanhamento,"
         },
         {
-            "order": 53,
+            "order": 52,
             "start": 201.36,
             "end": 204.18,
             "transcription": " justamente para termos as nossas melhorias contínuas,"
         },
         {
-            "order": 54,
-            "start": 204.18,
-            "end": 208.3,
+            "order": 53,
+            "start": 204.34,
+            "end": 208.28,
             "transcription": " então, no prazo de seis meses a um ano, nós iremos retornar o contato com você"
         },
         {
+            "order": 54,
+            "start": 208.28,
+            "end": 209.24,
+            "transcription": " e verificar se teve alguma alteração."
+        },
+        {
             "order": 55,
-            "start": 208.3,
-            "end": 209.4,
-            "transcription": " e verificar se teve algum problema."
+            "start": 209.24,
+            "end": 209.56,
+            "transcription": " Certo, e a última nota, Marlon, que seria em relação à unidade TOTVS Goiás,"
         },
         {
             "order": 56,
-            "start": 209.4,
-            "end": 211.26000000000002,
-            "transcription": " Se teve alguma alteração na nota, tudo bem?"
+            "start": 209.56,
+            "end": 211.26,
+            "transcription": " se teve alguma alteração na nota, tudo bem?"
         },
         {
             "order": 57,
@@ -359,78 +358,71 @@
         },
         {
             "order": 59,
-            "start": 218.46,
+            "start": 218.48,
             "end": 220.62,
             "transcription": " e tenha uma ótima tarde, um bom final de semana."
         },
         {
             "order": 60,
-            "start": 221.76,
+            "start": 221.74,
             "end": 222.58,
             "transcription": " Obrigada, tchau, tchau."
         }
     ],
     "metrics": {
-        "total_words": 61,
-        "words_per_minute": 22.08011583011583,
+        "total_words": 566,
+        "words_per_minute": 205.86808923375366,
         "top_10_words": [
             [
-                " certo, e a sua satisfação com a importância.",
-                3
+                "a",
+                30
             ],
             [
-                " eu também não sei dessa parte.",
-                2
+                "certo,",
+                17
             ],
             [
-                " primeiro grupo de imagem.",
-                1
+                "de",
+                16
             ],
             [
-                " boa tarde, meu nome é viviane, eu falo aqui da totvs matriz, tudo bem?",
-                1
+                "o",
+                14
             ],
             [
-                " sim, pois não?",
-                1
+                "eu",
+                11
             ],
             [
-                " eu gostaria, por favor, de falar com o marlon.",
-                1
+                "e",
+                10
             ],
             [
-                " marlon, tudo bem?",
-                1
+                "que",
+                9
             ],
             [
-                " sim, tenho sim.",
-                1
+                "do",
+                9
             ],
             [
-                " sim, sou eu mesmo.",
-                1
+                "não",
+                9
             ],
             [
-                " boa tarde, marlon, meu nome é viviane, eu falo aqui da totvs matriz, tudo bem?",
-                1
+                "você",
+                9
             ]
         ],
         "magic_word_percentages": {
             "obrigado": 0.0,
-            "obrigada": 0.0,
-            "por favor": 0.0,
+            "por favor": 0.35335689045936397,
             "desculpa": 0.0,
-            "desculpe": 0.0,
-            "por gentileza": 0.0,
-            "bom dia": 0.0,
-            "boa tarde": 0.0,
-            "boa noite": 0.0,
+            "boa": 0.35335689045936397,
             "agradeço": 0.0,
-            "agradece": 0.0,
             "gratidão": 0.0,
             "sinto muito": 0.0,
             "perdão": 0.0,
-            "me perdoe": 0.0,
             "com licença": 0.0
         }
     }

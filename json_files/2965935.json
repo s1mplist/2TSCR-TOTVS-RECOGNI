@@ -11,257 +11,215 @@
         {
             "order": 1,
             "start": 10.18,
-            "end": 15.08,
-            "transcription": " Ah, que bom. É rapidinho, só dois minutos, é a avaliação NPS da TOTVS, tá?"
+            "end": 21.3,
+            "transcription": " Ah, que bom. É rapidinho, só dois minutos, é a avaliação NPS da TOTVS, tá? Então, vou confirmar o final do CNPJ, se eu estou ligando para a empresa correta da Comab, é o 1000 contra 13, confirma?"
         },
         {
             "order": 2,
-            "start": 15.36,
-            "end": 21.3,
-            "transcription": " Então, vou confirmar o final do CNPJ se eu estou ligando para a empresa correta da Comab, é o 1000 contra 13, confirma?"
-        },
-        {
-            "order": 3,
             "start": 21.78,
             "end": 29.240000000000002,
             "transcription": " Isso, confirma. Ok. Iniciando de uma escala de 0 a 10, qual a probabilidade do senhor recomendar a marca TOTVS a alguém hoje no geral?"
         },
         {
-            "order": 4,
+            "order": 3,
             "start": 30.0,
-            "end": 34.16,
-            "transcription": " 9. 9, suporte técnico ou uma nota para agilidade nos processos?"
+            "end": 40.5,
+            "transcription": " 9. 9, suporte técnico, uma nota para agilidade nos processos. Ah, faz muito tempo que eu não uso agilidade nos processos, vou ter que dar um 6."
+        },
+        {
+            "order": 4,
+            "start": 41.0,
+            "end": 50.24,
+            "transcription": " 6, ok. Atendimento do comercial, executivo de vendas? 7. 7, com relação aos custos e os valores?"
         },
         {
             "order": 5,
-            "start": 35.18,
-            "end": 40.519999999999996,
-            "transcription": " Ah, faz muito tempo que eu não uso agilidade nos processos, vou ter que dar um 6."
+            "start": 52.5,
+            "end": 56.980000000000004,
+            "transcription": " Dessa vez, 5. 5, atendimento administrativo e financeiro?"
         },
         {
             "order": 6,
-            "start": 41.0,
-            "end": 45.04,
-            "transcription": " 6, ok. Atendimento do comercial ou executivo de vendas?"
+            "start": 57.78,
+            "end": 59.980000000000004,
+            "transcription": " Tem como não opinar, porque eu não usei faz muito tempo."
         },
         {
             "order": 7,
-            "start": 46.72,
-            "end": 50.24,
-            "transcription": " 7. 7. Com relação aos custos e os valores?"
+            "start": 60.0,
+            "end": 68.86,
+            "transcription": " Aham, tem sim, deixa em branco. Mais três perguntas, o programa que vocês estão usando, atende a necessidade da empresa total, atende parcial ou não atende?"
         },
         {
             "order": 8,
-            "start": 52.46,
-            "end": 56.96,
-            "transcription": " Dessa vez, 5. 5. Atendimento administrativo e financeiro?"
-        },
-        {
-            "order": 9,
-            "start": 56.96,
-            "end": 59.96,
-            "transcription": " Tem como não opinar porque eu não usei faz muito tempo."
-        },
-        {
-            "order": 10,
-            "start": 60.0,
-            "end": 68.86,
-            "transcription": " Aham, tem sim, deixa em branco. Mais três perguntas. O programa que vocês estão usando, atende a necessidade da empresa total, atende parcial ou não atende?"
-        },
-        {
-            "order": 11,
             "start": 69.52,
             "end": 70.28,
             "transcription": " Atende total."
         },
         {
-            "order": 12,
-            "start": 70.84,
-            "end": 72.94,
-            "transcription": " Total. Uma nota para as atualizações?"
+            "order": 9,
+            "start": 70.86,
+            "end": 72.96000000000001,
+            "transcription": " Total, uma nota para as atualizações?"
         },
         {
-            "order": 13,
-            "start": 74.78,
+            "order": 10,
+            "start": 74.8,
             "end": 77.74000000000001,
-            "transcription": " Ah, atualizações. Ah, essa aí eu vou dar um 5."
+            "transcription": " Ah, atualizações, ah, essa aí eu vou dar um 5."
         },
         {
-            "order": 14,
-            "start": 78.3,
+            "order": 11,
+            "start": 78.62,
             "end": 79.28,
             "transcription": " Quer comentar?"
         },
         {
-            "order": 15,
+            "order": 12,
             "start": 80.16,
             "end": 87.22,
             "transcription": " Sim, porque normalmente, primeiro porque ela está, tem muita atualização que está funcionando fora do controle do analista."
         },
         {
-            "order": 16,
+            "order": 13,
             "start": 87.22,
-            "end": 89.7,
+            "end": 89.72,
             "transcription": " Isso é um problema."
         },
         {
-            "order": 17,
+            "order": 14,
             "start": 90.0,
-            "end": 96.4,
-            "transcription": " Existem atualizações que estão funcionando ou se atualizando fora do controle do analista."
+            "end": 98.08,
+            "transcription": " Existem atualizações que estão funcionando ou se atualizando fora do controle do analista, entendeu?"
         },
         {
-            "order": 18,
-            "start": 96.62,
-            "end": 97.44,
-            "transcription": " Ah, tá."
-        },
-        {
-            "order": 19,
-            "start": 97.78,
+            "order": 15,
+            "start": 98.2,
             "end": 103.58,
-            "transcription": " Entendeu? Isso é um problema gravíssimo, porque a gente perde o controle do que está fazendo e do que está realmente aplicado no sistema."
+            "transcription": " Isso é um problema gravíssimo, porque a gente perde o controle do que está fazendo e do que está realmente aplicado no sistema."
         },
         {
-            "order": 20,
-            "start": 104.04,
-            "end": 104.52,
-            "transcription": " Aham."
-        },
-        {
-            "order": 21,
-            "start": 104.52,
-            "end": 116.98,
+            "order": 16,
+            "start": 104.8,
+            "end": 116.92,
             "transcription": " E a segunda, porque ainda acontecem casos de atualizações acabarem prejudicando outras rotinas, mesmo rotinas padrões sem customização."
         },
         {
-            "order": 22,
-            "start": 118.64,
-            "end": 119.76,
-            "transcription": " Então, por isso, nota 5."
+            "order": 17,
+            "start": 116.92,
+            "end": 119.8,
+            "transcription": " Então, por isso a nota 5."
         },
         {
-            "order": 23,
-            "start": 120.16,
-            "end": 120.5,
+            "order": 18,
+            "start": 120.0,
+            "end": 120.48,
             "transcription": " Ok."
         },
         {
-            "order": 24,
-            "start": 123.96,
-            "end": 124.56,
-            "transcription": " E..."
-        },
-        {
-            "order": 25,
-            "start": 124.56,
+            "order": 19,
+            "start": 125.56,
             "end": 127.04,
-            "transcription": " Certo. Nota 5."
+            "transcription": " Certo, nota 5."
         },
         {
-            "order": 26,
+            "order": 20,
             "start": 127.08,
             "end": 131.16,
-            "transcription": " A última pergunta para avaliar a unidade TOTO Serra Gaúcha. Tem contato com eles?"
+            "transcription": " A última pergunta para avaliar a unidade TOTO Serra Gaúcha, tem contato com eles?"
         },
         {
-            "order": 27,
-            "start": 133.52,
-            "end": 137.34,
-            "transcription": " Só com o Executivo de Vendas. O resto do pessoal nem falou com eles, não."
+            "order": 21,
+            "start": 133.62,
+            "end": 137.36,
+            "transcription": " Só com o Executivo de Vendas, o resto do pessoal nem falou com eles não."
         },
         {
-            "order": 28,
+            "order": 22,
             "start": 137.7,
-            "end": 140.12,
-            "transcription": " Então, tá bom. Executivo de Vendas já deu nota."
+            "end": 140.14,
+            "transcription": " Então tá bom, o Executivo de Vendas já deu nota."
         },
         {
-            "order": 29,
-            "start": 140.74,
+            "order": 23,
+            "start": 140.82,
             "end": 144.02,
             "transcription": " Gostaria de deixar algum outro comentário, sugestão, reclamação?"
         },
         {
-            "order": 30,
+            "order": 24,
             "start": 144.54,
             "end": 146.16,
-            "transcription": " Não, não. O resto está ótimo."
+            "transcription": " Não, não, o resto está ótimo."
         },
         {
-            "order": 31,
+            "order": 25,
             "start": 146.16,
-            "end": 148.42000000000002,
-            "transcription": " Então, tá bom. Vou confirmar só o e-mail também."
+            "end": 148.44,
+            "transcription": " Então tá bom, vou confirmar só o e-mail também."
         },
         {
-            "order": 32,
-            "start": 148.58,
-            "end": 149.96,
-            "transcription": " Informática, arroba comab.com.br."
-        },
-        {
-            "order": 33,
+            "order": 26,
             "start": 150.0,
             "end": 151.22,
-            "transcription": " Informática, arroba comab.com.br. Isso?"
+            "transcription": " .com.br, isso?"
         },
         {
-            "order": 34,
+            "order": 27,
             "start": 151.74,
-            "end": 152.34,
+            "end": 152.36,
             "transcription": " Isso mesmo."
         },
         {
-            "order": 35,
+            "order": 28,
             "start": 152.68,
             "end": 154.64,
-            "transcription": " Tá bom. Obrigada, viu, seu Leandro?"
+            "transcription": " Tá bom, obrigada, viu, seu Leandro?"
         },
         {
-            "order": 36,
+            "order": 29,
             "start": 155.06,
             "end": 156.46,
             "transcription": " Ah, eu que agradeço pela lembrança."
         },
         {
-            "order": 37,
-            "start": 156.94,
-            "end": 159.12,
-            "transcription": " Imagina. Do ano que vem a gente retorna no contato novamente."
+            "order": 30,
+            "start": 156.96,
+            "end": 160.94,
+            "transcription": " Imagina, do ano que vem a gente retorna no contato novamente, tem uma ótima tarde, ótima sexta."
         },
         {
-            "order": 38,
-            "start": 159.32,
+            "order": 31,
+            "start": 161.04,
             "end": 161.34,
-            "transcription": " Tenha uma ótima tarde, ótima sexta. Tchau, tchau."
+            "transcription": " Tchau, tchau."
         },
         {
-            "order": 39,
-            "start": 161.58,
-            "end": 163.08,
-            "transcription": " Obrigado. Igualmente. Bom final de semana."
+            "order": 32,
+            "start": 161.6,
+            "end": 163.12,
+            "transcription": " Obrigado, igualmente, bom final de semana."
         },
         {
-            "order": 40,
-            "start": 163.46,
-            "end": 163.9,
+            "order": 33,
+            "start": 163.62,
+            "end": 164.02,
             "transcription": " Igualmente."
         },
         {
-            "order": 41,
-            "start": 166.16,
-            "end": 167.16,
-            "transcription": " Obrigado."
+            "order": 34,
+            "start": 171.56,
+            "end": 172.56,
+            "transcription": " ."
         }
     ],
     "metrics": {
-        "total_words": 396,
-        "words_per_minute": 169.81132075471692,
+        "total_words": 387,
+        "words_per_minute": 165.5733029092983,
         "top_10_words": [
             [
                 "a",
-                13
+                14
             ],
             [
                 "do",
@@ -277,7 +235,7 @@
             ],
             [
                 "o",
-                8
+                9
             ],
             [
                 "é",
@@ -289,10 +247,10 @@
             ],
             [
                 "ah,",
-                6
+                5
             ],
             [
-                "5.",
+                "tem",
                 5
             ],
             [
@@ -301,7 +259,15 @@
             ]
         ],
         "magic_word_percentages": {
-            "agradeço": 0.25252525252525254
+            "obrigado": 0.2583979328165375,
+            "por favor": 0.0,
+            "desculpa": 0.0,
+            "boa": 0.0,
+            "agradeço": 0.2583979328165375,
+            "gratidão": 0.0,
+            "sinto muito": 0.0,
+            "perdão": 0.0,
+            "com licença": 0.0
         }
     }
 }

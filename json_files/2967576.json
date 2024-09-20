@@ -1,7 +1,6 @@
 {
-    "prompt": "Essa é uma transcrição de uma ligação para avialiação de NPS da empresa TOTVS.",
-    "model": "large-v3",
-    "audio_path": "audio_samples/2967576.wav",
+    "prompt": "Essa é uma transcrição de uma ligação para avaliação de NPS da empresa TOTVS.",
+    "audio_path": "audio_samples\/2967576.wav",
     "transcription": [
         {
             "order": 0,
@@ -47,7 +46,7 @@
         },
         {
             "order": 7,
-            "start": 19.66,
+            "start": 19.64,
             "end": 22.8,
             "transcription": " ...por lhe amar a Bourbon Curitiba Convention Hotel."
         },
@@ -95,7 +94,7 @@
         },
         {
             "order": 15,
-            "start": 37.540000000000006,
+            "start": 37.52,
             "end": 40.88,
             "transcription": " É certo. Eu precisava falar com alguém responsável pela controladoria"
         },
@@ -132,13 +131,13 @@
         {
             "order": 21,
             "start": 59.06,
-            "end": 79.68,
+            "end": 79.72,
             "transcription": " Só um momento."
         },
         {
             "order": 22,
-            "start": 79.68,
-            "end": 80.68,
+            "start": 79.72,
+            "end": 80.64,
             "transcription": " Ok."
         },
         {
@@ -150,7 +149,7 @@
         {
             "order": 24,
             "start": 85.74000000000001,
-            "end": 88.14,
+            "end": 88.12,
             "transcription": " Conozca a maneira brasileira de alojar."
         },
         {
@@ -228,12 +227,12 @@
         {
             "order": 37,
             "start": 114.22,
-            "end": 118.48,
+            "end": 118.46000000000001,
             "transcription": " Na verdade, eu estou fazendo com a maioria com os controllers dos hotéis."
         },
         {
             "order": 38,
-            "start": 118.48,
+            "start": 118.46000000000001,
             "end": 119.02000000000001,
             "transcription": " Certo."
         },
@@ -245,7 +244,7 @@
         },
         {
             "order": 40,
-            "start": 120.28,
+            "start": 120.3,
             "end": 120.92,
             "transcription": " Sim, tenho."
         },
@@ -281,7 +280,7 @@
         },
         {
             "order": 46,
-            "start": 131.84,
+            "start": 131.86,
             "end": 133.18,
             "transcription": " Tá. Iniciando então."
         },
@@ -293,8 +292,8 @@
         },
         {
             "order": 48,
-            "start": 140.28,
-            "end": 140.72,
+            "start": 140.3,
+            "end": 140.74,
             "transcription": " Nove."
         },
         {
@@ -384,7 +383,7 @@
         {
             "order": 63,
             "start": 174.9,
-            "end": 175.06,
+            "end": 175.78,
             "transcription": " Aham."
         },
         {
@@ -401,7 +400,7 @@
         },
         {
             "order": 66,
-            "start": 182.8,
+            "start": 182.94,
             "end": 184.12,
             "transcription": " Já, já participei."
         },
@@ -421,11 +420,11 @@
             "order": 69,
             "start": 188.12,
             "end": 191.38,
-            "transcription": " Nós que eu participei, oito."
+            "transcription": " Nossa, que eu participei, acho que foi oito."
         },
         {
             "order": 70,
-            "start": 191.84,
+            "start": 191.86,
             "end": 193.22,
             "transcription": " Oito. Mais três perguntas."
         },
@@ -437,13 +436,13 @@
         },
         {
             "order": 72,
-            "start": 200.0,
+            "start": 200.02,
             "end": 202.44,
             "transcription": " Dos módulos que nós utilizamos hoje?"
         },
         {
             "order": 73,
-            "start": 202.9,
+            "start": 202.92000000000002,
             "end": 204.64000000000001,
             "transcription": " Isso. No hotel."
         },
@@ -479,19 +478,19 @@
         },
         {
             "order": 79,
-            "start": 212.64000000000001,
-            "end": 213.2,
+            "start": 212.62,
+            "end": 213.18,
             "transcription": " Oito."
         },
         {
             "order": 80,
             "start": 213.76,
-            "end": 217.5,
+            "end": 217.52,
             "transcription": " Oito. E ótima pergunta para avaliar a unidade TOTUS CM Net Soluções."
         },
         {
             "order": 81,
-            "start": 218.44,
+            "start": 218.42000000000002,
             "end": 219.38,
             "transcription": " Desculpa, pergunta?"
         },
@@ -540,31 +539,31 @@
         {
             "order": 89,
             "start": 236.36,
-            "end": 238.88,
-            "transcription": " É só confirmando que... Deixa eu ver se eu localizo."
+            "end": 238.98000000000002,
+            "transcription": " É só confirmando que... Deixa eu ver se eu localizo..."
         },
         {
             "order": 90,
-            "start": 239.06,
-            "end": 239.56,
-            "transcription": " Os dados."
+            "start": 238.98000000000002,
+            "end": 239.56000000000003,
+            "transcription": " Seus dados."
         },
         {
             "order": 91,
-            "start": 241.5,
-            "end": 242.34,
+            "start": 241.50000000000003,
+            "end": 242.32000000000002,
             "transcription": " É Marco."
         },
         {
             "order": 92,
-            "start": 243.0,
-            "end": 243.44,
+            "start": 243.00000000000003,
+            "end": 243.44000000000003,
             "transcription": " Marco."
         },
         {
             "order": 93,
-            "start": 244.44,
-            "end": 246.66,
+            "start": 244.44000000000003,
+            "end": 246.66000000000003,
             "transcription": " Marco. Não localizei."
         },
         {
@@ -576,107 +575,94 @@
         {
             "order": 95,
             "start": 248.42000000000002,
-            "end": 252.0,
+            "end": 252.00000000000003,
             "transcription": " É marco.campos.com.br"
         },
         {
             "order": 96,
-            "start": 252.0,
-            "end": 254.56,
+            "start": 252.00000000000003,
+            "end": 254.56000000000003,
             "transcription": " Ok. Da controladoria."
         },
         {
             "order": 97,
-            "start": 254.94,
-            "end": 255.12,
-            "transcription": " Isso."
-        },
-        {
-            "order": 98,
-            "start": 255.3,
+            "start": 255.20000000000002,
             "end": 259.24,
             "transcription": " Certo, então. De seis meses a um ano a gente volta a ligar para saber se está tudo bem e manter o relacionamento."
         },
         {
-            "order": 99,
+            "order": 98,
             "start": 259.42,
             "end": 260.82,
             "transcription": " Obrigada, Marco. Ótima tarde."
         },
         {
-            "order": 100,
-            "start": 261.08,
-            "end": 261.52,
+            "order": 99,
+            "start": 261.24,
+            "end": 261.5,
             "transcription": " Tchau, tchau."
         },
         {
-            "order": 101,
-            "start": 261.64,
+            "order": 100,
+            "start": 261.66,
             "end": 261.86,
             "transcription": " Tchau."
         }
     ],
     "metrics": {
-        "total_words": 102,
-        "words_per_minute": 30.65825067628495,
+        "total_words": 549,
+        "words_per_minute": 164.70000000000005,
         "top_10_words": [
             [
-                " ...por lhe amar a bourbon curitiba convention hotel.",
-                2
+                "a",
+                20
             ],
             [
-                " conozca a maneira brasileira de alojar.",
-                2
+                "para",
+                13
             ],
             [
-                " isso.",
-                2
+                "é",
+                13
             ],
             [
-                " nove.",
-                2
+                "com",
+                12
             ],
             [
-                " oito.",
-                2
+                "o",
+                11
             ],
             [
-                " aham.",
-                2
+                "eu",
+                10
             ],
             [
-                " total.",
-                2
+                "de",
+                9
             ],
             [
-                " bem-vindo ao bourbon curitiba hotel & suites.",
-                1
+                "uma",
+                9
             ],
             [
-                " para falar com reservas, digite 1.",
-                1
+                "que",
+                9
             ],
             [
-                " vendas e comercial, digite 2.",
-                1
+                "da",
+                8
             ]
         ],
         "magic_word_percentages": {
             "obrigado": 0.0,
-            "obrigada": 0.0,
-            "por favor": 0.0,
-            "desculpa": 0.0,
-            "desculpe": 0.0,
-            "por gentileza": 0.0,
-            "bom dia": 0.0,
-            "boa tarde": 0.0,
-            "boa noite": 0.0,
+            "por favor": 0.18214936247723132,
+            "desculpa": 0.18214936247723132,
+            "boa": 0.546448087431694,
             "agradeço": 0.0,
-            "agradece": 0.0,
             "gratidão": 0.0,
             "sinto muito": 0.0,
             "perdão": 0.0,
-            "me perdoe": 0.0,
             "com licença": 0.0
         }
     }

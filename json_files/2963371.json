@@ -1,7 +1,6 @@
 {
-    "prompt": "Essa é uma transcrição de uma ligação para avialiação de NPS da empresa TOTVS.",
-    "model": "large-v3",
-    "audio_path": "audio_samples/2963371.wav",
+    "prompt": "Essa é uma transcrição de uma ligação para avaliação de NPS da empresa TOTVS.",
+    "audio_path": "audio_samples\/2963371.wav",
     "transcription": [
         {
             "order": 0,
@@ -17,19 +16,19 @@
         },
         {
             "order": 2,
-            "start": 7.0200000000000005,
+            "start": 7.04,
             "end": 8.2,
-            "transcription": " Opa, tudo bom, Vivi?"
+            "transcription": " Opa, tudo bom, Viviane?"
         },
         {
             "order": 3,
-            "start": 8.6,
+            "start": 8.620000000000001,
             "end": 9.540000000000001,
             "transcription": " Eu falo com o Bruno?"
         },
         {
             "order": 4,
-            "start": 10.540000000000001,
+            "start": 10.56,
             "end": 11.02,
             "transcription": " Isso."
         },
@@ -60,7 +59,7 @@
         {
             "order": 9,
             "start": 37.02,
-            "end": 40.260000000000005,
+            "end": 39.64,
             "transcription": " Entendi, mas você tem conhecimento na ferramenta?"
         },
         {
@@ -84,7 +83,7 @@
         {
             "order": 13,
             "start": 55.38,
-            "end": 57.56,
+            "end": 57.540000000000006,
             "transcription": " E se vocês estão sendo bem atendidos."
         },
         {
@@ -95,13 +94,13 @@
         },
         {
             "order": 15,
-            "start": 61.28,
-            "end": 62.400000000000006,
+            "start": 61.300000000000004,
+            "end": 62.38,
             "transcription": " Posso, posso sim."
         },
         {
             "order": 16,
-            "start": 62.800000000000004,
+            "start": 62.78,
             "end": 66.46000000000001,
             "transcription": " Certo, eu só vou fazer então algumas confirmações por questões de segurança."
         },
@@ -156,12 +155,12 @@
         {
             "order": 25,
             "start": 95.2,
-            "end": 95.66,
+            "end": 95.64,
             "transcription": " 9."
         },
         {
             "order": 26,
-            "start": 96.18,
+            "start": 96.16,
             "end": 100.24,
             "transcription": " Certo, gostaria de me informar sobre o motivo da sua nota ou não?"
         },
@@ -173,7 +172,7 @@
         },
         {
             "order": 28,
-            "start": 103.8,
+            "start": 103.76,
             "end": 105.58,
             "transcription": " Certo, certo."
         },
@@ -215,7 +214,7 @@
         },
         {
             "order": 35,
-            "start": 125.9,
+            "start": 125.94,
             "end": 126.32,
             "transcription": " 9."
         },
@@ -251,7 +250,7 @@
         },
         {
             "order": 41,
-            "start": 144.08,
+            "start": 144.12,
             "end": 144.68,
             "transcription": " Também."
         },
@@ -270,7 +269,7 @@
         {
             "order": 44,
             "start": 151.54,
-            "end": 152.8,
+            "end": 152.78,
             "transcription": " Também não é comigo."
         },
         {
@@ -300,7 +299,7 @@
         {
             "order": 49,
             "start": 172.3,
-            "end": 179.94,
+            "end": 179.92000000000002,
             "transcription": " Então, essa parte aí também, como eu sou só da área de TI, né, mas entrega, coloca assim."
         },
         {
@@ -347,7 +346,7 @@
         },
         {
             "order": 57,
-            "start": 206.35999999999999,
+            "start": 206.34,
             "end": 207.7,
             "transcription": " Não, não tenho contato."
         },
@@ -359,14 +358,14 @@
         },
         {
             "order": 59,
-            "start": 213.44,
+            "start": 213.42,
             "end": 215.74,
             "transcription": " É, teria como passar, sabe?"
         },
         {
             "order": 60,
             "start": 215.74,
-            "end": 218.98,
+            "end": 218.96,
             "transcription": " Você falou que é a unidade que faz atendimento pra gente no Rio de Janeiro."
         },
         {
@@ -396,113 +395,124 @@
         {
             "order": 65,
             "start": 231.72,
+            "end": 232.54,
+            "transcription": " Ah, sim."
+        },
+        {
+            "order": 66,
+            "start": 233.22,
             "end": 238.54,
             "transcription": " Mas caso não seja essa unidade, a gente consegue fazer essa troca por aqui,"
         },
         {
-            "order": 66,
-            "start": 239.18,
-            "end": 245.22,
-            "transcription": " aí a próxima vez, quando a gente retornar o contato com vocês, aí já vai a unidade certa."
+            "order": 67,
+            "start": 239.14,
+            "end": 243.07999999999998,
+            "transcription": " aí a próxima vez, quando a gente retornar o contato com vocês,"
         },
         {
-            "order": 67,
-            "start": 246.46,
+            "order": 68,
+            "start": 243.5,
+            "end": 245.2,
+            "transcription": " aí já vai a unidade certa."
+        },
+        {
+            "order": 69,
+            "start": 246.42,
             "end": 250.04,
             "transcription": " Não, não, tá tranquilo, é isso mesmo, só queria ter certeza."
         },
         {
-            "order": 68,
+            "order": 70,
             "start": 250.78,
             "end": 253.42,
-            "transcription": " Ah, certo, e você ficou com mais alguma dúvida?"
+            "transcription": " Ah, certo. E você ficou com mais alguma dúvida?"
         },
         {
-            "order": 69,
-            "start": 254.04,
+            "order": 71,
+            "start": 254.02,
             "end": 254.98,
             "transcription": " Não, só isso."
         },
         {
-            "order": 70,
+            "order": 72,
             "start": 255.34,
-            "end": 260.08,
-            "transcription": " Tá bom, então, Bruno, muito obrigada pela sua participação e tenha uma ótima tarde."
+            "end": 258.52,
+            "transcription": " Tá bom, então, Bruno, muito obrigada pela sua participação"
         },
         {
-            "order": 71,
-            "start": 260.78,
+            "order": 73,
+            "start": 258.52,
+            "end": 260.14,
+            "transcription": " e tenha uma ótima tarde."
+        },
+        {
+            "order": 74,
+            "start": 260.88,
             "end": 261.7,
             "transcription": " Falou, tchau, tchau."
         },
         {
-            "order": 72,
+            "order": 75,
             "start": 261.72,
             "end": 262.78000000000003,
             "transcription": " Tchau, tchau."
         }
     ],
     "metrics": {
-        "total_words": 73,
-        "words_per_minute": 20.165745856353592,
+        "total_words": 652,
+        "words_per_minute": 181.64933135215455,
         "top_10_words": [
             [
-                " 9.",
-                3
+                "a",
+                32
             ],
             [
-                " isso.",
-                2
+                "de",
+                23
             ],
             [
-                " alô?",
-                1
+                "o",
+                16
             ],
             [
-                " boa tarde, meu nome é viviane, eu falo aqui da totvs matriz, tudo bem?",
-                1
+                "que",
+                15
             ],
             [
-                " opa, tudo bom, vivi?",
-                1
+                "você",
+                14
             ],
             [
-                " eu falo com o bruno?",
-                1
+                "é",
+                13
             ],
             [
-                " bruno, eu estou entrando em contato com você para a gente fazer um acompanhamento em relação à marca totvs,",
-                1
+                "certo,",
+                13
             ],
             [
-                " que é utilizada hoje na brasbriu, sociedade de perfurações ltda.",
-                1
+                "com",
+                12
             ],
             [
-                " você ainda é um dos responsáveis que faz a utilização do sistema na empresa?",
-                1
+                "do",
+                11
             ],
             [
-                " na verdade, eu sou do departamento de ti, quem utiliza o sistema diretamente é a equipe do rh.",
-                1
+                "não",
+                11
             ]
         ],
         "magic_word_percentages": {
             "obrigado": 0.0,
-            "obrigada": 0.0,
             "por favor": 0.0,
             "desculpa": 0.0,
-            "desculpe": 0.0,
-            "por gentileza": 0.0,
-            "bom dia": 0.0,
-            "boa tarde": 0.0,
-            "boa noite": 0.0,
+            "boa": 0.15337423312883436,
             "agradeço": 0.0,
-            "agradece": 0.0,
             "gratidão": 0.0,
             "sinto muito": 0.0,
             "perdão": 0.0,
-            "me perdoe": 0.0,
             "com licença": 0.0
         }
     }

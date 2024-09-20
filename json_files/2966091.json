@@ -16,7 +16,7 @@
         },
         {
             "order": 2,
-            "start": 10.200000000000001,
+            "start": 10.22,
             "end": 10.64,
             "transcription": " Isso."
         },
@@ -60,7 +60,7 @@
             "order": 9,
             "start": 30.0,
             "end": 35.5,
-            "transcription": " Bem-vindo a Intercity. Em breve você será atendido."
+            "transcription": " Bem-vindo a InterCity. Em breve você será atendido."
         },
         {
             "order": 10,
@@ -72,7 +72,7 @@
             "order": 11,
             "start": 40.54,
             "end": 45.019999999999996,
-            "transcription": " Na Intercity você faz parte de uma experiência única, seja onde estiver."
+            "transcription": " Na InterCity você faz parte de uma experiência única, seja onde estiver."
         },
         {
             "order": 12,
@@ -90,7 +90,7 @@
             "order": 14,
             "start": 55.5,
             "end": 58.66,
-            "transcription": " Intercity Hotels. A gente se encontra aqui."
+            "transcription": " InterCity Hotels. A gente se encontra aqui."
         },
         {
             "order": 15,
@@ -120,11 +120,11 @@
             "order": 19,
             "start": 73.48,
             "end": 77.6,
-            "transcription": " Estou entrando em contato com todas as redes de hotéis e condomínios da Intercity para fazer o NPS."
+            "transcription": " Estou entrando em contato com todas as redes de hotéis e condomínios da InterCity para fazer o NPS."
         },
         {
             "order": 20,
-            "start": 78.34,
+            "start": 78.28,
             "end": 79.3,
             "transcription": " Tem dois minutos."
         },
@@ -136,19 +136,19 @@
         },
         {
             "order": 22,
-            "start": 81.68,
+            "start": 81.7,
             "end": 83.5,
             "transcription": " É uma avaliação de satisfação."
         },
         {
             "order": 23,
             "start": 84.42,
-            "end": 86.46000000000001,
+            "end": 86.48,
             "transcription": " Ah, tá, perfeito. Pode falar."
         },
         {
             "order": 24,
-            "start": 87.12,
+            "start": 87.1,
             "end": 88.48,
             "transcription": " Desculpa, é Marcos ou é Marcos?"
         },
@@ -166,7 +166,7 @@
         },
         {
             "order": 27,
-            "start": 92.82,
+            "start": 92.8,
             "end": 96.08,
             "transcription": " Vou confirmar primeiro o final do TNPJ do que eu estou ligando."
         },
@@ -178,13 +178,13 @@
         },
         {
             "order": 29,
-            "start": 99.74,
-            "end": 100.4,
+            "start": 99.48,
+            "end": 100.42,
             "transcription": " Hum, peraí."
         },
         {
             "order": 30,
-            "start": 100.76,
+            "start": 100.74,
             "end": 101.14,
             "transcription": " Final."
         },
@@ -202,8 +202,8 @@
         },
         {
             "order": 33,
-            "start": 111.12,
-            "end": 112.06,
+            "start": 111.06,
+            "end": 112.08,
             "transcription": " É isso mesmo."
         },
         {
@@ -228,11 +228,11 @@
             "order": 37,
             "start": 117.9,
             "end": 122.86,
-            "transcription": " De uma escala de zero a dez, qual é a probabilidade do senhor recomendar a marca TOTVS a alguém hoje no geral?"
+            "transcription": " De uma escala de zero a dez, qual a probabilidade do senhor recomendar a marca TOTVS a alguém hoje no geral?"
         },
         {
             "order": 38,
-            "start": 124.94000000000001,
+            "start": 124.92,
             "end": 128.68,
             "transcription": " Ah, eu sempre trabalhei com CM. Eu gosto de CM. Então, dez."
         },
@@ -246,7 +246,7 @@
             "order": 40,
             "start": 131.0,
             "end": 137.78,
-            "transcription": " Acho que o senhor não conseguiu responder. A gente sabe que é mais a Matriz, a Intercity que fala com a gente, tá?"
+            "transcription": " Acho que o senhor não conseguiu responder. A gente sabe que é mais a Matriz, a InterCity que fala com a gente, tá?"
         },
         {
             "order": 41,
@@ -262,7 +262,7 @@
         },
         {
             "order": 43,
-            "start": 143.72,
+            "start": 143.74,
             "end": 146.98000000000002,
             "transcription": " Dificilmente a gente aciona vocês direto. Normalmente é a Matriz."
         },
@@ -280,19 +280,19 @@
         },
         {
             "order": 46,
-            "start": 153.54,
+            "start": 153.5,
             "end": 154.44,
             "transcription": " Matriz também."
         },
         {
             "order": 47,
-            "start": 156.42000000000002,
+            "start": 156.4,
             "end": 159.34,
             "transcription": " Implantação. Se o senhor participou do processo, uma nota?"
         },
         {
             "order": 48,
-            "start": 160.28,
+            "start": 160.26,
             "end": 161.52,
             "transcription": " Não participei."
         },
@@ -304,9 +304,9 @@
         },
         {
             "order": 50,
-            "start": 170.54000000000002,
+            "start": 169.92000000000002,
             "end": 174.82,
-            "transcription": " Atende. Eu sinto falta do módulo de eventos, tá? Porque aqui na Intercity não tem o módulo de eventos."
+            "transcription": " Não, atende. Eu sinto falta do módulo de eventos, tá? Porque aqui na InterCity não tem o módulo de eventos."
         },
         {
             "order": 51,
@@ -323,381 +323,369 @@
         {
             "order": 53,
             "start": 181.5,
-            "end": 185.6,
-            "transcription": " E o sistema que a gente usa na nuvem é muito ruim."
+            "end": 186.5,
+            "transcription": " E o sistema que a gente usa lá no novo é muito ruim. Minha opinião."
         },
         {
             "order": 54,
-            "start": 186.02,
-            "end": 186.5,
-            "transcription": " Minha opinião."
-        },
-        {
-            "order": 55,
             "start": 186.52,
             "end": 186.66,
             "transcription": " O Cloud."
         },
         {
-            "order": 56,
+            "order": 55,
             "start": 187.82,
-            "end": 189.9,
+            "end": 190.9,
             "transcription": " Esse Cloud que a gente usa, que é o..."
         },
         {
-            "order": 57,
-            "start": 190.98000000000002,
+            "order": 56,
+            "start": 190.9,
             "end": 193.24,
             "transcription": " Que é um... Sei lá, não lembro nem o nome disso aqui."
         },
         {
-            "order": 58,
+            "order": 57,
             "start": 194.24,
             "end": 197.38,
             "transcription": " Que é um que é... Acho que é interno nosso, acho até que é Cloud, né?"
         },
         {
-            "order": 59,
+            "order": 58,
             "start": 198.5,
             "end": 199.3,
             "transcription": " Tá, é Cloud."
         },
         {
-            "order": 60,
+            "order": 59,
             "start": 199.3,
-            "end": 205.14000000000001,
-            "transcription": " Não sei, eu sou mais... Tipo, eu já usei MDS, já usei o de vocês, e é melhor."
+            "end": 205.16,
+            "transcription": " Não sei, eu sou mais... Tipo, eu já usei MDS, já usei o de vocês e é melhor."
         },
         {
-            "order": 61,
-            "start": 205.86,
+            "order": 60,
+            "start": 205.88,
             "end": 207.74,
             "transcription": " Cai menos, precisa ter que ficar interno."
         },
         {
-            "order": 62,
-            "start": 207.74,
-            "end": 209.10000000000002,
-            "transcription": " Entrando toda hora."
+            "order": 61,
+            "start": 207.9,
+            "end": 209.12,
+            "transcription": " Interno toda hora."
         },
         {
-            "order": 63,
+            "order": 62,
             "start": 210.12,
             "end": 212.64000000000001,
             "transcription": " Muito menos estável, é mais estável, né?"
         },
         {
-            "order": 64,
+            "order": 63,
             "start": 213.74,
             "end": 215.44,
             "transcription": " Ok, mas esse Cloud é da TOTOS?"
         },
         {
-            "order": 65,
+            "order": 64,
             "start": 217.18,
-            "end": 218.04000000000002,
+            "end": 218.06,
             "transcription": " Acho que não."
         },
         {
-            "order": 66,
-            "start": 219.04000000000002,
-            "end": 220.34,
+            "order": 65,
+            "start": 218.92000000000002,
+            "end": 221.26,
             "transcription": " Acho que ele é da..."
         },
         {
-            "order": 67,
-            "start": 221.26000000000002,
+            "order": 66,
+            "start": 221.26,
             "end": 223.24,
-            "transcription": " Da TechCloud, é Merak."
+            "transcription": " Eu acho até que é Cloud, é Merak."
         },
         {
-            "order": 68,
-            "start": 223.98000000000002,
-            "end": 225.82000000000002,
+            "order": 67,
+            "start": 223.96,
+            "end": 225.82,
             "transcription": " A gente usa Merak, eu acho o nome."
         },
         {
-            "order": 69,
-            "start": 225.82000000000002,
+            "order": 68,
+            "start": 225.82,
             "end": 230.14000000000001,
             "transcription": " E qual opção eu coloco? Que atende total ou parcial?"
         },
         {
-            "order": 70,
+            "order": 69,
             "start": 230.54000000000002,
-            "end": 232.16000000000003,
-            "transcription": " Que falta o módulo de eventos, né?"
-        },
-        {
-            "order": 71,
-            "start": 232.28,
             "end": 232.98000000000002,
-            "transcription": " Que eu coloquei aqui."
+            "transcription": " Porque falta o módulo de eventos, né? Que eu coloquei aqui."
         },
         {
-            "order": 72,
-            "start": 233.92000000000002,
+            "order": 70,
+            "start": 233.88,
             "end": 234.36,
             "transcription": " Parcial."
         },
         {
-            "order": 73,
-            "start": 234.94,
+            "order": 71,
+            "start": 234.86,
             "end": 235.34,
             "transcription": " Parcial."
         },
         {
+            "order": 72,
+            "start": 236.0,
+            "end": 237.76,
+            "transcription": " Uma nota para as atualizações que ocorrem."
+        },
+        {
+            "order": 73,
+            "start": 237.9,
+            "end": 238.1,
+            "transcription": " Nelly?"
+        },
+        {
             "order": 74,
-            "start": 235.96,
-            "end": 237.72,
-            "transcription": " Uma nota para as atualizações que ocorrem?"
+            "start": 240.18,
+            "end": 241.26000000000002,
+            "transcription": " Pode botar oito."
         },
         {
             "order": 75,
-            "start": 237.74,
-            "end": 241.3,
-            "transcription": " Hum, pode botar oito."
+            "start": 241.82,
+            "end": 242.16,
+            "transcription": " Oito."
         },
         {
             "order": 76,
-            "start": 241.82000000000002,
+            "start": 242.34,
             "end": 244.86,
             "transcription": " E ótima pergunta para avaliar a unidade CMNet."
         },
         {
             "order": 77,
-            "start": 248.08,
+            "start": 248.14000000000001,
             "end": 249.34,
-            "transcription": " CMNet? Mas o quê?"
+            "transcription": " CMNet? Tipo, mas o quê?"
         },
         {
             "order": 78,
-            "start": 249.98000000000002,
-            "end": 254.10000000000002,
-            "transcription": " É a unidade TOTOS que presta serviços para vocês, quando precisa."
+            "start": 249.96,
+            "end": 254.08,
+            "transcription": " É a unidade TOTOS que presta serviços para vocês quando precisa."
         },
         {
             "order": 79,
-            "start": 255.8,
-            "end": 258.92,
+            "start": 254.08,
+            "end": 258.94,
             "transcription": " Tá, a gente não tem contato, não tem muito como avaliar."
         },
         {
             "order": 80,
-            "start": 259.46000000000004,
-            "end": 263.04,
+            "start": 259.64,
+            "end": 263.14,
             "transcription": " Aqui na Intercity, a gente não seleciona vocês."
         },
         {
             "order": 81,
-            "start": 263.76,
+            "start": 263.78000000000003,
             "end": 266.82,
             "transcription": " A gente sempre seleciona o pessoal do TI, o pessoal do TI que faz o ponte, né?"
         },
         {
             "order": 82,
-            "start": 267.16,
-            "end": 267.72,
-            "transcription": " Ah, então..."
+            "start": 267.32,
+            "end": 267.88,
+            "transcription": " Ah, então tá."
         },
         {
             "order": 83,
-            "start": 267.74,
-            "end": 268.24,
-            "transcription": " Então, tá bom."
+            "start": 267.9,
+            "end": 268.23999999999995,
+            "transcription": " Tá bom."
         },
         {
             "order": 84,
             "start": 268.7,
-            "end": 269.64,
-            "transcription": " Certo, eu gostaria..."
+            "end": 268.97999999999996,
+            "transcription": " Certo."
         },
         {
             "order": 85,
-            "start": 269.64,
-            "end": 271.24,
-            "transcription": " Além dessa observação, tem outra?"
+            "start": 269.12,
+            "end": 271.23999999999995,
+            "transcription": " Gostaria, além dessa observação, tem outra?"
         },
         {
             "order": 86,
-            "start": 273.04,
-            "end": 274.18,
+            "start": 273.02,
+            "end": 274.2,
             "transcription": " Não, só isso."
         },
         {
             "order": 87,
-            "start": 274.32,
-            "end": 276.1,
+            "start": 274.34,
+            "end": 276.12,
             "transcription": " Eu sinto falta do módulo de eventos."
         },
         {
             "order": 88,
-            "start": 276.82,
+            "start": 276.85999999999996,
             "end": 280.08,
             "transcription": " Eu acho que aqui no Cloud nosso tem muita versão do VHF."
         },
         {
             "order": 89,
-            "start": 280.88,
-            "end": 282.84000000000003,
-            "transcription": " Mas aqui eu acho que a Cloud nossa aqui..."
+            "start": 280.85999999999996,
+            "end": 285.34,
+            "transcription": " Mas aqui eu acho que é a Cloud nossa que não são vocês que..."
         },
         {
             "order": 90,
-            "start": 282.84000000000003,
-            "end": 284.84000000000003,
-            "transcription": " Não são vocês que..."
+            "start": 285.34,
+            "end": 290.67999999999995,
+            "transcription": " Eu não localizei o Cloud aqui no cadastro."
         },
         {
             "order": 91,
-            "start": 285.44,
-            "end": 288.28000000000003,
-            "transcription": " É?"
+            "start": 291.28,
+            "end": 295.64,
+            "transcription": " É, então, eu acho que é a gente que controla o Cloud, então não tem nada a ver com vocês."
         },
         {
             "order": 92,
-            "start": 290.98,
-            "end": 295.72,
-            "transcription": " É, então, eu acho que a gente que controla o Cloud, então não tem nada a ver com vocês."
+            "start": 296.0,
+            "end": 296.82,
+            "transcription": " É, não tem nada a ver com você, não."
         },
         {
             "order": 93,
-            "start": 296.04,
-            "end": 296.86,
-            "transcription": " É, eu não sei não."
+            "start": 296.82,
+            "end": 297.82,
+            "transcription": " O e-mail que eu tenho..."
         },
         {
             "order": 94,
-            "start": 297.24,
-            "end": 297.72,
-            "transcription": " O e-mail que eu..."
-        },
-        {
-            "order": 95,
-            "start": 297.74,
-            "end": 300.44,
+            "start": 297.90000000000003,
+            "end": 300.46000000000004,
             "transcription": " O e-mail que eu tenho aqui é o ADM.com?"
         },
         {
-            "order": 96,
-            "start": 301.78000000000003,
-            "end": 302.18,
+            "order": 95,
+            "start": 301.8,
+            "end": 302.16,
             "transcription": " Não."
         },
         {
-            "order": 97,
-            "start": 302.76,
+            "order": 96,
+            "start": 302.76000000000005,
             "end": 302.96000000000004,
             "transcription": " Não?"
         },
         {
-            "order": 98,
-            "start": 303.24,
-            "end": 304.76,
+            "order": 97,
+            "start": 303.28000000000003,
+            "end": 304.76000000000005,
             "transcription": " Pode colocar o meu, se quiser."
         },
         {
-            "order": 99,
-            "start": 305.44,
+            "order": 98,
+            "start": 305.46000000000004,
             "end": 305.98,
             "transcription": " Pode falar."
         },
         {
-            "order": 100,
-            "start": 306.16,
-            "end": 306.52,
-            "transcription": " Marco."
-        },
-        {
-            "order": 101,
-            "start": 306.66,
-            "end": 307.76,
+            "order": 99,
+            "start": 306.6,
+            "end": 307.76000000000005,
             "transcription": " Marco.Costa."
         },
         {
+            "order": 100,
+            "start": 309.3,
+            "end": 311.62000000000006,
+            "transcription": " Arroba IntercityHotels.com.br"
+        },
+        {
+            "order": 101,
+            "start": 311.62000000000006,
+            "end": 316.18000000000006,
+            "transcription": " Arroba IntercityHotels.com.br"
+        },
+        {
             "order": 102,
-            "start": 309.24,
-            "end": 311.62,
-            "transcription": " Arroba IntercityHotels.com.br"
-        },
-        {
-            "order": 103,
-            "start": 311.62,
-            "end": 316.18,
-            "transcription": " Arroba IntercityHotels.com.br"
-        },
-        {
-            "order": 104,
-            "start": 316.18,
+            "start": 316.18000000000006,
             "end": 316.90000000000003,
             "transcription": " Tá bom."
         },
         {
-            "order": 105,
+            "order": 103,
             "start": 316.98,
             "end": 318.54,
             "transcription": " Obrigada, então, Sr. Marcos, pela atenção."
         },
         {
-            "order": 106,
+            "order": 104,
             "start": 318.78000000000003,
-            "end": 318.8,
+            "end": 318.84000000000003,
             "transcription": " Obrigada."
         },
         {
-            "order": 107,
+            "order": 105,
             "start": 318.86,
             "end": 320.48,
             "transcription": " No ano que vem a gente retorna em contato de novo."
         },
         {
-            "order": 108,
-            "start": 320.56,
+            "order": 106,
+            "start": 320.56000000000006,
             "end": 321.72,
             "transcription": " Um ótimo dia."
         },
         {
-            "order": 109,
-            "start": 321.82,
-            "end": 322.40000000000003,
+            "order": 107,
+            "start": 321.82000000000005,
+            "end": 322.38000000000005,
             "transcription": " Tchau, tchau."
         },
         {
-            "order": 110,
-            "start": 322.5,
-            "end": 322.86,
+            "order": 108,
+            "start": 322.50000000000006,
+            "end": 322.84000000000003,
             "transcription": " Bom dia."
         },
         {
-            "order": 111,
+            "order": 109,
             "start": 322.96000000000004,
             "end": 323.28000000000003,
             "transcription": " Tchau, tchau."
         }
     ],
     "metrics": {
-        "total_words": 760,
-        "words_per_minute": 185.59218559218553,
+        "total_words": 779,
+        "words_per_minute": 186.27450980392166,
         "top_10_words": [
             [
                 "que",
-                32
-            ],
-            [
-                "o",
-                27
-            ],
-            [
-                "a",
-                27
+                33
             ],
             [
                 "é",
-                26
+                28
+            ],
+            [
+                "o",
+                28
+            ],
+            [
+                "a",
+                28
             ],
             [
                 "eu",
-                26
+                27
             ],
             [
                 "do",
@@ -708,18 +696,28 @@
                 13
             ],
             [
+                "não",
+                13
+            ],
+            [
                 "gente",
                 12
             ],
             [
-                "não",
-                12
-            ],
-            [
-                "e",
-                9
+                "tem",
+                10
             ]
         ],
-        "magic_word_percentages": {}
+        "magic_word_percentages": {
+            "obrigado": 0.0,
+            "por favor": 0.0,
+            "desculpa": 0.12836970474967907,
+            "boa": 0.0,
+            "agradeço": 0.0,
+            "gratidão": 0.0,
+            "sinto muito": 0.0,
+            "perdão": 0.0,
+            "com licença": 0.0
+        }
     }
 }

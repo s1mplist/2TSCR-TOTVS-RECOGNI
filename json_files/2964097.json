@@ -1,7 +1,6 @@
 {
-    "prompt": "Essa é uma transcrição de uma ligação para avialiação de NPS da empresa TOTVS.",
-    "model": "large-v3",
-    "audio_path": "audio_samples/2964097.wav",
+    "prompt": "Essa é uma transcrição de uma ligação para avaliação de NPS da empresa TOTVS.",
+    "audio_path": "audio_samples\/2964097.wav",
     "transcription": [
         {
             "order": 0,
@@ -13,7 +12,7 @@
             "order": 1,
             "start": 30.0,
             "end": 59.980000000000004,
-            "transcription": " Legou para freme, digite o ramal desejado ou 2 para comercial, 3 para fax, 4 para comercial, 6 para comercial."
+            "transcription": " Legou para freme, digite o ramal desejado ou 2 para comercial, 3 para fax, 4 para comercial, 6 para fax, 5 para comercial."
         },
         {
             "order": 2,
@@ -25,7 +24,7 @@
             "order": 3,
             "start": 63.72,
             "end": 71.58,
-            "transcription": " Eu acho que hoje eu acredito que não. Você quer mandar um e-mail para adiantar o assunto, alguma coisa assim?"
+            "transcription": " Eu acho que hoje, eu acredito que não. Você quer mandar um e-mail para adiantar o assunto, alguma coisa assim?"
         },
         {
             "order": 4,
@@ -47,7 +46,7 @@
         },
         {
             "order": 7,
-            "start": 78.88,
+            "start": 78.86,
             "end": 83.26,
             "transcription": " Fernando arroba freme.com.br"
         },
@@ -65,7 +64,7 @@
         },
         {
             "order": 10,
-            "start": 87.02,
+            "start": 87.0,
             "end": 89.88,
             "transcription": " Ah, tudo bem então. Eu retorno contato com ele através dele."
         },
@@ -77,13 +76,13 @@
         },
         {
             "order": 12,
-            "start": 93.2,
+            "start": 93.22,
             "end": 93.96,
             "transcription": " Tá certo."
         },
         {
             "order": 13,
-            "start": 94.52,
+            "start": 94.58,
             "end": 95.9,
             "transcription": " Tá bom então, obrigada, viu?"
         },
@@ -113,66 +112,59 @@
         }
     ],
     "metrics": {
-        "total_words": 18,
-        "words_per_minute": 13.426156141223272,
+        "total_words": 141,
+        "words_per_minute": 105.22388059701494,
         "top_10_words": [
             [
-                " tchau, tchau.",
-                2
+                "para",
+                14
             ],
             [
-                " legou para freme, digite o ramal desejado ou 2 para comercial, 3 para fax, 4 para compras, 5 para fiscal, 6 para financeiro ou aguarde para ser atendido.",
-                1
+                "o",
+                6
             ],
             [
-                " legou para freme, digite o ramal desejado ou 2 para comercial, 3 para fax, 4 para comercial, 6 para comercial.",
-                1
+                "eu",
+                6
             ],
             [
-                " eu consigo falar com ele ainda hoje ou somente amanhã?",
-                1
+                "ou",
+                4
             ],
             [
-                " eu acho que hoje eu acredito que não. você quer mandar um e-mail para adiantar o assunto, alguma coisa assim?",
-                1
+                "que",
+                4
             ],
             [
-                " sim, qual que é o e-mail dele?",
-                1
+                "comercial,",
+                3
             ],
             [
-                " é fernando mesmo o nome dele.",
-                1
+                "fax,",
+                3
             ],
             [
-                " certo.",
-                1
+                "com",
+                3
             ],
             [
-                " fernando arroba freme.com.br",
-                1
+                "ele",
+                3
             ],
             [
-                " arroba freme.com.br?",
-                1
+                "tá",
+                3
             ]
         ],
         "magic_word_percentages": {
             "obrigado": 0.0,
-            "obrigada": 0.0,
             "por favor": 0.0,
             "desculpa": 0.0,
-            "desculpe": 0.0,
-            "por gentileza": 0.0,
-            "bom dia": 0.0,
-            "boa tarde": 0.0,
-            "boa noite": 0.0,
-            "agradeço": 0.0,
-            "agradece": 0.0,
+            "boa": 0.0,
+            "agradeço": 0.7092198581560284,
             "gratidão": 0.0,
             "sinto muito": 0.0,
             "perdão": 0.0,
-            "me perdoe": 0.0,
             "com licença": 0.0
         }
     }

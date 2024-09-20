@@ -5,12 +5,12 @@
         {
             "order": 0,
             "start": 0.0,
-            "end": 5.76,
-            "transcription": " Alô, boa tarde, meu nome é Viviane, eu falo aqui da TOTVS Matriz, tudo bem?"
+            "end": 5.74,
+            "transcription": " Boa tarde, meu nome é Viviane, eu falo aqui da TOTVS Matriz, tudo bem?"
         },
         {
             "order": 1,
-            "start": 6.26,
+            "start": 6.2,
             "end": 6.5600000000000005,
             "transcription": " Tudo."
         },
@@ -28,7 +28,7 @@
         },
         {
             "order": 4,
-            "start": 9.88,
+            "start": 9.86,
             "end": 14.88,
             "transcription": " Rogério, eu estou entrando em contato com você para a gente fazer um acompanhamento em relação à marca TOTVS,"
         },
@@ -47,24 +47,24 @@
         {
             "order": 7,
             "start": 22.84,
-            "end": 23.16,
+            "end": 23.14,
             "transcription": " Sim."
         },
         {
             "order": 8,
-            "start": 23.8,
+            "start": 23.82,
             "end": 26.34,
             "transcription": " Certo, e você teria dois minutinhos para falar comigo?"
         },
         {
             "order": 9,
             "start": 26.68,
-            "end": 27.86,
+            "end": 27.84,
             "transcription": " Tenho sim, tenho sim."
         },
         {
             "order": 10,
-            "start": 27.86,
+            "start": 27.84,
             "end": 31.92,
             "transcription": " Certo, eu só vou fazer algumas confirmações por questões de segurança."
         },
@@ -76,13 +76,13 @@
         },
         {
             "order": 12,
-            "start": 38.96,
+            "start": 39.0,
             "end": 39.480000000000004,
             "transcription": " Correto."
         },
         {
             "order": 13,
-            "start": 40.22,
+            "start": 40.1,
             "end": 45.519999999999996,
             "transcription": " Certo, o e-mail continua sendo ti.ccbcoachings.com.br?"
         },
@@ -106,32 +106,32 @@
         },
         {
             "order": 17,
-            "start": 52.2,
-            "end": 57.84,
+            "start": 52.14,
+            "end": 57.82,
             "transcription": " Numa escala de 0 a 10, qual a probabilidade do senhor recomendar a TOTVS a um amigo?"
         },
         {
             "order": 18,
-            "start": 57.86,
-            "end": 59.08,
+            "start": 57.84,
+            "end": 59.080000000000005,
             "transcription": " Ou colega, hoje?"
         },
         {
             "order": 19,
             "start": 59.7,
-            "end": 60.08,
+            "end": 60.080000000000005,
             "transcription": " 10."
         },
         {
             "order": 20,
-            "start": 60.86,
+            "start": 60.88,
             "end": 64.5,
             "transcription": " Certo, gostaria de me informar o motivo da sua nota ou não?"
         },
         {
             "order": 21,
-            "start": 65.32,
-            "end": 66.6,
+            "start": 65.32000000000001,
+            "end": 66.60000000000001,
             "transcription": " Pela robustez do sistema."
         },
         {
@@ -155,42 +155,42 @@
         {
             "order": 25,
             "start": 83.9,
-            "end": 84.38,
+            "end": 84.4,
             "transcription": " Tudo bem."
         },
         {
             "order": 26,
-            "start": 84.56,
-            "end": 87.84,
+            "start": 84.4,
+            "end": 87.82000000000001,
             "transcription": " Em relação à agilidade nos processos do suporte,"
         },
         {
             "order": 27,
-            "start": 87.86,
-            "end": 90.04,
+            "start": 87.84,
+            "end": 90.02000000000001,
             "transcription": " o suporte técnico, uma nota de 0 a 10?"
         },
         {
             "order": 28,
-            "start": 90.82,
+            "start": 90.66,
             "end": 94.56,
             "transcription": " 8. Melhorou bastante nos últimos tempos."
         },
         {
             "order": 29,
-            "start": 95.56,
+            "start": 95.52000000000001,
             "end": 96.08,
             "transcription": " Certo."
         },
         {
             "order": 30,
-            "start": 96.96,
+            "start": 96.94,
             "end": 100.5,
             "transcription": " Em relação ao atendimento do agente do suporte técnico?"
         },
         {
             "order": 31,
-            "start": 100.82,
+            "start": 100.82000000000001,
             "end": 101.26,
             "transcription": " 10."
         },
@@ -202,13 +202,13 @@
         },
         {
             "order": 33,
-            "start": 106.03999999999999,
+            "start": 106.04,
             "end": 110.48,
             "transcription": " O executivo de vendas faz tempo que eu não falo com ele, mas pode dar um 8 aí para ele."
         },
         {
             "order": 34,
-            "start": 111.53999999999999,
+            "start": 111.48,
             "end": 115.46000000000001,
             "transcription": " Certo. A sua satisfação com o custo dos produtos contratados?"
         },
@@ -257,8 +257,8 @@
         {
             "order": 42,
             "start": 143.26,
-            "end": 146.66,
-            "transcription": " Da implantação? Certo. Eu acho que demora muito a implantação."
+            "end": 147.04,
+            "transcription": " Da implantação, certo. Eu acho que demora muito a implantação."
         },
         {
             "order": 43,
@@ -275,13 +275,13 @@
         {
             "order": 45,
             "start": 157.42000000000002,
-            "end": 158.16,
+            "end": 158.18,
             "transcription": " Pode ser 7."
         },
         {
             "order": 46,
             "start": 159.08,
-            "end": 165.62,
+            "end": 165.06,
             "transcription": " Certo. Você acha que hoje o produto da TOTOS entrega o benefício esperado pela empresa ou pelo seu departamento?"
         },
         {
@@ -292,15 +292,15 @@
         },
         {
             "order": 48,
-            "start": 169.1,
-            "end": 171.02,
+            "start": 169.12,
+            "end": 171.06,
             "transcription": " Parcial. Tem muita coisa que ele não entrega."
         },
         {
             "order": 49,
-            "start": 171.94,
-            "end": 176.88,
-            "transcription": " Daí tem a questão de consultoria, só que dessa consultoria, às vezes, é um valor alto de número de horas."
+            "start": 171.06,
+            "end": 176.9,
+            "transcription": " Tem a questão de consultoria, só que dessa consultoria, às vezes, é um valor alto de número de horas."
         },
         {
             "order": 50,
@@ -310,7 +310,7 @@
         },
         {
             "order": 51,
-            "start": 183.68,
+            "start": 183.62,
             "end": 185.18,
             "transcription": " Entendi. Entendi."
         },
@@ -323,19 +323,19 @@
         {
             "order": 53,
             "start": 192.78,
-            "end": 193.04,
-            "transcription": " 8."
+            "end": 192.94,
+            "transcription": " Foi."
         },
         {
             "order": 54,
-            "start": 194.42000000000002,
+            "start": 194.38,
             "end": 201.16,
             "transcription": " Certo. E a última nota que seria em relação à unidade que faz o atendimento com vocês hoje, também de 0 a 10,"
         },
         {
             "order": 55,
-            "start": 201.16,
-            "end": 204.6,
+            "start": 201.36,
+            "end": 204.06,
             "transcription": " como que você avalia a TOTOS São Paulo, caso tenha contato?"
         },
         {
@@ -352,7 +352,7 @@
         },
         {
             "order": 58,
-            "start": 210.92000000000002,
+            "start": 210.94,
             "end": 211.38,
             "transcription": " Não, nenhum."
         },
@@ -382,7 +382,7 @@
         },
         {
             "order": 63,
-            "start": 229.5,
+            "start": 229.52,
             "end": 230.88,
             "transcription": " Você ficou com alguma dúvida?"
         },
@@ -394,110 +394,50 @@
         },
         {
             "order": 65,
-            "start": 232.38,
+            "start": 232.34,
             "end": 235.64000000000001,
             "transcription": " Tá bom, então, Rogério, muito obrigada pela sua participação."
         },
         {
             "order": 66,
             "start": 235.64000000000001,
-            "end": 235.68,
-            "transcription": " Não, nada."
+            "end": 235.7,
+            "transcription": " Obrigado."
         },
         {
             "order": 67,
-            "start": 235.68,
-            "end": 235.74,
-            "transcription": " Não, nada."
+            "start": 235.82,
+            "end": 236.82,
+            "transcription": " Tenha uma ótima tarde."
         },
         {
             "order": 68,
-            "start": 235.74,
-            "end": 235.76,
-            "transcription": " Não, nada."
+            "start": 237.06,
+            "end": 237.46,
+            "transcription": " E um bom final de semana."
         },
         {
             "order": 69,
-            "start": 235.76,
-            "end": 235.78,
-            "transcription": " Não, nada."
-        },
-        {
-            "order": 70,
-            "start": 235.78,
-            "end": 235.88,
-            "transcription": " Não, nada."
-        },
-        {
-            "order": 71,
-            "start": 235.88,
-            "end": 236.02,
-            "transcription": " Não, nada."
-        },
-        {
-            "order": 72,
-            "start": 236.02,
-            "end": 236.12,
-            "transcription": " Não, nada."
-        },
-        {
-            "order": 73,
-            "start": 236.12,
-            "end": 236.18,
-            "transcription": " Não, nada."
-        },
-        {
-            "order": 74,
-            "start": 236.18,
-            "end": 236.24,
-            "transcription": " Não, nada."
-        },
-        {
-            "order": 75,
-            "start": 236.24,
-            "end": 236.26,
-            "transcription": " Não, nada."
-        },
-        {
-            "order": 76,
-            "start": 236.26,
-            "end": 236.28,
-            "transcription": " Não, nada."
-        },
-        {
-            "order": 77,
-            "start": 236.28,
-            "end": 237.48,
-            "transcription": " Uma ótima tarde e um bom final de semana."
-        },
-        {
-            "order": 78,
-            "start": 237.5,
+            "start": 237.48,
             "end": 238.08,
             "transcription": " Você também."
         },
         {
-            "order": 79,
-            "start": 239.52,
-            "end": 239.8,
-            "transcription": " Obrigada."
-        },
-        {
-            "order": 80,
-            "start": 239.9,
+            "order": 70,
+            "start": 239.42000000000002,
             "end": 240.24,
-            "transcription": " Tchau, tchau."
+            "transcription": " Obrigada. Tchau, tchau."
         },
         {
-            "order": 81,
-            "start": 240.26,
+            "order": 71,
+            "start": 240.24,
             "end": 240.38,
             "transcription": " Tchau, tchau."
         }
     ],
     "metrics": {
-        "total_words": 656,
-        "words_per_minute": 199.85782471818828,
+        "total_words": 634,
+        "words_per_minute": 192.70516717325233,
         "top_10_words": [
             [
                 "a",
@@ -520,10 +460,6 @@
                 14
             ],
             [
-                "não,",
-                14
-            ],
-            [
                 "certo.",
                 13
             ],
@@ -536,12 +472,24 @@
                 11
             ],
             [
-                "nada.",
-                11
+                "é",
+                10
+            ],
+            [
+                "do",
+                10
             ]
         ],
         "magic_word_percentages": {
-            "obrigada": 0.3048780487804878
+            "obrigado": 0.15772870662460567,
+            "por favor": 0.0,
+            "desculpa": 0.0,
+            "boa": 0.15772870662460567,
+            "agradeço": 0.0,
+            "gratidão": 0.0,
+            "sinto muito": 0.0,
+            "perdão": 0.0,
+            "com licença": 0.0
         }
     }
 }

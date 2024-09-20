@@ -88,7 +88,7 @@
         },
         {
             "order": 14,
-            "start": 95.02,
+            "start": 95.04,
             "end": 97.92,
             "transcription": " É de onde mesmo?"
         },
@@ -100,8 +100,8 @@
         },
         {
             "order": 16,
-            "start": 100.1,
-            "end": 100.66,
+            "start": 100.08,
+            "end": 100.68,
             "transcription": " TOTVS."
         },
         {
@@ -118,13 +118,13 @@
         },
         {
             "order": 19,
-            "start": 104.62,
+            "start": 104.6,
             "end": 106.24000000000001,
             "transcription": " Eu posso anotar esse número?"
         },
         {
             "order": 20,
-            "start": 107.52,
+            "start": 107.48,
             "end": 109.0,
             "transcription": " 3122-9600."
         },
@@ -180,7 +180,7 @@
             "order": 29,
             "start": 128.92,
             "end": 131.54,
-            "transcription": " Então, eu vou deixar um telefone que eu peço para ele retornar."
+            "transcription": " Ou então deixar um telefone que eu peço para ele retornar."
         },
         {
             "order": 30,
@@ -192,7 +192,7 @@
             "order": 31,
             "start": 135.0,
             "end": 137.58,
-            "transcription": " Mas eu retorno contato com ele, então, mais tarde, tá bom?"
+            "transcription": " Mas eu retorno o contato com ele, então, mais tarde, tá bom?"
         },
         {
             "order": 32,
@@ -281,11 +281,11 @@
     ],
     "metrics": {
         "total_words": 237,
-        "words_per_minute": 119.11542972022112,
+        "words_per_minute": 119.03566047212452,
         "top_10_words": [
             [
                 "eu",
-                11
+                10
             ],
             [
                 "é",
@@ -293,7 +293,7 @@
             ],
             [
                 "o",
-                8
+                9
             ],
             [
                 "ele",
@@ -324,6 +324,16 @@
                 4
             ]
         ],
-        "magic_word_percentages": {}
+        "magic_word_percentages": {
+            "obrigado": 0.0,
+            "por favor": 0.42194092827004215,
+            "desculpa": 0.0,
+            "boa": 1.2658227848101267,
+            "agradeço": 0.0,
+            "gratidão": 0.0,
+            "sinto muito": 0.0,
+            "perdão": 0.0,
+            "com licença": 0.0
+        }
     }
 }

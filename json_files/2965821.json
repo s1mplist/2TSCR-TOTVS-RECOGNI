@@ -1,7 +1,6 @@
 {
-    "prompt": "Essa é uma transcrição de uma ligação para avialiação de NPS da empresa TOTVS.",
-    "model": "large-v3",
-    "audio_path": "audio_samples/2965821.wav",
+    "prompt": "Essa é uma transcrição de uma ligação para avaliação de NPS da empresa TOTVS.",
+    "audio_path": "audio_samples\/2965821.wav",
     "transcription": [
         {
             "order": 0,
@@ -12,61 +11,202 @@
         {
             "order": 1,
             "start": 30.0,
-            "end": 59.980000000000004,
-            "transcription": " A unidade de Colina, Disque 1, para a unidade de Colina, Disque 2, for English Press 3."
+            "end": 31.62,
+            "transcription": " A gente ficou em 3 da Lilian, desculpa."
         },
         {
             "order": 2,
-            "start": 60.0,
-            "end": 89.98,
-            "transcription": " A unidade de Colina, Disque 2, para a unidade de Colina, Disque 2, for English Press 3."
+            "start": 33.56,
+            "end": 34.08,
+            "transcription": " TOTVS."
         },
         {
             "order": 3,
-            "start": 90.0,
-            "end": 119.98,
-            "transcription": " A unidade de Colina, Disque 2, para a unidade de Colina, Disque 2, for English Press 3."
+            "start": 34.78,
+            "end": 35.64,
+            "transcription": " É isso mesmo."
         },
         {
             "order": 4,
+            "start": 36.46,
+            "end": 37.42,
+            "transcription": " Ah, tá, TOTVS."
+        },
+        {
+            "order": 5,
+            "start": 37.56,
+            "end": 38.58,
+            "transcription": " É Lilian da TOTVS."
+        },
+        {
+            "order": 6,
+            "start": 38.72,
+            "end": 39.9,
+            "transcription": " Só um minuto, tá bom, Lilian?"
+        },
+        {
+            "order": 7,
+            "start": 41.22,
+            "end": 42.84,
+            "transcription": " Da TOTVS."
+        },
+        {
+            "order": 8,
+            "start": 44.519999999999996,
+            "end": 45.68,
+            "transcription": " TOTVS, com S no final."
+        },
+        {
+            "order": 9,
+            "start": 47.78,
+            "end": 48.16,
+            "transcription": " Isso."
+        },
+        {
+            "order": 10,
+            "start": 50.0,
+            "end": 51.08,
+            "transcription": " Tá bom, obrigada."
+        },
+        {
+            "order": 11,
+            "start": 60.0,
+            "end": 61.0,
+            "transcription": " TOTVS."
+        },
+        {
+            "order": 12,
+            "start": 90.0,
+            "end": 90.94,
+            "transcription": " Hum, entendi."
+        },
+        {
+            "order": 13,
+            "start": 91.46,
+            "end": 91.94,
+            "transcription": " Pois não?"
+        },
+        {
+            "order": 14,
+            "start": 94.7,
+            "end": 94.96,
+            "transcription": " Ah."
+        },
+        {
+            "order": 15,
+            "start": 96.28,
+            "end": 99.6,
+            "transcription": " Não, não, não, é que ele sempre tá ocupado, tá em reunião."
+        },
+        {
+            "order": 16,
+            "start": 101.16,
+            "end": 103.38,
+            "transcription": " E na última vez não atendeu nem o ramal dele."
+        },
+        {
+            "order": 17,
+            "start": 103.9,
+            "end": 104.98,
+            "transcription": " Mas ele está, né?"
+        },
+        {
+            "order": 18,
+            "start": 105.04,
+            "end": 109.72,
+            "transcription": " É o Flávio.Renato, arroba-suco-rico.com.br."
+        },
+        {
+            "order": 19,
+            "start": 109.78,
+            "end": 113.94,
+            "transcription": " Será só, pede pra ele responder o e-mail, eu vou encaminhar o e-mail pra ele, será só me confirma com o quê?"
+        },
+        {
+            "order": 20,
+            "start": 113.96000000000001,
+            "end": 115.02,
+            "transcription": " Tá bom, então, foi nada, tchau."
+        },
+        {
+            "order": 21,
+            "start": 116.64,
+            "end": 117.62,
+            "transcription": " Ponto Renato."
+        },
+        {
+            "order": 22,
             "start": 120.0,
-            "end": 149.98,
-            "transcription": " A unidade de Colina, Disque 2, para a unidade de Colina, Disque 2, for English Press 3."
+            "end": 123.08,
+            "transcription": " Certo, esse mesmo, eu vou encaminhar o e-mail pra ele, fico na guarda, tá bom?"
+        },
+        {
+            "order": 23,
+            "start": 123.36,
+            "end": 123.68,
+            "transcription": " Obrigada."
+        },
+        {
+            "order": 24,
+            "start": 124.8,
+            "end": 125.24,
+            "transcription": " Tchau, tchau."
         }
     ],
     "metrics": {
-        "total_words": 5,
-        "words_per_minute": 2.283452580301416,
+        "total_words": 143,
+        "words_per_minute": 187.00959023539684,
         "top_10_words": [
             [
-                " a unidade de colina, disque 2, para a unidade de colina, disque 2, for english press 3.",
+                "tá",
+                6
+            ],
+            [
+                "o",
+                6
+            ],
+            [
+                "totvs.",
+                5
+            ],
+            [
+                "a",
+                4
+            ],
+            [
+                "é",
+                4
+            ],
+            [
+                "da",
                 3
             ],
             [
-                " bem-vindo a suco rico citrus, para a unidade de araras, disque 1, para a unidade de colina, disque 2, for english press 3.",
-                1
+                "bom,",
+                3
             ],
             [
-                " a unidade de colina, disque 1, para a unidade de colina, disque 2, for english press 3.",
-                1
+                "não,",
+                3
+            ],
+            [
+                "ele",
+                3
+            ],
+            [
+                "pra",
+                3
             ]
         ],
         "magic_word_percentages": {
             "obrigado": 0.0,
-            "obrigada": 0.0,
             "por favor": 0.0,
-            "desculpa": 0.0,
-            "desculpe": 0.0,
-            "por gentileza": 0.0,
-            "bom dia": 0.0,
-            "boa tarde": 0.0,
-            "boa noite": 0.0,
+            "desculpa": 0.6993006993006993,
+            "boa": 0.0,
             "agradeço": 0.0,
-            "agradece": 0.0,
             "gratidão": 0.0,
             "sinto muito": 0.0,
             "perdão": 0.0,
-            "me perdoe": 0.0,
             "com licença": 0.0
         }
     }

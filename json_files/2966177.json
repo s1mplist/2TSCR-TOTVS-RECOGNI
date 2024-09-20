@@ -44,6 +44,16 @@
                 4
             ]
         ],
-        "magic_word_percentages": {}
+        "magic_word_percentages": {
+            "obrigado": 0.0,
+            "por favor": 0.0,
+            "desculpa": 0.0,
+            "boa": 0.0,
+            "agradeço": 0.0,
+            "gratidão": 0.0,
+            "sinto muito": 0.0,
+            "perdão": 0.0,
+            "com licença": 0.0
+        }
     }
 }

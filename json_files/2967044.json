@@ -1,13 +1,12 @@
 {
-    "prompt": "Essa é uma transcrição de uma ligação para avialiação de NPS da empresa TOTVS.",
-    "model": "large-v3",
-    "audio_path": "audio_samples/2967044.wav",
+    "prompt": "Essa é uma transcrição de uma ligação para avaliação de NPS da empresa TOTVS.",
+    "audio_path": "audio_samples\/2967044.wav",
     "transcription": [
         {
             "order": 0,
-            "start": 0.58,
+            "start": 0.56,
             "end": 2.64,
-            "transcription": " Escola Harmonia, Alessandra, bom dia."
+            "transcription": " Escola Harmonia Alessandra, bom dia."
         },
         {
             "order": 1,
@@ -17,7 +16,7 @@
         },
         {
             "order": 2,
-            "start": 7.62,
+            "start": 7.48,
             "end": 8.76,
             "transcription": " Tudo bem, Viviane."
         },
@@ -29,19 +28,19 @@
         },
         {
             "order": 4,
-            "start": 14.58,
-            "end": 17.04,
+            "start": 14.56,
+            "end": 17.02,
             "transcription": " Repete para mim de onde você fala, Viviane."
         },
         {
             "order": 5,
-            "start": 17.28,
+            "start": 17.26,
             "end": 18.48,
             "transcription": " Eu falo da TOTS."
         },
         {
             "order": 6,
-            "start": 20.400000000000002,
+            "start": 20.38,
             "end": 21.56,
             "transcription": " Só letra para mim."
         },
@@ -78,7 +77,7 @@
         {
             "order": 12,
             "start": 32.14,
-            "end": 33.84,
+            "end": 33.82,
             "transcription": " Só um instantinho, por favor."
         },
         {
@@ -89,372 +88,359 @@
         },
         {
             "order": 14,
-            "start": 59.28,
-            "end": 59.78,
-            "transcription": " Obrigada."
+            "start": 35.480000000000004,
+            "end": 35.980000000000004,
+            "transcription": " De nada."
         },
         {
             "order": 15,
+            "start": 57.56,
+            "end": 58.56,
+            "transcription": " Obrigada."
+        },
+        {
+            "order": 16,
             "start": 60.0,
             "end": 61.0,
             "transcription": " Obrigada."
         },
         {
-            "order": 16,
+            "order": 17,
             "start": 61.0,
             "end": 62.0,
             "transcription": " Obrigada."
         },
         {
-            "order": 17,
+            "order": 18,
             "start": 62.0,
             "end": 63.0,
             "transcription": " Obrigada."
         },
         {
-            "order": 18,
+            "order": 19,
             "start": 63.0,
             "end": 64.0,
             "transcription": " Obrigada."
         },
         {
-            "order": 19,
+            "order": 20,
             "start": 64.0,
             "end": 65.0,
             "transcription": " Obrigada."
         },
         {
-            "order": 20,
+            "order": 21,
             "start": 65.0,
             "end": 66.0,
             "transcription": " Obrigada."
         },
         {
-            "order": 21,
+            "order": 22,
             "start": 66.0,
             "end": 67.0,
             "transcription": " Obrigada."
         },
         {
-            "order": 22,
+            "order": 23,
             "start": 67.0,
             "end": 68.0,
             "transcription": " Obrigada."
         },
         {
-            "order": 23,
+            "order": 24,
             "start": 68.0,
             "end": 69.0,
             "transcription": " Obrigada."
         },
         {
-            "order": 24,
+            "order": 25,
             "start": 69.0,
             "end": 70.0,
             "transcription": " Obrigada."
         },
         {
-            "order": 25,
+            "order": 26,
             "start": 70.0,
             "end": 71.0,
             "transcription": " Obrigada."
         },
         {
-            "order": 26,
+            "order": 27,
             "start": 71.0,
             "end": 72.0,
             "transcription": " Obrigada."
         },
         {
-            "order": 27,
+            "order": 28,
             "start": 72.0,
             "end": 73.0,
             "transcription": " Obrigada."
         },
         {
-            "order": 28,
+            "order": 29,
             "start": 73.0,
             "end": 74.0,
             "transcription": " Obrigada."
         },
         {
-            "order": 29,
+            "order": 30,
             "start": 74.0,
             "end": 75.0,
             "transcription": " Obrigada."
         },
         {
-            "order": 30,
+            "order": 31,
             "start": 75.0,
             "end": 76.0,
             "transcription": " Obrigada."
         },
         {
-            "order": 31,
+            "order": 32,
             "start": 76.0,
             "end": 77.0,
             "transcription": " Obrigada."
         },
         {
-            "order": 32,
+            "order": 33,
             "start": 77.0,
             "end": 78.0,
             "transcription": " Obrigada."
         },
         {
-            "order": 33,
+            "order": 34,
             "start": 78.0,
             "end": 79.0,
             "transcription": " Obrigada."
         },
         {
-            "order": 34,
+            "order": 35,
             "start": 79.0,
             "end": 80.0,
             "transcription": " Obrigada."
         },
         {
-            "order": 35,
+            "order": 36,
             "start": 80.0,
             "end": 81.0,
             "transcription": " Obrigada."
         },
         {
-            "order": 36,
+            "order": 37,
             "start": 81.0,
             "end": 82.0,
             "transcription": " Obrigada."
         },
         {
-            "order": 37,
+            "order": 38,
             "start": 82.0,
             "end": 83.0,
             "transcription": " Obrigada."
         },
         {
-            "order": 38,
+            "order": 39,
             "start": 83.0,
             "end": 84.0,
             "transcription": " Obrigada."
         },
         {
-            "order": 39,
+            "order": 40,
             "start": 84.0,
             "end": 85.0,
             "transcription": " Obrigada."
         },
         {
-            "order": 40,
+            "order": 41,
             "start": 85.0,
             "end": 86.0,
             "transcription": " Obrigada."
         },
         {
-            "order": 41,
+            "order": 42,
             "start": 86.0,
             "end": 87.0,
             "transcription": " Obrigada."
         },
         {
-            "order": 42,
+            "order": 43,
             "start": 87.0,
             "end": 88.0,
             "transcription": " Obrigada."
         },
         {
-            "order": 43,
+            "order": 44,
             "start": 88.0,
             "end": 89.0,
             "transcription": " Obrigada."
         },
         {
-            "order": 44,
+            "order": 45,
             "start": 89.0,
             "end": 90.0,
             "transcription": " Obrigada."
         },
         {
-            "order": 45,
+            "order": 46,
             "start": 90.0,
             "end": 119.98,
             "transcription": " E aí"
         },
         {
-            "order": 46,
-            "start": 120.0,
-            "end": 130.12,
-            "transcription": " Alô?"
-        },
-        {
             "order": 47,
-            "start": 130.66,
-            "end": 131.64,
-            "transcription": " Alô, bom dia."
+            "start": 120.0,
+            "end": 120.04,
+            "transcription": " E aí"
         },
         {
             "order": 48,
+            "start": 120.04,
+            "end": 130.14,
+            "transcription": " Alô?"
+        },
+        {
+            "order": 49,
+            "start": 130.66,
+            "end": 131.66,
+            "transcription": " Alô, bom dia."
+        },
+        {
+            "order": 50,
             "start": 132.02,
             "end": 132.62,
             "transcription": " Oi, bom dia."
         },
         {
-            "order": 49,
+            "order": 51,
             "start": 133.14,
             "end": 135.96,
-            "transcription": " Meu nome é Viviane, eu falo aqui da TOTOS Matriz, tudo bem?"
+            "transcription": " Meu nome é Viviane, eu falo aqui da TOTUS Matriz, tudo bem?"
         },
         {
-            "order": 50,
+            "order": 52,
             "start": 136.3,
             "end": 136.94,
             "transcription": " Tudo, e você?"
         },
         {
-            "order": 51,
+            "order": 53,
             "start": 137.52,
             "end": 140.46,
             "transcription": " Tudo bem também, obrigada. Eu falo com Marcela?"
         },
         {
-            "order": 52,
-            "start": 140.9,
+            "order": 54,
+            "start": 140.88,
             "end": 141.2,
             "transcription": " Sim."
         },
         {
-            "order": 53,
+            "order": 55,
             "start": 141.98,
             "end": 146.32,
             "transcription": " Marcela, eu estou entrando em contato com você para a gente fazer um rápido acompanhamento"
         },
         {
-            "order": 54,
+            "order": 56,
             "start": 146.32,
             "end": 149.98,
-            "transcription": " em relação à marca TOTOS que vocês utilizam hoje na empresa e no seu negócio."
-        },
-        {
-            "order": 55,
-            "start": 150.0,
-            "end": 153.54,
-            "transcription": " No nosso departamento, você teria dois minutinhos para falar comigo?"
-        },
-        {
-            "order": 56,
-            "start": 154.08,
-            "end": 157.2,
-            "transcription": " Isso, na realidade é que vocês vão ter que falar com o Daniel, que é o dono da escola,"
+            "transcription": " em relação à marca TOTUS que vocês utilizam hoje na empresa e no seu negócio."
         },
         {
             "order": 57,
-            "start": 157.3,
-            "end": 158.0,
-            "transcription": " não seria comigo."
+            "start": 150.0,
+            "end": 153.38,
+            "transcription": " No seu departamento? Você teria dois minutinhos para falar comigo?"
         },
         {
             "order": 58,
-            "start": 159.46,
-            "end": 162.52,
-            "transcription": " Entendi, mas você não faz a utilização do TOTOS na empresa?"
+            "start": 154.06,
+            "end": 158.0,
+            "transcription": " Isso, na realidade é que vocês vão ter que falar com o Daniel, que é o dono da escola, não seria comigo."
         },
         {
             "order": 59,
-            "start": 162.72,
+            "start": 159.48,
+            "end": 162.52,
+            "transcription": " Entendi, mas você não faz a utilização do TOTUS na empresa?"
+        },
+        {
+            "order": 60,
+            "start": 162.78,
             "end": 163.7,
             "transcription": " Isso, aí é só com o Daniel."
         },
         {
-            "order": 60,
-            "start": 164.78,
+            "order": 61,
+            "start": 164.8,
             "end": 165.94,
             "transcription": " Entendi, e ele se encontra?"
         },
         {
-            "order": 61,
+            "order": 62,
             "start": 166.38,
             "end": 169.62,
-            "transcription": " Isso, no momento ele não está, se você der uma ligadinha tarde, talvez você consiga falar com ele."
-        },
-        {
-            "order": 62,
-            "start": 170.3,
-            "end": 171.38,
-            "transcription": " Tá bom então, eu retorno."
+            "transcription": " Isso, no momento ele não está. Se você der uma ligadinha tarde, talvez você consiga falar com ele."
         },
         {
             "order": 63,
-            "start": 171.38,
-            "end": 171.6,
-            "transcription": " Tá bom?"
-        },
-        {
-            "order": 64,
-            "start": 171.64,
+            "start": 170.3,
             "end": 172.0,
-            "transcription": " Obrigada."
+            "transcription": " Tá bom então, eu retorno. Obrigada."
         }
     ],
     "metrics": {
-        "total_words": 65,
-        "words_per_minute": 30.737704918032804,
+        "total_words": 238,
+        "words_per_minute": 111.54507108264335,
         "top_10_words": [
             [
-                " obrigada.",
-                32
+                "obrigada.",
+                34
             ],
             [
-                " t-o-t-v-s.",
-                3
+                "eu",
+                7
             ],
             [
-                " escola harmonia, alessandra, bom dia.",
-                1
+                "com",
+                6
             ],
             [
-                " bom dia, meu nome é viviane, eu falo aqui da tots matriz, tudo bem?",
-                1
+                "você",
+                6
             ],
             [
-                " tudo bem, viviane.",
-                1
+                "bom",
+                5
             ],
             [
-                " eu gostaria, por favor, de falar com o marcelo salomão.",
-                1
+                "é",
+                5
             ],
             [
-                " repete para mim de onde você fala, viviane.",
-                1
+                "e",
+                5
             ],
             [
-                " eu falo da tots.",
-                1
+                "falo",
+                4
             ],
             [
-                " só letra para mim.",
-                1
+                "da",
+                4
             ],
             [
-                " tots.",
-                1
+                "tudo",
+                4
             ]
         ],
         "magic_word_percentages": {
             "obrigado": 0.0,
-            "obrigada": 0.0,
-            "por favor": 0.0,
+            "por favor": 0.8403361344537815,
             "desculpa": 0.0,
-            "desculpe": 0.0,
-            "por gentileza": 0.0,
-            "bom dia": 0.0,
-            "boa tarde": 0.0,
-            "boa noite": 0.0,
+            "boa": 0.0,
             "agradeço": 0.0,
-            "agradece": 0.0,
             "gratidão": 0.0,
             "sinto muito": 0.0,
             "perdão": 0.0,
-            "me perdoe": 0.0,
             "com licença": 0.0
         }
     }

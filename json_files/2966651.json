@@ -1,7 +1,6 @@
 {
-    "prompt": "Essa é uma transcrição de uma ligação para avialiação de NPS da empresa TOTVS.",
-    "model": "large-v3",
-    "audio_path": "audio_samples/2966651.wav",
+    "prompt": "Essa é uma transcrição de uma ligação para avaliação de NPS da empresa TOTVS.",
+    "audio_path": "audio_samples\/2966651.wav",
     "transcription": [
         {
             "order": 0,
@@ -42,7 +41,7 @@
         {
             "order": 6,
             "start": 18.740000000000002,
-            "end": 22.1,
+            "end": 22.04,
             "transcription": " Tá, eu sou da TOTVS, eu estou ligando para fazer o NPS, que é uma avaliação geral,"
         },
         {
@@ -119,282 +118,263 @@
         },
         {
             "order": 19,
-            "start": 85.7,
+            "start": 85.82,
             "end": 86.72,
             "transcription": " Pode falar o número?"
         },
         {
             "order": 20,
-            "start": 87.68,
-            "end": 88.34,
-            "transcription": " Pode falar."
+            "start": 87.66,
+            "end": 88.46000000000001,
+            "transcription": " Pode falar, obrigado."
         },
         {
             "order": 21,
-            "start": 88.46000000000001,
-            "end": 88.9,
-            "transcription": " Obrigada."
-        },
-        {
-            "order": 22,
             "start": 89.4,
             "end": 93.36,
             "transcription": " Dezessete, DDD, três, oito, sete, nove."
         },
         {
-            "order": 23,
+            "order": 22,
             "start": 94.10000000000001,
             "end": 95.12,
             "transcription": " Três, oito, sete, nove."
         },
         {
-            "order": 24,
+            "order": 23,
             "start": 95.24000000000001,
-            "end": 95.7,
-            "transcription": " Sete mil."
+            "end": 99.42,
+            "transcription": " Sete mil. Aí você pode falar que quer falar com alguém do administrativo ou do financeiro,"
+        },
+        {
+            "order": 24,
+            "start": 99.54,
+            "end": 100.12,
+            "transcription": " que eles vão te entender."
         },
         {
             "order": 25,
-            "start": 95.78,
-            "end": 99.72,
-            "transcription": " Aí você pode falar que quer falar com alguém do administrativo ou do financeiro, que eles"
-        },
-        {
-            "order": 26,
-            "start": 99.72,
-            "end": 100.10000000000001,
-            "transcription": " podem entender."
-        },
-        {
-            "order": 27,
-            "start": 101.18,
+            "start": 101.2,
             "end": 102.28,
             "transcription": " ADM ou financeiro."
         },
         {
-            "order": 28,
-            "start": 102.60000000000001,
+            "order": 26,
+            "start": 102.62,
             "end": 106.44,
             "transcription": " Aproveitando, então, o senhor tem um contato também do condomínio Hot Suites Olímpia"
         },
         {
-            "order": 29,
+            "order": 27,
             "start": 106.44,
             "end": 109.32000000000001,
             "transcription": " ou do condomínio Hotel Paiquiri?"
         },
         {
-            "order": 30,
+            "order": 28,
             "start": 110.44,
             "end": 111.02000000000001,
-            "transcription": " Eu do..."
+            "transcription": " O do..."
         },
         {
-            "order": 31,
+            "order": 29,
             "start": 111.02000000000001,
             "end": 111.82000000000001,
             "transcription": " Não sei se é com vocês."
         },
         {
-            "order": 32,
+            "order": 30,
             "start": 111.94,
             "end": 114.30000000000001,
             "transcription": " O do Suites eu tenho, agora esse outro acho que não é da gente, não."
         },
         {
-            "order": 33,
+            "order": 31,
             "start": 115.06,
             "end": 115.46000000000001,
             "transcription": " Ah, tá."
         },
         {
-            "order": 34,
-            "start": 115.62,
+            "order": 32,
+            "start": 115.64000000000001,
             "end": 116.38000000000001,
             "transcription": " Espera aí, deixa eu pegar aqui."
         },
         {
-            "order": 35,
+            "order": 33,
             "start": 119.4,
             "end": 135.44,
             "transcription": " Eu te passei invertido, na verdade."
         },
         {
-            "order": 36,
+            "order": 34,
             "start": 135.58,
             "end": 138.1,
-            "transcription": " Esse que eu te passei antes é o do Hot Beats Suites."
+            "transcription": " Esse que eu te passei antes é o do Hot Beak Suites."
         },
         {
-            "order": 37,
-            "start": 138.18,
+            "order": 35,
+            "start": 138.16,
             "end": 140.20000000000002,
             "transcription": " Eu vou te passar agora o do Resort, que você pediu primeiro."
         },
         {
-            "order": 38,
+            "order": 36,
             "start": 140.4,
             "end": 140.68,
             "transcription": " Pode ser?"
         },
         {
-            "order": 39,
+            "order": 37,
             "start": 141.3,
             "end": 142.32,
             "transcription": " Tá, pode ser."
         },
         {
-            "order": 40,
+            "order": 38,
             "start": 142.4,
             "end": 144.12,
             "transcription": " Deixa eu tirar daqui para o outro."
         },
         {
-            "order": 41,
+            "order": 39,
             "start": 145.70000000000002,
             "end": 146.28,
             "transcription": " Pode falar."
         },
         {
-            "order": 42,
+            "order": 40,
             "start": 146.28,
             "end": 148.76,
             "transcription": " O do Resort é três, dois, sete, nove."
         },
         {
-            "order": 43,
+            "order": 41,
             "start": 149.4,
             "end": 150.4,
             "transcription": " Também dele é de dezessete."
         },
         {
-            "order": 44,
+            "order": 42,
             "start": 151.38,
             "end": 153.3,
             "transcription": " Tá, dezessete, três, dois, sete, nove."
         },
         {
-            "order": 45,
+            "order": 43,
             "start": 153.36,
             "end": 154.84,
             "transcription": " Isso, treze, zero, zero."
         },
         {
-            "order": 46,
+            "order": 44,
             "start": 156.26000000000002,
             "end": 157.46,
             "transcription": " Treze, zero, zero."
         },
         {
-            "order": 47,
+            "order": 45,
             "start": 157.48000000000002,
             "end": 158.04000000000002,
             "transcription": " Isso é a mesma coisa."
         },
         {
-            "order": 48,
-            "start": 158.14000000000001,
+            "order": 46,
+            "start": 158.12,
             "end": 160.48000000000002,
             "transcription": " Fala que você quer falar com alguém do administrativo ou financeiro."
         },
         {
-            "order": 49,
+            "order": 47,
             "start": 161.56,
             "end": 162.1,
             "transcription": " Beleza, então."
         },
         {
-            "order": 50,
+            "order": 48,
             "start": 162.20000000000002,
             "end": 163.48000000000002,
             "transcription": " Obrigada, então, pela atenção, viu?"
         },
         {
-            "order": 51,
+            "order": 49,
             "start": 163.56,
             "end": 163.84,
             "transcription": " Nada."
         },
         {
-            "order": 52,
+            "order": 50,
             "start": 164.06,
             "end": 164.94,
             "transcription": " Tenha um ótimo dia."
         },
         {
-            "order": 53,
+            "order": 51,
             "start": 165.0,
             "end": 165.46,
             "transcription": " Um bom dia também."
         },
         {
-            "order": 54,
+            "order": 52,
             "start": 165.54000000000002,
             "end": 165.76,
             "transcription": " Tchau, tchau."
         }
     ],
     "metrics": {
-        "total_words": 55,
-        "words_per_minute": 28.10424118548801,
+        "total_words": 375,
+        "words_per_minute": 192.4721984602225,
         "top_10_words": [
             [
-                " pode falar.",
-                2
+                "o",
+                16
             ],
             [
-                " alô, bom dia, da empresa totvs falando. falo com o felipe?",
-                1
+                "eu",
+                15
             ],
             [
-                " bom dia, ele mesmo.",
-                1
+                "que",
+                12
             ],
             [
-                " tudo bem?",
-                1
+                "do",
+                12
             ],
             [
-                " bem, e você?",
-                1
+                "é",
+                10
             ],
             [
-                " que ótimo. sr. felipe, tudo bem, graças a deus. o senhor é do condomínio hot beak resort?",
-                1
+                "e",
+                6
             ],
             [
-                " eu trabalho aqui no corporativo, mas o que seria?",
-                1
+                "condomínio",
+                6
             ],
             [
-                " tá, eu sou da totvs, eu estou ligando para fazer o nps, que é uma avaliação geral,",
-                1
+                "pode",
+                6
             ],
             [
-                " eu estou ligando para todos os condomínios e os resorts e os hotéis.",
-                1
+                "com",
+                5
             ],
             [
-                " e aí eu precisava falar com alguém responsável de cada cnpj que eu estou ligando.",
-                1
+                "a",
+                5
             ]
         ],
         "magic_word_percentages": {
-            "obrigado": 0.0,
-            "obrigada": 0.0,
+            "obrigado": 0.26666666666666666,
             "por favor": 0.0,
             "desculpa": 0.0,
-            "desculpe": 0.0,
-            "por gentileza": 0.0,
-            "bom dia": 0.0,
-            "boa tarde": 0.0,
-            "boa noite": 0.0,
+            "boa": 0.0,
             "agradeço": 0.0,
-            "agradece": 0.0,
             "gratidão": 0.0,
             "sinto muito": 0.0,
             "perdão": 0.0,
-            "me perdoe": 0.0,
             "com licença": 0.0
         }
     }

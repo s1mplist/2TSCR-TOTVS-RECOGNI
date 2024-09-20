@@ -47,34 +47,62 @@
         {
             "order": 7,
             "start": 34.94,
-            "end": 37.56,
+            "end": 37.54,
             "transcription": " O Grupo Rocha agradece a sua ligação."
         },
         {
             "order": 8,
             "start": 54.64,
             "end": 84.62,
-            "transcription": " Legenda Adriana Zanotto"
+            "transcription": " O Grupo Rocha agradece a sua ligação."
         },
         {
             "order": 9,
             "start": 84.64,
             "end": 114.62,
-            "transcription": " Legenda Adriana Zanotto"
+            "transcription": " O Grupo Rocha agradece a sua ligação."
         },
         {
             "order": 10,
             "start": 114.64,
             "end": 144.62,
-            "transcription": " Legenda Adriana Zanotto"
+            "transcription": " O Grupo Rocha agradece a sua ligação."
         }
     ],
     "metrics": {
-        "total_words": 80,
-        "words_per_minute": 38.753431293395764,
+        "total_words": 92,
+        "words_per_minute": 44.5736434108527,
         "top_10_words": [
             [
+                "grupo",
+                5
+            ],
+            [
+                "o",
+                5
+            ],
+            [
                 "digite",
+                4
+            ],
+            [
+                "rocha",
+                4
+            ],
+            [
+                "agradece",
+                4
+            ],
+            [
+                "a",
+                4
+            ],
+            [
+                "sua",
+                4
+            ],
+            [
+                "ligação.",
                 4
             ],
             [
@@ -84,38 +112,18 @@
             [
                 "para",
                 3
-            ],
-            [
-                "se",
-                3
-            ],
-            [
-                "você",
-                3
-            ],
-            [
-                "é",
-                3
-            ],
-            [
-                "e",
-                3
-            ],
-            [
-                "deseja",
-                3
-            ],
-            [
-                "legenda",
-                3
-            ],
-            [
-                "adriana",
-                3
             ]
         ],
         "magic_word_percentages": {
-            "agradece": 1.25
+            "obrigado": 0.0,
+            "por favor": 0.0,
+            "desculpa": 0.0,
+            "boa": 0.0,
+            "agradeço": 0.0,
+            "gratidão": 0.0,
+            "sinto muito": 0.0,
+            "perdão": 0.0,
+            "com licença": 0.0
         }
     }
 }

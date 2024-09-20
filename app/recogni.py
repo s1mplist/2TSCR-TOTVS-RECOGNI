@@ -182,7 +182,7 @@ if __name__ == "__main__":
     model = WhisperModel(
         args.model_size, device=args.device, compute_type=args.compute_type
     )
-
+    
     if audio_path.is_file():
         process_file(audio_path, str(args.prompt), model, args.beam_size)
     elif audio_path.is_dir():

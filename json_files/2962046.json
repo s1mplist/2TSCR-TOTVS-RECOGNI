@@ -1,13 +1,12 @@
 {
-    "prompt": "Essa é uma transcrição de uma ligação para avialiação de NPS da empresa TOTVS.",
-    "model": "large-v3",
-    "audio_path": "audio_samples/2962046.wav",
+    "prompt": "Essa é uma transcrição de uma ligação para avaliação de NPS da empresa TOTVS.",
+    "audio_path": "audio_samples\/2962046.wav",
     "transcription": [
         {
             "order": 0,
             "start": 0.0,
             "end": 4.1,
-            "transcription": " Oi Cláudia, bom dia. Lília da TOTVS, tudo bem?"
+            "transcription": " Oi, Cláudia, bom dia. Lília da TOTVS, tudo bem?"
         },
         {
             "order": 1,
@@ -65,9 +64,9 @@
         },
         {
             "order": 10,
-            "start": 31.18,
+            "start": 31.16,
             "end": 34.12,
-            "transcription": " Oito. Suporte técnico ou uma nota para agilidade nos processos?"
+            "transcription": " Oito. Suporte técnico, uma nota para agilidade nos processos?"
         },
         {
             "order": 11,
@@ -85,7 +84,7 @@
             "order": 13,
             "start": 40.16,
             "end": 40.72,
-            "transcription": " Atendimento."
+            "transcription": " Atendimento?"
         },
         {
             "order": 14,
@@ -95,7 +94,7 @@
         },
         {
             "order": 15,
-            "start": 44.96,
+            "start": 44.94,
             "end": 47.94,
             "transcription": " Na verdade, eu sou só atendido por uma pessoa, oito também."
         },
@@ -132,7 +131,7 @@
         {
             "order": 21,
             "start": 71.16,
-            "end": 73.24,
+            "end": 73.26,
             "transcription": " Mas acho que oito. No meu caso, oito."
         },
         {
@@ -143,7 +142,7 @@
         },
         {
             "order": 23,
-            "start": 76.32,
+            "start": 76.34,
             "end": 76.74000000000001,
             "transcription": " Isso."
         },
@@ -156,20 +155,20 @@
         {
             "order": 25,
             "start": 83.02,
-            "end": 84.12,
+            "end": 84.14,
             "transcription": " Não tenho contato."
         },
         {
             "order": 26,
             "start": 84.62,
             "end": 86.4,
-            "transcription": " Não tem contato. Mais três perguntas."
+            "transcription": " Não tem contato, mas três perguntas."
         },
         {
             "order": 27,
             "start": 86.4,
             "end": 89.4,
-            "transcription": " O problema que vocês utilizam está atendendo a necessidade..."
+            "transcription": " O problema que vocês utilizam está atendendo a necessidade?"
         },
         {
             "order": 28,
@@ -180,7 +179,7 @@
         {
             "order": 29,
             "start": 94.1,
-            "end": 94.62,
+            "end": 94.66,
             "transcription": " Total."
         },
         {
@@ -191,9 +190,9 @@
         },
         {
             "order": 31,
-            "start": 100.12,
-            "end": 103.66,
-            "transcription": " Atualização tem um pouco mais de dificuldade. Vou dar nota seis."
+            "start": 100.1,
+            "end": 103.64,
+            "transcription": " Atualização eu tenho um pouco mais de dificuldade. Eu vou dar nota seis."
         },
         {
             "order": 32,
@@ -210,191 +209,190 @@
         {
             "order": 34,
             "start": 108.08,
-            "end": 113.12,
-            "transcription": " E a última pergunta é para avaliar a unidade TOTOS de Bauru. Tem contato com ele?"
+            "end": 111.0,
+            "transcription": " E a última pergunta é para avaliar a unidade TOTOS de Bauru."
         },
         {
             "order": 35,
-            "start": 113.7,
-            "end": 115.66,
-            "transcription": " Pouco contato. Sete."
+            "start": 112.08,
+            "end": 113.12,
+            "transcription": " Tem contato com ele?"
         },
         {
             "order": 36,
-            "start": 116.36,
-            "end": 117.0,
-            "transcription": " Sete."
+            "start": 113.7,
+            "end": 115.72,
+            "transcription": " Pouco contato, sete."
         },
         {
             "order": 37,
-            "start": 117.56,
+            "start": 116.36,
+            "end": 116.98,
+            "transcription": " Sete."
+        },
+        {
+            "order": 38,
+            "start": 117.6,
             "end": 119.98,
             "transcription": " Gostaria de comentar alguma das perguntas que vocês tiveram."
         },
         {
-            "order": 38,
+            "order": 39,
             "start": 120.0,
             "end": 125.72,
             "transcription": " A questão de atualização, que foi a que eu dei a nota menor."
         },
         {
-            "order": 39,
+            "order": 40,
             "start": 126.96,
             "end": 134.4,
             "transcription": " Eu sei que nós temos um problema interno, que seria o meu TI, que às vezes não fica muito..."
         },
         {
-            "order": 40,
+            "order": 41,
             "start": 134.4,
             "end": 138.48,
             "transcription": " Eu gostaria, se possível, de receber um e-mail de cada atualização."
         },
         {
-            "order": 41,
+            "order": 42,
             "start": 139.36,
             "end": 140.54,
             "transcription": " Notificar, certo."
         },
         {
-            "order": 42,
+            "order": 43,
             "start": 140.66,
             "end": 141.68,
             "transcription": " Notificar, isso."
         },
         {
-            "order": 43,
+            "order": 44,
             "start": 142.98,
             "end": 145.86,
             "transcription": " E não recebe. Será que é só o TI que recebe aí da empresa?"
         },
         {
-            "order": 44,
+            "order": 45,
             "start": 146.0,
             "end": 148.18,
             "transcription": " Então, eu não sei se ele recebe também."
         },
         {
-            "order": 45,
+            "order": 46,
             "start": 150.0,
             "end": 153.48,
             "transcription": " Mas, se chegasse para mim, eu tenho como cobrar ele, entendeu?"
         },
         {
-            "order": 46,
-            "start": 154.52,
-            "end": 154.96,
+            "order": 47,
+            "start": 154.54,
+            "end": 154.98,
             "transcription": " Sim."
         },
         {
-            "order": 47,
-            "start": 156.54,
+            "order": 48,
+            "start": 156.56,
             "end": 162.7,
-            "transcription": " Tá. Coloquei essa observação seis aqui, que você tem dificuldade com as atualizações e gostaria de receber uma notificação."
+            "transcription": " Tá. Coloquei nessa observação seis aqui que você tem dificuldade com as atualizações e gostaria de receber uma notificação."
         },
         {
-            "order": 48,
+            "order": 49,
             "start": 163.18,
             "end": 163.52,
             "transcription": " Tá."
         },
         {
-            "order": 49,
+            "order": 50,
             "start": 164.36,
             "end": 165.12,
-            "transcription": " Que mais?"
+            "transcription": " O que mais?"
         },
         {
-            "order": 50,
-            "start": 166.04,
+            "order": 51,
+            "start": 166.02,
             "end": 168.3,
             "transcription": " Não, só. Como observação, só."
         },
         {
-            "order": 51,
+            "order": 52,
             "start": 169.04,
             "end": 171.92000000000002,
             "transcription": " Só. Tá bem, então. É isso, Cláudio. Eu agradeço a atenção."
         },
         {
-            "order": 52,
+            "order": 53,
             "start": 172.1,
             "end": 172.16,
             "transcription": " Tá bom?"
         },
         {
-            "order": 53,
+            "order": 54,
             "start": 172.16,
             "end": 173.94,
-            "transcription": " Ainda que venha, a gente liga de novo. Tenha uma ótima dia."
+            "transcription": " Ainda que venha, a gente liga de novo. Tenha um ótimo dia."
         },
         {
-            "order": 54,
+            "order": 55,
             "start": 173.94,
             "end": 176.56,
             "transcription": " Tá bom, então. Obrigado, igualmente. Tchau, tchau."
         }
     ],
     "metrics": {
-        "total_words": 55,
-        "words_per_minute": 23.940800928612873,
+        "total_words": 413,
+        "words_per_minute": 181.06093818500648,
         "top_10_words": [
             [
-                " sim.",
-                2
+                "que",
+                18
             ],
             [
-                " oito.",
-                2
+                "a",
+                15
             ],
             [
-                " oi cláudia, bom dia. lília da totvs, tudo bem?",
-                1
+                "eu",
+                10
             ],
             [
-                " oi, tudo bem.",
-                1
+                "o",
+                10
             ],
             [
-                " que ótimo. eu sou do departamento voz do cliente.",
-                1
+                "de",
+                10
             ],
             [
-                " a gente entrou em contato com o senhor no passado para fazer o nps, uma avaliação geral.",
-                1
+                "do",
+                7
             ],
             [
-                " estou ligando novamente. tem dois minutos?",
-                1
+                "uma",
+                7
             ],
             [
-                " ok. só vou confirmar o final do cnpj da empresa baterias crawl, que é o 2000 contra 00 final. confirma?",
-                1
+                "não",
+                7
             ],
             [
-                " isso, confirmo.",
-                1
+                "tem",
+                6
             ],
             [
-                " ok. iniciando então. de uma escala 0 a 10, qual a probabilidade do senhor recomendar a totvs a alguém hoje no geral?",
-                1
+                "oito.",
+                6
             ]
         ],
         "magic_word_percentages": {
-            "obrigado": 0.0,
-            "obrigada": 0.0,
+            "obrigado": 0.24213075060532688,
             "por favor": 0.0,
             "desculpa": 0.0,
-            "desculpe": 0.0,
-            "por gentileza": 0.0,
-            "bom dia": 0.0,
-            "boa tarde": 0.0,
-            "boa noite": 0.0,
-            "agradeço": 0.0,
-            "agradece": 0.0,
+            "boa": 0.0,
+            "agradeço": 0.24213075060532688,
             "gratidão": 0.0,
             "sinto muito": 0.0,
             "perdão": 0.0,
-            "me perdoe": 0.0,
             "com licença": 0.0
         }
     }

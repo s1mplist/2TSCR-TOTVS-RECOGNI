@@ -1,7 +1,6 @@
 {
-    "prompt": "Essa é uma transcrição de uma ligação para avialiação de NPS da empresa TOTVS.",
-    "model": "large-v3",
-    "audio_path": "audio_samples/2968468.wav",
+    "prompt": "Essa é uma transcrição de uma ligação para avaliação de NPS da empresa TOTVS.",
+    "audio_path": "audio_samples\/2968468.wav",
     "transcription": [
         {
             "order": 0,
@@ -23,13 +22,13 @@
         },
         {
             "order": 3,
-            "start": 12.3,
+            "start": 12.280000000000001,
             "end": 14.280000000000001,
             "transcription": " Ah, sim. Viviane da TOTVS?"
         },
         {
             "order": 4,
-            "start": 14.56,
+            "start": 14.58,
             "end": 15.72,
             "transcription": " TOTVS Matriz."
         },
@@ -59,7 +58,7 @@
         },
         {
             "order": 9,
-            "start": 65.88,
+            "start": 65.9,
             "end": 70.22,
             "transcription": " No momento, eu estou bastante ocupado. Seria só dois minutos mesmo?"
         },
@@ -78,14 +77,14 @@
         {
             "order": 12,
             "start": 81.28,
-            "end": 84.46000000000001,
+            "end": 84.44,
             "transcription": " Certo. Eu só vou fazer algumas confirmações por questões de segurança."
         },
         {
             "order": 13,
-            "start": 84.46000000000001,
+            "start": 84.44,
             "end": 89.98,
-            "transcription": " O seu nome completo é Hélio Luíde Rodrigues e atualmente o senhor é um dos responsáveis pela área..."
+            "transcription": " O seu nome completo é Hélio Luiz Rodrigues e atualmente o senhor é um dos responsáveis pela área..."
         },
         {
             "order": 14,
@@ -95,7 +94,7 @@
         },
         {
             "order": 15,
-            "start": 91.3,
+            "start": 91.16,
             "end": 92.1,
             "transcription": " Isso. Exatamente."
         },
@@ -233,7 +232,7 @@
         },
         {
             "order": 38,
-            "start": 166.64,
+            "start": 166.68,
             "end": 167.12,
             "transcription": " Parcial."
         },
@@ -258,239 +257,250 @@
         {
             "order": 42,
             "start": 180.0,
-            "end": 187.92,
-            "transcription": " E a última nota que seria em relação à unidade que faz o atendimento com vocês hoje, também de zero a dez, como que você avalia a TOTVS de Minas, caso tenha contato?"
+            "end": 182.92,
+            "transcription": " Qual são a unidade que faz o atendimento com vocês hoje?"
         },
         {
             "order": 43,
+            "start": 183.18,
+            "end": 187.92,
+            "transcription": " Também de zero a dez, como que você avalia a TOTVS de Minas, caso tenha contato?"
+        },
+        {
+            "order": 44,
             "start": 188.28,
             "end": 189.46,
             "transcription": " Não tenho contato."
         },
         {
-            "order": 44,
-            "start": 190.06,
+            "order": 45,
+            "start": 190.08,
             "end": 198.42000000000002,
             "transcription": " Certo. No caso, Hélio, nós estamos entrando em contato mesmo, realizando esse acompanhamento, justamente para termos as nossas melhorias contínuas."
         },
         {
-            "order": 45,
-            "start": 198.72,
-            "end": 204.6,
-            "transcription": " No prazo de seis meses a um ano, a gente vai retornar o contato com você e verificar se teve alguma alteração na nota, tudo bem?"
-        },
-        {
             "order": 46,
-            "start": 204.82,
-            "end": 207.7,
-            "transcription": " Ok. Posso te fazer uma pergunta?"
+            "start": 198.72,
+            "end": 204.58,
+            "transcription": " No prazo de seis meses a um ano, a gente vai retornar ao contato com você e verificar se teve alguma alteração na nota, tudo bem?"
         },
         {
             "order": 47,
-            "start": 208.32,
-            "end": 209.14,
-            "transcription": " Claro, pode falar."
+            "start": 204.82,
+            "end": 205.24,
+            "transcription": " Ok."
         },
         {
             "order": 48,
+            "start": 205.88,
+            "end": 207.72,
+            "transcription": " Posso te fazer uma pergunta?"
+        },
+        {
+            "order": 49,
+            "start": 208.32,
+            "end": 209.24,
+            "transcription": " Claro, pode falar."
+        },
+        {
+            "order": 50,
             "start": 210.0,
             "end": 219.56,
             "transcription": " Vocês teriam algum consultor para indicar que a gente possa entrar em contato para a atualização do sistema?"
         },
         {
-            "order": 49,
+            "order": 51,
             "start": 220.82,
-            "end": 229.18,
-            "transcription": " Olha, aqui a gente não consegue dar esse telefone desse consultor porque a gente não tem acesso a essas informações."
+            "end": 229.2,
+            "transcription": " Olha, aqui a gente não consegue dar esse telefone desse consultor, porque a gente não tem acesso a essas informações."
         },
         {
-            "order": 50,
+            "order": 52,
             "start": 230.04,
             "end": 236.0,
-            "transcription": " Mas se você quiser, eu posso passar o telefone do executivo de vendas que ele consegue verificar para você."
+            "transcription": " Mas, se você quiser, eu posso passar o telefone do executivo de vendas, que ele consegue verificar para você."
         },
         {
-            "order": 51,
+            "order": 53,
             "start": 236.46,
             "end": 237.84,
             "transcription": " Pode me passar, por favor?"
         },
         {
-            "order": 52,
+            "order": 54,
             "start": 237.84,
             "end": 239.92000000000002,
             "transcription": " Sim, claro, só um momento."
         },
         {
-            "order": 53,
+            "order": 55,
             "start": 240.0,
             "end": 257.38,
             "transcription": " Ó, tem o Sidney e tem o Diogo. O telefone do Sidney é o DDD11-4301-915."
         },
         {
-            "order": 54,
+            "order": 56,
             "start": 259.38,
             "end": 261.56,
             "transcription": " E o outro é o Diogo, certo?"
         },
         {
-            "order": 55,
-            "start": 261.56,
-            "end": 269.62,
+            "order": 57,
+            "start": 262.34,
+            "end": 269.0,
             "transcription": " Isso, o DDD é 11-9-9507."
         },
         {
-            "order": 56,
+            "order": 58,
             "start": 270.0,
-            "end": 270.62,
+            "end": 270.64,
             "transcription": " Uhum."
         },
         {
-            "order": 57,
-            "start": 271.28,
-            "end": 272.64,
-            "transcription": " 63-68."
+            "order": 59,
+            "start": 271.98,
+            "end": 272.72,
+            "transcription": " 6368."
         },
         {
-            "order": 58,
-            "start": 273.52,
-            "end": 276.14,
+            "order": 60,
+            "start": 273.42,
+            "end": 276.12,
             "transcription": " O primeiro telefone é fixo e o segundo é o celular."
         },
         {
-            "order": 59,
-            "start": 276.6,
+            "order": 61,
+            "start": 276.62,
             "end": 279.48,
             "transcription": " Tanto em um quanto outro, você consegue contato com eles."
         },
         {
-            "order": 60,
+            "order": 62,
             "start": 279.84,
-            "end": 283.56,
+            "end": 283.54,
             "transcription": " Certo. Eles são da parte de consultoria?"
         },
         {
-            "order": 61,
-            "start": 284.4,
-            "end": 291.56,
+            "order": 63,
+            "start": 284.2,
+            "end": 292.12,
             "transcription": " É, o Sidney é o executivo de vendas e o Diogo Bandeira é o executivo de contas."
         },
         {
-            "order": 62,
-            "start": 293.0,
+            "order": 64,
+            "start": 292.9,
             "end": 293.28,
             "transcription": " Tá."
         },
         {
-            "order": 63,
-            "start": 294.18,
+            "order": 65,
+            "start": 294.16,
             "end": 294.7,
             "transcription": " Tudo bem?"
         },
         {
-            "order": 64,
-            "start": 294.8,
+            "order": 66,
+            "start": 294.78,
             "end": 296.12,
             "transcription": " Certo, certinho então."
         },
         {
-            "order": 65,
-            "start": 296.8,
-            "end": 298.78,
+            "order": 67,
+            "start": 296.5,
+            "end": 298.76,
             "transcription": " Tá bom então. Ficou com mais alguma dúvida?"
         },
         {
-            "order": 66,
+            "order": 68,
             "start": 298.78,
-            "end": 299.9,
+            "end": 299.98,
             "transcription": " Não, não, era só isso mesmo."
         },
         {
-            "order": 67,
-            "start": 300.0,
-            "end": 306.6,
-            "transcription": " Tá bom então. Muito obrigada pela sua participação, Eli. Tenha uma ótima tarde e um bom final de semana."
-        },
-        {
-            "order": 68,
-            "start": 306.6,
-            "end": 308.6,
-            "transcription": " Joia, obrigado. Pra você também."
-        },
-        {
             "order": 69,
-            "start": 308.6,
-            "end": 309.6,
-            "transcription": " Obrigada. Tchau, tchau."
+            "start": 300.0,
+            "end": 304.16,
+            "transcription": " Tá bom então, muito obrigada pela sua participação"
         },
         {
             "order": 70,
-            "start": 309.6,
-            "end": 310.6,
-            "transcription": " Tchau, tchau."
+            "start": 304.16,
+            "end": 305.62,
+            "transcription": " Elie, tenha uma ótima tarde"
+        },
+        {
+            "order": 71,
+            "start": 305.62,
+            "end": 306.62,
+            "transcription": " Um bom final de semana"
+        },
+        {
+            "order": 72,
+            "start": 306.62,
+            "end": 308.3,
+            "transcription": " Obrigado pra você também"
+        },
+        {
+            "order": 73,
+            "start": 308.3,
+            "end": 309.72,
+            "transcription": " Obrigada, tchau"
         }
     ],
     "metrics": {
-        "total_words": 71,
-        "words_per_minute": 16.37579764742061,
+        "total_words": 630,
+        "words_per_minute": 146.60254421346562,
         "top_10_words": [
             [
-                " totvs matriz.",
-                2
+                "a",
+                33
             ],
             [
-                " sete.",
-                2
+                "o",
+                26
             ],
             [
-                " não tenho conhecimento.",
-                2
+                "de",
+                19
             ],
             [
-                " boa tarde, liliane. meu nome é viviane. eu falo aqui da totvs matriz. tudo bem?",
-                1
+                "certo.",
+                14
             ],
             [
-                " tudo bom, viviane.",
-                1
+                "é",
+                12
             ],
             [
-                " eu gostaria, por favor, de falar com o hélio.",
-                1
+                "e",
+                10
             ],
             [
-                " ah, sim. viviane da totvs?",
-                1
+                "do",
+                10
             ],
             [
-                " só mentindo.",
-                1
+                "não",
+                10
             ],
             [
-                " tudo bem.",
-                1
+                "você",
+                9
             ],
             [
-                " olá, departamento. você teria dois minutinhos para falar comigo?",
-                1
+                "com",
+                8
             ]
         ],
         "magic_word_percentages": {
-            "obrigado": 0.0,
-            "obrigada": 0.0,
-            "por favor": 0.0,
+            "obrigado": 0.15873015873015872,
+            "por favor": 0.31746031746031744,
             "desculpa": 0.0,
-            "desculpe": 0.0,
-            "por gentileza": 0.0,
-            "bom dia": 0.0,
-            "boa tarde": 0.0,
-            "boa noite": 0.0,
+            "boa": 0.15873015873015872,
             "agradeço": 0.0,
-            "agradece": 0.0,
             "gratidão": 0.0,
             "sinto muito": 0.0,
             "perdão": 0.0,
-            "me perdoe": 0.0,
             "com licença": 0.0
         }
     }

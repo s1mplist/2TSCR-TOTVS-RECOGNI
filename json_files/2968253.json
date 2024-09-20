@@ -1,7 +1,6 @@
 {
-    "prompt": "Essa é uma transcrição de uma ligação para avialiação de NPS da empresa TOTVS.",
-    "model": "large-v3",
-    "audio_path": "audio_samples/2968253.wav",
+    "prompt": "Essa é uma transcrição de uma ligação para avaliação de NPS da empresa TOTVS.",
+    "audio_path": "audio_samples\/2968253.wav",
     "transcription": [
         {
             "order": 0,
@@ -11,7 +10,7 @@
         },
         {
             "order": 1,
-            "start": 3.3000000000000003,
+            "start": 3.2800000000000002,
             "end": 5.64,
             "transcription": " Boa tarde, Alílio da TOTVS, ou seu Valtemberg?"
         },
@@ -23,7 +22,7 @@
         },
         {
             "order": 3,
-            "start": 7.74,
+            "start": 7.72,
             "end": 8.08,
             "transcription": " Isso."
         },
@@ -42,7 +41,7 @@
         {
             "order": 6,
             "start": 11.36,
-            "end": 11.86,
+            "end": 11.88,
             "transcription": " Por nada."
         },
         {
@@ -96,12 +95,12 @@
         {
             "order": 15,
             "start": 35.3,
-            "end": 38.480000000000004,
-            "transcription": " Com ele você vive experiências fantásticas e as novas..."
+            "end": 39.14,
+            "transcription": " Com ele você vive experiências fantásticas e as noites..."
         },
         {
             "order": 16,
-            "start": 38.480000000000004,
+            "start": 39.14,
             "end": 41.68,
             "transcription": " Burbontel Fortaleza, Valtemberg, boa tarde."
         },
@@ -113,231 +112,231 @@
         },
         {
             "order": 18,
-            "start": 45.5,
+            "start": 45.480000000000004,
             "end": 46.42,
             "transcription": " Alílio, tudo bem."
         },
         {
             "order": 19,
             "start": 46.82,
-            "end": 48.760000000000005,
-            "transcription": " Que ótimo. Eu sou do departamento Voz do Cliente."
+            "end": 51.64,
+            "transcription": " Que ótimo. Eu sou do departamento Voz do Cliente, estou ligando para fazer o NPS, que é uma avaliação geral."
         },
         {
             "order": 20,
-            "start": 48.879999999999995,
-            "end": 51.64,
-            "transcription": " Estou ligando para fazer o NPS, que é uma avaliação geral."
-        },
-        {
-            "order": 21,
             "start": 51.78,
             "end": 53.86,
             "transcription": " Estou ligando para todos os hotéis do Burbont."
         },
         {
-            "order": 22,
-            "start": 53.900000000000006,
+            "order": 21,
+            "start": 53.88,
             "end": 54.34,
             "transcription": " Perfeito."
         },
         {
-            "order": 23,
-            "start": 54.36,
-            "end": 56.04,
+            "order": 22,
+            "start": 54.34,
+            "end": 56.06,
             "transcription": " O senhor teria dois minutos no momento?"
         },
         {
-            "order": 24,
+            "order": 23,
             "start": 56.82,
-            "end": 57.38,
+            "end": 57.42,
             "transcription": " Sim, pode ser."
         },
         {
-            "order": 25,
-            "start": 57.82,
-            "end": 61.58,
-            "transcription": " Ok. Só vou confirmar o final do CNPJ, Hotel Burbont Fortaleza."
+            "order": 24,
+            "start": 57.8,
+            "end": 61.6,
+            "transcription": " Ok, só vou confirmar o final do CNPJ, Hotel Burbont Fortaleza."
         },
         {
-            "order": 26,
+            "order": 25,
             "start": 61.7,
             "end": 63.06,
             "transcription": " É o final 1 contra 6 a 2?"
         },
         {
-            "order": 27,
+            "order": 26,
             "start": 63.72,
             "end": 64.12,
             "transcription": " Correto."
         },
         {
-            "order": 28,
+            "order": 27,
             "start": 64.42,
-            "end": 67.24,
-            "transcription": " Ok. Iniciando então, de uma escala de 0 a 10,"
-        },
-        {
-            "order": 29,
-            "start": 67.36,
             "end": 70.76,
-            "transcription": " qual a probabilidade do senhor recomendar a marca TOTVS a alguém hoje no geral?"
+            "transcription": " Ok. Iniciando então, de uma escala de 0 a 10, qual a probabilidade do senhor recomendar a marca TOTVS a alguém hoje no geral?"
         },
         {
-            "order": 30,
+            "order": 28,
             "start": 71.48,
             "end": 71.88,
             "transcription": " 10."
         },
         {
-            "order": 31,
+            "order": 29,
             "start": 72.48,
             "end": 72.74,
             "transcription": " 10."
         },
         {
-            "order": 32,
+            "order": 30,
             "start": 73.28,
-            "end": 75.26,
-            "transcription": " As demais perguntas, se o senhor não tiver acesso,"
-        },
-        {
-            "order": 33,
-            "start": 75.34,
             "end": 77.92,
-            "transcription": " porque a gente sabe que é sempre a matriz que tem mais, só pular."
+            "transcription": " As demais perguntas, se o senhor não tiver acesso, porque a gente sabe que é sempre a matriz que tem mais, só pular."
         },
         {
-            "order": 34,
+            "order": 31,
             "start": 78.74000000000001,
             "end": 81.8,
             "transcription": " Suporte técnico ou uma nota para agilidade nos processos?"
         },
         {
-            "order": 35,
-            "start": 83.02,
+            "order": 32,
+            "start": 83.03999999999999,
             "end": 83.88,
             "transcription": " Isso é 0 a 10?"
         },
         {
-            "order": 36,
-            "start": 84.44,
+            "order": 33,
+            "start": 84.46000000000001,
             "end": 85.28,
             "transcription": " 0 a 10."
         },
         {
-            "order": 37,
+            "order": 34,
             "start": 85.7,
             "end": 86.1,
             "transcription": " 8."
         },
         {
-            "order": 38,
-            "start": 86.82000000000001,
-            "end": 88.98,
-            "transcription": " 8. E o atendimento em si dos agentes?"
+            "order": 35,
+            "start": 86.10000000000001,
+            "end": 89.00000000000001,
+            "transcription": " E o atendimento em si dos agentes?"
         },
         {
-            "order": 39,
+            "order": 36,
             "start": 89.80000000000001,
             "end": 90.2,
             "transcription": " 10."
         },
         {
-            "order": 40,
-            "start": 91.06,
-            "end": 93.4,
-            "transcription": " Atendimento do comercial, executivo de vendas?"
+            "order": 37,
+            "start": 90.98,
+            "end": 93.42000000000002,
+            "transcription": " Atendimento do comercial executivo de vendas?"
         },
         {
-            "order": 41,
-            "start": 94.46000000000001,
-            "end": 95.94000000000001,
+            "order": 38,
+            "start": 94.74000000000001,
+            "end": 95.96000000000001,
             "transcription": " Eu não tenho relacionamento."
         },
         {
-            "order": 42,
-            "start": 96.44000000000001,
-            "end": 99.74000000000001,
-            "transcription": " Aham. Custos e os valores dos produtos contratados nesse hotel?"
+            "order": 39,
+            "start": 96.78,
+            "end": 99.76,
+            "transcription": " Custos e os valores dos produtos contratados nesse hotel?"
         },
         {
-            "order": 43,
-            "start": 100.82000000000001,
+            "order": 40,
+            "start": 100.84,
             "end": 101.24000000000001,
             "transcription": " 8."
         },
         {
-            "order": 44,
-            "start": 101.72000000000001,
+            "order": 41,
+            "start": 102.00000000000001,
             "end": 104.14000000000001,
-            "transcription": " 8. Atendimento administrativo e financeiro?"
+            "transcription": " Atendimento administrativo e financeiro?"
         },
         {
-            "order": 45,
+            "order": 42,
             "start": 104.66000000000001,
-            "end": 105.12,
+            "end": 105.16000000000001,
             "transcription": " 9."
         },
         {
-            "order": 46,
-            "start": 105.5,
+            "order": 43,
+            "start": 105.98,
             "end": 108.52000000000001,
-            "transcription": " 9. Se o senhor participou da implantação, uma nota?"
+            "transcription": " Se o senhor participou da implantação, uma nota?"
         },
         {
-            "order": 47,
-            "start": 109.42000000000002,
-            "end": 110.46000000000001,
+            "order": 44,
+            "start": 109.44000000000001,
+            "end": 110.50000000000001,
             "transcription": " Não, não participei."
         },
         {
-            "order": 48,
-            "start": 110.46000000000001,
-            "end": 116.46000000000001,
-            "transcription": " 3 perguntas. O programa que vocês estão usando atende a necessidade total, atende parcial,"
+            "order": 45,
+            "start": 110.50000000000001,
+            "end": 112.18,
+            "transcription": " Mais três perguntas."
         },
         {
-            "order": 49,
-            "start": 116.82000000000001,
+            "order": 46,
+            "start": 112.24000000000001,
+            "end": 115.70000000000002,
+            "transcription": " O programa que vocês estão usando atende a necessidade total?"
+        },
+        {
+            "order": 47,
+            "start": 116.10000000000001,
             "end": 117.84,
-            "transcription": " ou não atende?"
+            "transcription": " Atende parcial ou não atende?"
         },
         {
-            "order": 50,
+            "order": 48,
             "start": 118.22000000000001,
             "end": 118.72000000000001,
             "transcription": " Total."
         },
         {
-            "order": 51,
+            "order": 49,
             "start": 119.04,
-            "end": 121.34,
-            "transcription": " Total. Uma nota para as atualizações?"
+            "end": 119.54,
+            "transcription": " Total."
         },
         {
-            "order": 52,
-            "start": 122.06,
-            "end": 122.46000000000001,
+            "order": 50,
+            "start": 119.76,
+            "end": 121.32000000000001,
+            "transcription": " Uma nota para as atualizações?"
+        },
+        {
+            "order": 51,
+            "start": 122.04,
+            "end": 122.44000000000001,
             "transcription": " 10."
         },
         {
-            "order": 53,
+            "order": 52,
             "start": 123.06,
             "end": 126.94000000000001,
             "transcription": " E a última pergunta, para avaliar a unidade TOTVS e MNET soluções?"
         },
         {
-            "order": 54,
+            "order": 53,
             "start": 129.02,
             "end": 129.9,
             "transcription": " 10 também."
         },
         {
-            "order": 55,
+            "order": 54,
             "start": 130.36,
-            "end": 131.56,
-            "transcription": " 10. Certo."
+            "end": 130.76000000000002,
+            "transcription": " 10?"
+        },
+        {
+            "order": 55,
+            "start": 131.12,
+            "end": 131.54000000000002,
+            "transcription": " Certo."
         },
         {
             "order": 56,
@@ -348,125 +347,328 @@
         {
             "order": 57,
             "start": 137.12,
-            "end": 141.82,
-            "transcription": " Não, acho que não. Acho que está contento, né, dentro do que a gente está trabalhando."
+            "end": 138.06,
+            "transcription": " Não, acho que não."
         },
         {
             "order": 58,
-            "start": 142.92000000000002,
-            "end": 144.04000000000002,
-            "transcription": " Ótimo. Então, tá bom."
+            "start": 138.3,
+            "end": 142.54000000000002,
+            "transcription": " Acho que está contento dentro do que a gente está trabalhando."
         },
         {
             "order": 59,
-            "start": 144.04000000000002,
+            "start": 142.92000000000002,
+            "end": 143.4,
+            "transcription": " Ótimo."
+        },
+        {
+            "order": 60,
+            "start": 143.4,
+            "end": 144.04000000000002,
+            "transcription": " Então está bom."
+        },
+        {
+            "order": 61,
+            "start": 144.14000000000001,
             "end": 145.02,
             "transcription": " Vou confirmar o e-mail."
         },
         {
-            "order": 60,
-            "start": 145.02,
-            "end": 148.10000000000002,
-            "transcription": " O e-mail é o valtenberg.silva.com.br?"
-        },
-        {
-            "order": 61,
-            "start": 148.66,
-            "end": 149.02,
-            "transcription": " Correto."
-        },
-        {
             "order": 62,
-            "start": 149.38000000000002,
-            "end": 153.28,
-            "transcription": " Ok. De seis meses a um, a gente volta a se falar para manter o relacionamento. Obrigada."
+            "start": 146.1,
+            "end": 148.1,
+            "transcription": " silva.robom.com.br?"
         },
         {
             "order": 63,
-            "start": 153.3,
-            "end": 153.66000000000003,
-            "transcription": " Combinado."
+            "start": 148.56,
+            "end": 149.0,
+            "transcription": " Correto."
         },
         {
             "order": 64,
-            "start": 153.68,
-            "end": 155.06,
-            "transcription": " Um ótimo final de semana. Tchau, tchau."
+            "start": 149.38,
+            "end": 149.66,
+            "transcription": " Ok."
         },
         {
             "order": 65,
-            "start": 155.16000000000003,
-            "end": 156.42000000000002,
-            "transcription": " Igualmente para você. Até logo."
+            "start": 149.79999999999998,
+            "end": 152.7,
+            "transcription": " De seis meses a um, a gente volta a se falar para manter o relacionamento."
         },
         {
             "order": 66,
-            "start": 156.68,
-            "end": 157.04000000000002,
+            "start": 153.04,
+            "end": 153.44,
+            "transcription": " Obrigada."
+        },
+        {
+            "order": 67,
+            "start": 153.5,
+            "end": 153.64,
+            "transcription": " Combinado."
+        },
+        {
+            "order": 68,
+            "start": 153.66,
+            "end": 154.76,
+            "transcription": " Um ótimo final de semana."
+        },
+        {
+            "order": 69,
+            "start": 155.12,
+            "end": 155.95999999999998,
+            "transcription": " Igualmente para você."
+        },
+        {
+            "order": 70,
+            "start": 156.07999999999998,
+            "end": 156.4,
+            "transcription": " Até logo."
+        },
+        {
+            "order": 71,
+            "start": 156.64,
+            "end": 157.04,
+            "transcription": " Obrigada."
+        },
+        {
+            "order": 72,
+            "start": 157.04,
+            "end": 158.04,
+            "transcription": " Obrigada."
+        },
+        {
+            "order": 73,
+            "start": 158.04,
+            "end": 159.04,
+            "transcription": " Obrigada."
+        },
+        {
+            "order": 74,
+            "start": 159.04,
+            "end": 160.04,
+            "transcription": " Obrigada."
+        },
+        {
+            "order": 75,
+            "start": 160.04,
+            "end": 161.04,
+            "transcription": " Obrigada."
+        },
+        {
+            "order": 76,
+            "start": 161.04,
+            "end": 162.04,
+            "transcription": " Obrigada."
+        },
+        {
+            "order": 77,
+            "start": 162.04,
+            "end": 163.04,
+            "transcription": " Obrigada."
+        },
+        {
+            "order": 78,
+            "start": 163.04,
+            "end": 164.04,
+            "transcription": " Obrigada."
+        },
+        {
+            "order": 79,
+            "start": 164.04,
+            "end": 165.04,
+            "transcription": " Obrigada."
+        },
+        {
+            "order": 80,
+            "start": 165.04,
+            "end": 166.04,
+            "transcription": " Obrigada."
+        },
+        {
+            "order": 81,
+            "start": 166.04,
+            "end": 167.04,
+            "transcription": " Obrigada."
+        },
+        {
+            "order": 82,
+            "start": 167.04,
+            "end": 168.04,
+            "transcription": " Obrigada."
+        },
+        {
+            "order": 83,
+            "start": 168.04,
+            "end": 169.04,
+            "transcription": " Obrigada."
+        },
+        {
+            "order": 84,
+            "start": 169.04,
+            "end": 170.04,
+            "transcription": " Obrigada."
+        },
+        {
+            "order": 85,
+            "start": 170.04,
+            "end": 171.04,
+            "transcription": " Obrigada."
+        },
+        {
+            "order": 86,
+            "start": 171.04,
+            "end": 172.04,
+            "transcription": " Obrigada."
+        },
+        {
+            "order": 87,
+            "start": 172.04,
+            "end": 173.04,
+            "transcription": " Obrigada."
+        },
+        {
+            "order": 88,
+            "start": 173.04,
+            "end": 174.04,
+            "transcription": " Obrigada."
+        },
+        {
+            "order": 89,
+            "start": 174.04,
+            "end": 175.04,
+            "transcription": " Obrigada."
+        },
+        {
+            "order": 90,
+            "start": 175.04,
+            "end": 176.04,
+            "transcription": " Obrigada."
+        },
+        {
+            "order": 91,
+            "start": 176.04,
+            "end": 177.04,
+            "transcription": " Obrigada."
+        },
+        {
+            "order": 92,
+            "start": 177.04,
+            "end": 178.04,
+            "transcription": " Obrigada."
+        },
+        {
+            "order": 93,
+            "start": 178.04,
+            "end": 179.04,
+            "transcription": " Obrigada."
+        },
+        {
+            "order": 94,
+            "start": 179.04,
+            "end": 180.04,
+            "transcription": " Obrigada."
+        },
+        {
+            "order": 95,
+            "start": 180.04,
+            "end": 181.04,
+            "transcription": " Obrigada."
+        },
+        {
+            "order": 96,
+            "start": 181.04,
+            "end": 182.04,
+            "transcription": " Obrigada."
+        },
+        {
+            "order": 97,
+            "start": 182.04,
+            "end": 183.04,
+            "transcription": " Obrigada."
+        },
+        {
+            "order": 98,
+            "start": 183.04,
+            "end": 184.04,
+            "transcription": " Obrigada."
+        },
+        {
+            "order": 99,
+            "start": 184.04,
+            "end": 185.04,
+            "transcription": " Obrigada."
+        },
+        {
+            "order": 100,
+            "start": 185.04,
+            "end": 186.04,
+            "transcription": " Obrigada."
+        },
+        {
+            "order": 101,
+            "start": 186.04,
+            "end": 187.04,
             "transcription": " Obrigada."
         }
     ],
     "metrics": {
-        "total_words": 67,
-        "words_per_minute": 32.97244094488191,
+        "total_words": 394,
+        "words_per_minute": 157.91583166332663,
         "top_10_words": [
             [
-                " 10.",
-                4
+                "obrigada.",
+                34
             ],
             [
-                " obrigada.",
-                3
+                "a",
+                16
             ],
             [
-                " correto.",
-                2
+                "o",
+                12
             ],
             [
-                " 8.",
-                2
+                "para",
+                8
             ],
             [
-                " burbontel fortaleza, satico, boa tarde.",
-                1
+                "que",
+                8
             ],
             [
-                " boa tarde, alílio da totvs, ou seu valtemberg?",
-                1
+                "de",
+                7
             ],
             [
-                " valtemberg?",
-                1
+                "do",
+                7
             ],
             [
-                " isso.",
-                1
+                "e",
+                6
             ],
             [
-                " só um minutinho.",
-                1
+                "boa",
+                5
             ],
             [
-                " por nada.",
-                1
+                "da",
+                5
             ]
         ],
         "magic_word_percentages": {
             "obrigado": 0.0,
-            "obrigada": 0.0,
             "por favor": 0.0,
             "desculpa": 0.0,
-            "desculpe": 0.0,
-            "por gentileza": 0.0,
-            "bom dia": 0.0,
-            "boa tarde": 0.0,
-            "boa noite": 0.0,
+            "boa": 1.2690355329949239,
             "agradeço": 0.0,
-            "agradece": 0.0,
             "gratidão": 0.0,
             "sinto muito": 0.0,
             "perdão": 0.0,
-            "me perdoe": 0.0,
             "com licença": 0.0
         }
     }
