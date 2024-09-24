@@ -124,7 +124,7 @@ def transcribe_and_analyze(
 
 def save_json(filename: str, data: dict) -> None:
     """Salva os dados em um arquivo JSON."""
-    json_path = "../json_files"
+    json_path = "./json_files"
     os.makedirs(json_path, exist_ok=True)
     json_file = os.path.join(json_path, filename)
 
