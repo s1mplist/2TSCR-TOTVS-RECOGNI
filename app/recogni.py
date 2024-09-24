@@ -11,6 +11,9 @@ from typing import Tuple
 from torch import cuda
 from faster_whisper import WhisperModel
 
+from dotenv import load_dotenv
+from azure_cosmosdb import CosmosDBUploader
+
 MAGIC_WORD_ROOTS = {
     "obrigado": 0,
     "por favor": 0,
@@ -121,7 +124,7 @@ def transcribe_and_analyze(
 
 def save_json(filename: str, data: dict) -> None:
     """Salva os dados em um arquivo JSON."""
-    json_path = "json_files"
+    json_path = "../json_files"
     os.makedirs(json_path, exist_ok=True)
     json_file = os.path.join(json_path, filename)
 
@@ -138,7 +141,6 @@ def process_file(audio_file: str, prompt: str, model: WhisperModel, beam_size: i
     filename, data = transcribe_and_analyze(audio_file, prompt, model, beam_size)
     if filename and data:
         save_json(filename, data)
-
 
 if __name__ == "__main__":
     setup_logging()
@@ -177,11 +179,21 @@ if __name__ == "__main__":
             "GPU não encontrada, utilizando CPU. Para usar a GPU, certifique-se de que o PyTorch esteja configurado corretamente."
         )
         args.device = "cpu"
+    
+    env_path = ".env"
+    load_dotenv(env_path)
 
     audio_path = Path(args.audio_path)
     model = WhisperModel(
         args.model_size, device=args.device, compute_type=args.compute_type
     )
+
+    uploader = CosmosDBUploader(
+    os.environ["COSMOS_ENDPOINT"],
+    os.environ["COSMOS_KEY"],
+    "transcriptions-db",
+    "container-result-transcription"
+)
     
     if audio_path.is_file():
         process_file(audio_path, str(args.prompt), model, args.beam_size)
