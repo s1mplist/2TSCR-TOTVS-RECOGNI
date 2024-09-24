@@ -13,6 +13,7 @@ from faster_whisper import WhisperModel
 
 from dotenv import load_dotenv
 from azure_cosmosdb import CosmosDBUploader
+from azure_uploader_stgacc import AzureBlobUploader
 
 MAGIC_WORD_ROOTS = {
     "obrigado": 0,
@@ -30,12 +31,9 @@ MAGIC_WORD_PATTERNS = {
     root: re.compile(rf"\b{root}(a|o|as|os)?s?\b") for root in MAGIC_WORD_ROOTS
 }
 
-def setup_logging() -> None:
+def setup_logging(log_directory: str, log_filename:str) -> None:
     """Configura o logging para salvar logs em um diretório 'logs'."""
-    log_directory = "logs"
     os.makedirs(log_directory, exist_ok=True)
-    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    log_filename = os.path.join(log_directory, f"transcription_{timestamp}.log")
 
     logging.basicConfig(
         filename=log_filename,
@@ -49,7 +47,6 @@ def setup_logging() -> None:
     )
     logging.getLogger().addHandler(console_handler)
 
-
 def transcribe_and_analyze(
     audio_path: str, prompt: str, model: WhisperModel, beam_size: int
 ) -> Tuple[str, dict]:
@@ -57,8 +54,7 @@ def transcribe_and_analyze(
     try:
         segments, _ = model.transcribe(
             audio=audio_path, language="pt", beam_size=beam_size, initial_prompt=prompt
-        )
-
+        )        
         transcription_data_optimized = {
             "prompt": prompt,
             "audio_path": str(audio_path),
@@ -70,6 +66,8 @@ def transcribe_and_analyze(
                 "magic_word_percentages": {},  # Inicializa vazio
             },
         }
+        
+        audio_paths.append(str(audio_path))
         
         total_words = 0
         word_count = Counter()
@@ -131,6 +129,7 @@ def save_json(filename: str, data: dict) -> None:
     try:
         with open(json_file, "w", encoding="utf-8") as f:
             ujson.dump(data, f, ensure_ascii=False, indent=4)
+        json_paths.append(json_file)
         logging.info(f"Transcrição e métricas salvas com sucesso em {json_file}")
     except IOError as e:
         logging.error(f"Falha ao salvar arquivo JSON: {e}")
@@ -143,7 +142,16 @@ def process_file(audio_file: str, prompt: str, model: WhisperModel, beam_size: i
         save_json(filename, data)
 
 if __name__ == "__main__":
-    setup_logging()
+    log_directory = './logs'
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    log_filename = os.path.join(log_directory, f"transcription_{timestamp}.log")
+    setup_logging(log_directory, log_filename)
+    
+    env_path = ".env"
+    load_dotenv(env_path)
+    
+    json_paths = []
+    audio_paths = []
 
     parser = argparse.ArgumentParser()
     parser.add_argument(
@@ -179,27 +187,55 @@ if __name__ == "__main__":
             "GPU não encontrada, utilizando CPU. Para usar a GPU, certifique-se de que o PyTorch esteja configurado corretamente."
         )
         args.device = "cpu"
-    
-    env_path = ".env"
-    load_dotenv(env_path)
-
+        
     audio_path = Path(args.audio_path)
     model = WhisperModel(
         args.model_size, device=args.device, compute_type=args.compute_type
     )
-
-    uploader = CosmosDBUploader(
-    os.environ["COSMOS_ENDPOINT"],
-    os.environ["COSMOS_KEY"],
-    "transcriptions-db",
-    "container-result-transcription"
-)
     
-    if audio_path.is_file():
-        process_file(audio_path, str(args.prompt), model, args.beam_size)
-    elif audio_path.is_dir():
-        audio_files = list(audio_path.glob("*.wav"))
-        for audio_file in audio_files:
-            process_file(audio_file, str(args.prompt), model, args.beam_size)
-    else:
-        logging.error(f"Erro: {audio_path} não é um arquivo ou diretório válido.")
+    try:
+        if audio_path.is_file():
+            process_file(audio_path, str(args.prompt), model, args.beam_size)
+        elif audio_path.is_dir():
+            audio_files = list(audio_path.glob("*.wav"))
+            for audio_file in audio_files:
+                process_file(audio_file, str(args.prompt), model, args.beam_size)
+        else:
+            logging.error(f"Erro: Não foi possivel carregar os arquivos json para o 'container-result-transcription'.")
+        
+        try:
+            cosmos_uploader = CosmosDBUploader(
+                os.environ["COSMOS_ENDPOINT"],
+                os.environ["COSMOS_KEY"],
+                "transcriptions-db",
+                "container-result-transcription"
+            ).upload_files(paths=json_paths)
+        except ValueError as err:
+            print(err.args)
+        
+        try:
+            blob_uploader = AzureBlobUploader(
+                os.environ['STORAGE_ACCOUNT_KEY'],
+                os.environ['CONTAINER_JSON']
+            ).upload_files(json_paths, overwrite=True)
+        except ValueError as err:
+            print(err.args)
+        
+        try:
+            blob_uploader = AzureBlobUploader(
+                os.environ['STORAGE_ACCOUNT_KEY'],
+                os.environ['CONTAINER_AUDIOS']
+            ).upload_files(audio_paths, overwrite=True)
+        except ValueError as err:
+            print(err.args)
+        
+        try:
+            blob_uploader = AzureBlobUploader(
+                os.environ['STORAGE_ACCOUNT_KEY'],
+                os.environ['CONTAINER_LOGS']
+            ).upload_file(log_filename, overwrite=True)
+        except ValueError as err:
+            print(err.args)
+
+    except ValueError as err:
+            print(err.args)

@@ -1,0 +1,237 @@
+2024-09-23 23:16:50,800 - INFO - Request URL: 'https://cosmosdb-account-recogni-challenge-sp2.documents.azure.com:443/'
+Request method: 'GET'
+Request headers:
+    'Cache-Control': 'no-cache'
+    'x-ms-version': 'REDACTED'
+    'x-ms-documentdb-query-iscontinuationexpected': 'REDACTED'
+    'x-ms-date': 'REDACTED'
+    'authorization': 'REDACTED'
+    'Accept': 'application/json'
+    'Content-Length': '0'
+    'User-Agent': 'azsdk-python-cosmos/4.7.0 Python/3.11.0rc1 (Linux-5.15.153.1-microsoft-standard-WSL2-x86_64-with-glibc2.35)'
+No body was attached to the request
+2024-09-23 23:16:51,394 - INFO - Response status: 200
+Response headers:
+    'Content-Length': '1687'
+    'Date': 'Tue, 24 Sep 2024 02:16:34 GMT'
+    'Content-Type': 'application/json'
+    'Server': 'Microsoft-HTTPAPI/2.0'
+    'x-ms-gatewayversion': 'REDACTED'
+    'Cache-Control': 'no-store, no-cache'
+    'Pragma': 'no-cache'
+    'x-ms-max-media-storage-usage-mb': 'REDACTED'
+    'x-ms-media-storage-usage-mb': 'REDACTED'
+    'x-ms-databaseaccount-consumed-mb': 'REDACTED'
+    'x-ms-databaseaccount-reserved-mb': 'REDACTED'
+    'x-ms-databaseaccount-provisioned-mb': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Content-Location': 'REDACTED'
+2024-09-23 23:16:51,487 - INFO - Processing audio with duration 05:00.420
+2024-09-23 23:17:19,773 - INFO - Transcrição e métricas salvas com sucesso em ./json_files/2874774.json
+2024-09-23 23:17:19,773 - INFO - Processing file: 2962184.json
+2024-09-23 23:17:19,775 - INFO - Request URL: 'https://cosmosdb-account-recogni-challenge-sp2-eastus2.documents.azure.com:443/dbs/transcriptions-db/colls/container-result-transcription/'
+Request method: 'GET'
+Request headers:
+    'Cache-Control': 'no-cache'
+    'x-ms-version': 'REDACTED'
+    'x-ms-documentdb-query-iscontinuationexpected': 'REDACTED'
+    'x-ms-consistency-level': 'REDACTED'
+    'x-ms-date': 'REDACTED'
+    'authorization': 'REDACTED'
+    'Accept': 'application/json'
+    'Content-Length': '0'
+    'User-Agent': 'azsdk-python-cosmos/4.7.0 Python/3.11.0rc1 (Linux-5.15.153.1-microsoft-standard-WSL2-x86_64-with-glibc2.35)'
+No body was attached to the request
+2024-09-23 23:17:20,325 - INFO - Response status: 200
+Response headers:
+    'Content-Length': '711'
+    'Date': 'Tue, 24 Sep 2024 02:17:02 GMT'
+    'Content-Type': 'application/json'
+    'Server': 'Microsoft-HTTPAPI/2.0'
+    'x-ms-gatewayversion': 'REDACTED'
+    'Cache-Control': 'no-store, no-cache'
+    'Pragma': 'no-cache'
+    'Strict-Transport-Security': 'REDACTED'
+    'x-ms-activity-id': 'REDACTED'
+    'x-ms-last-state-change-utc': 'REDACTED'
+    'etag': '"00000a0a-0000-0200-0000-66ecd1880000"'
+    'x-ms-schemaversion': 'REDACTED'
+    'collection-partition-index': 'REDACTED'
+    'collection-service-index': 'REDACTED'
+    'lsn': 'REDACTED'
+    'x-ms-request-charge': 'REDACTED'
+    'x-ms-alt-content-path': 'REDACTED'
+    'x-ms-content-path': 'REDACTED'
+    'x-ms-documentdb-partitionkeyrangeid': 'REDACTED'
+    'x-ms-xp-role': 'REDACTED'
+    'x-ms-global-Committed-lsn': 'REDACTED'
+    'x-ms-number-of-read-regions': 'REDACTED'
+    'x-ms-item-lsn': 'REDACTED'
+    'x-ms-transport-request-id': 'REDACTED'
+    'x-ms-cosmos-llsn': 'REDACTED'
+    'x-ms-cosmos-item-llsn': 'REDACTED'
+    'x-ms-session-token': 'REDACTED'
+    'x-ms-request-duration-ms': 'REDACTED'
+    'x-ms-serviceversion': 'REDACTED'
+    'x-ms-cosmos-physical-partition-id': 'REDACTED'
+    'x-ms-cosmos-max-content-length': 'REDACTED'
+    'Content-Location': 'REDACTED'
+2024-09-23 23:17:20,326 - ERROR - Error processing file 2962184.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,326 - INFO - Processing file: 2963764.json
+2024-09-23 23:17:20,327 - ERROR - Error processing file 2963764.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,327 - INFO - Processing file: 2962946.json
+2024-09-23 23:17:20,328 - ERROR - Error processing file 2962946.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,328 - INFO - Processing file: 2968468.json
+2024-09-23 23:17:20,329 - ERROR - Error processing file 2968468.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,329 - INFO - Processing file: 2963977.json
+2024-09-23 23:17:20,329 - ERROR - Error processing file 2963977.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,329 - INFO - Processing file: 2967671.json
+2024-09-23 23:17:20,330 - ERROR - Error processing file 2967671.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,330 - INFO - Processing file: 2966642.json
+2024-09-23 23:17:20,331 - ERROR - Error processing file 2966642.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,331 - INFO - Processing file: 2962505.json
+2024-09-23 23:17:20,331 - ERROR - Error processing file 2962505.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,331 - INFO - Processing file: 2966719.json
+2024-09-23 23:17:20,332 - ERROR - Error processing file 2966719.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,332 - INFO - Processing file: 2966091.json
+2024-09-23 23:17:20,333 - ERROR - Error processing file 2966091.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,333 - INFO - Processing file: 2964611.json
+2024-09-23 23:17:20,333 - ERROR - Error processing file 2964611.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,333 - INFO - Processing file: 2967576.json
+2024-09-23 23:17:20,334 - ERROR - Error processing file 2967576.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,334 - INFO - Processing file: 2964672.json
+2024-09-23 23:17:20,334 - ERROR - Error processing file 2964672.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,335 - INFO - Processing file: 2964228.json
+2024-09-23 23:17:20,335 - ERROR - Error processing file 2964228.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,335 - INFO - Processing file: 2962074.json
+2024-09-23 23:17:20,336 - ERROR - Error processing file 2962074.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,336 - INFO - Processing file: 2961972.json
+2024-09-23 23:17:20,337 - ERROR - Error processing file 2961972.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,337 - INFO - Processing file: 2967760.json
+2024-09-23 23:17:20,338 - ERROR - Error processing file 2967760.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,338 - INFO - Processing file: 2962724.json
+2024-09-23 23:17:20,339 - ERROR - Error processing file 2962724.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,339 - INFO - Processing file: 2966819.json
+2024-09-23 23:17:20,339 - ERROR - Error processing file 2966819.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,339 - INFO - Processing file: 2964097.json
+2024-09-23 23:17:20,340 - ERROR - Error processing file 2964097.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,340 - INFO - Processing file: 2966651.json
+2024-09-23 23:17:20,340 - ERROR - Error processing file 2966651.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,341 - INFO - Processing file: 2963847.json
+2024-09-23 23:17:20,341 - ERROR - Error processing file 2963847.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,341 - INFO - Processing file: 2965821.json
+2024-09-23 23:17:20,342 - ERROR - Error processing file 2965821.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,342 - INFO - Processing file: 2967703.json
+2024-09-23 23:17:20,343 - ERROR - Error processing file 2967703.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,343 - INFO - Processing file: 2962219.json
+2024-09-23 23:17:20,343 - ERROR - Error processing file 2962219.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,343 - INFO - Processing file: 2963371.json
+2024-09-23 23:17:20,344 - ERROR - Error processing file 2963371.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,344 - INFO - Processing file: 2964496.json
+2024-09-23 23:17:20,344 - ERROR - Error processing file 2964496.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,345 - INFO - Processing file: 2967631.json
+2024-09-23 23:17:20,345 - ERROR - Error processing file 2967631.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,345 - INFO - Processing file: 2968125.json
+2024-09-23 23:17:20,346 - ERROR - Error processing file 2968125.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,346 - INFO - Processing file: 2963510.json
+2024-09-23 23:17:20,346 - ERROR - Error processing file 2963510.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,347 - INFO - Processing file: 2963955.json
+2024-09-23 23:17:20,347 - ERROR - Error processing file 2963955.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,347 - INFO - Processing file: 2966180.json
+2024-09-23 23:17:20,348 - ERROR - Error processing file 2966180.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,348 - INFO - Processing file: 2967344.json
+2024-09-23 23:17:20,349 - ERROR - Error processing file 2967344.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,349 - INFO - Processing file: 2964126.json
+2024-09-23 23:17:20,349 - ERROR - Error processing file 2964126.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,349 - INFO - Processing file: 2967729.json
+2024-09-23 23:17:20,350 - ERROR - Error processing file 2967729.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,350 - INFO - Processing file: 2963504.json
+2024-09-23 23:17:20,351 - ERROR - Error processing file 2963504.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,351 - INFO - Processing file: 2962625.json
+2024-09-23 23:17:20,351 - ERROR - Error processing file 2962625.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,351 - INFO - Processing file: 2966316.json
+2024-09-23 23:17:20,352 - ERROR - Error processing file 2966316.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,352 - INFO - Processing file: 2968253.json
+2024-09-23 23:17:20,353 - ERROR - Error processing file 2968253.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,353 - INFO - Processing file: 2962307.json
+2024-09-23 23:17:20,354 - ERROR - Error processing file 2962307.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,354 - INFO - Processing file: 2962417.json
+2024-09-23 23:17:20,354 - ERROR - Error processing file 2962417.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,355 - INFO - Processing file: 2966892.json
+2024-09-23 23:17:20,355 - ERROR - Error processing file 2966892.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,355 - INFO - Processing file: 2966177.json
+2024-09-23 23:17:20,355 - ERROR - Error processing file 2966177.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,355 - INFO - Processing file: 2967409.json
+2024-09-23 23:17:20,356 - ERROR - Error processing file 2967409.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,356 - INFO - Processing file: 2965853.json
+2024-09-23 23:17:20,356 - ERROR - Error processing file 2965853.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,356 - INFO - Processing file: 2965051.json
+2024-09-23 23:17:20,357 - ERROR - Error processing file 2965051.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,357 - INFO - Processing file: 2965935.json
+2024-09-23 23:17:20,358 - ERROR - Error processing file 2965935.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,358 - INFO - Processing file: 2965622.json
+2024-09-23 23:17:20,358 - ERROR - Error processing file 2965622.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,358 - INFO - Processing file: 2965979.json
+2024-09-23 23:17:20,359 - ERROR - Error processing file 2965979.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,359 - INFO - Processing file: 2967070.json
+2024-09-23 23:17:20,360 - ERROR - Error processing file 2967070.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,360 - INFO - Processing file: 2966607.json
+2024-09-23 23:17:20,360 - ERROR - Error processing file 2966607.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,360 - INFO - Processing file: 2966760.json
+2024-09-23 23:17:20,361 - ERROR - Error processing file 2966760.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,361 - INFO - Processing file: 2964909.json
+2024-09-23 23:17:20,362 - ERROR - Error processing file 2964909.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,362 - INFO - Processing file: 2968540.json
+2024-09-23 23:17:20,362 - ERROR - Error processing file 2968540.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,363 - INFO - Processing file: 2968175.json
+2024-09-23 23:17:20,363 - ERROR - Error processing file 2968175.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,363 - INFO - Processing file: 2962972.json
+2024-09-23 23:17:20,364 - ERROR - Error processing file 2962972.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,364 - INFO - Processing file: 2963930.json
+2024-09-23 23:17:20,364 - ERROR - Error processing file 2963930.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,364 - INFO - Processing file: 2962046.json
+2024-09-23 23:17:20,365 - ERROR - Error processing file 2962046.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,365 - INFO - Processing file: 2966683.json
+2024-09-23 23:17:20,365 - ERROR - Error processing file 2966683.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,365 - INFO - Processing file: 2964578.json
+2024-09-23 23:17:20,366 - ERROR - Error processing file 2964578.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,366 - INFO - Processing file: 2967978.json
+2024-09-23 23:17:20,367 - ERROR - Error processing file 2967978.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,367 - INFO - Processing file: 2964360.json
+2024-09-23 23:17:20,367 - ERROR - Error processing file 2964360.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,367 - INFO - Processing file: 2962649.json
+2024-09-23 23:17:20,368 - ERROR - Error processing file 2962649.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,368 - INFO - Processing file: 2964398.json
+2024-09-23 23:17:20,368 - ERROR - Error processing file 2964398.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,368 - INFO - Processing file: 2964530.json
+2024-09-23 23:17:20,369 - ERROR - Error processing file 2964530.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,369 - INFO - Processing file: 2966771.json
+2024-09-23 23:17:20,370 - ERROR - Error processing file 2966771.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,370 - INFO - Processing file: 2967836.json
+2024-09-23 23:17:20,370 - ERROR - Error processing file 2967836.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,370 - INFO - Processing file: 2967525.json
+2024-09-23 23:17:20,371 - ERROR - Error processing file 2967525.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,371 - INFO - Processing file: 2968443.json
+2024-09-23 23:17:20,371 - ERROR - Error processing file 2968443.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,371 - INFO - Processing file: 2967602.json
+2024-09-23 23:17:20,372 - ERROR - Error processing file 2967602.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,372 - INFO - Processing file: 2966019.json
+2024-09-23 23:17:20,373 - ERROR - Error processing file 2966019.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,373 - INFO - Processing file: 2965900.json
+2024-09-23 23:17:20,373 - ERROR - Error processing file 2965900.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,373 - INFO - Processing file: 2966138.json
+2024-09-23 23:17:20,374 - ERROR - Error processing file 2966138.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,374 - INFO - Processing file: 2963210.json
+2024-09-23 23:17:20,374 - ERROR - Error processing file 2963210.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,374 - INFO - Processing file: 2967044.json
+2024-09-23 23:17:20,375 - ERROR - Error processing file 2967044.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,375 - INFO - Processing file: 2874774.json
+2024-09-23 23:17:20,375 - ERROR - Error processing file 2874774.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,375 - INFO - Processing file: 2968585.json
+2024-09-23 23:17:20,376 - ERROR - Error processing file 2968585.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,376 - INFO - Processing file: 2964235.json
+2024-09-23 23:17:20,376 - ERROR - Error processing file 2964235.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,376 - INFO - Processing file: 2874830.json
+2024-09-23 23:17:20,377 - ERROR - Error processing file 2874830.json: Object of type datetime is not JSON serializable
+2024-09-23 23:17:20,377 - INFO - Processing file: 2965023.json
+2024-09-23 23:17:20,378 - ERROR - Error processing file 2965023.json: Object of type datetime is not JSON serializable
