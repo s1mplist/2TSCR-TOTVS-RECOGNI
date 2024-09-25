@@ -14,6 +14,8 @@ from faster_whisper import WhisperModel
 from dotenv import load_dotenv
 from azure_cosmosdb import CosmosDBUploader
 from azure_uploader_stgacc import AzureBlobUploader
+from azure_blob_loader import download_blobs
+
 
 MAGIC_WORD_ROOTS = {
     "obrigado": 0,
@@ -142,6 +144,7 @@ def process_file(audio_file: str, prompt: str, model: WhisperModel, beam_size: i
         save_json(filename, data)
 
 if __name__ == "__main__":
+    download_blobs(os.environ['STORAGE_ACCOUNT_KEY'], os.environ['CONTAINER_AUDIOS'], download_path='audio_samples')
     log_directory = './logs'
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
     log_filename = os.path.join(log_directory, f"transcription_{timestamp}.log")
@@ -155,7 +158,7 @@ if __name__ == "__main__":
 
     parser = argparse.ArgumentParser()
     parser.add_argument(
-        "audio_path",
+        "--audio_path",
         help="Caminho para um arquivo de áudio ou um diretório contendo arquivos de áudio",
     )
     parser.add_argument(
@@ -194,6 +197,7 @@ if __name__ == "__main__":
     )
     
     try:
+        print(audio_path)
         if audio_path.is_file():
             process_file(audio_path, str(args.prompt), model, args.beam_size)
         elif audio_path.is_dir():

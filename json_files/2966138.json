@@ -59,26 +59,84 @@
         {
             "order": 9,
             "start": 86.98,
-            "end": 93.92,
-            "transcription": " Carbografite. Agradecemos a..."
+            "end": 98.08,
+            "transcription": " É isso."
         },
         {
             "order": 10,
-            "start": 93.92,
-            "end": 96.02000000000001,
+            "start": 112.08000000000001,
+            "end": 112.34,
             "transcription": " ."
         },
         {
             "order": 11,
-            "start": 96.02,
-            "end": 96.56,
-            "transcription": " E aí"
+            "start": 112.34,
+            "end": 113.28,
+            "transcription": " ."
+        },
+        {
+            "order": 12,
+            "start": 113.28,
+            "end": 113.48,
+            "transcription": " ."
+        },
+        {
+            "order": 13,
+            "start": 113.48,
+            "end": 113.96000000000001,
+            "transcription": " ."
+        },
+        {
+            "order": 14,
+            "start": 113.96000000000001,
+            "end": 113.98,
+            "transcription": " ."
+        },
+        {
+            "order": 15,
+            "start": 113.98,
+            "end": 114.0,
+            "transcription": " ."
+        },
+        {
+            "order": 16,
+            "start": 114.0,
+            "end": 114.06,
+            "transcription": " ."
+        },
+        {
+            "order": 17,
+            "start": 114.08000000000001,
+            "end": 114.32000000000001,
+            "transcription": " ."
+        },
+        {
+            "order": 18,
+            "start": 114.32000000000001,
+            "end": 114.38000000000001,
+            "transcription": " ."
+        },
+        {
+            "order": 19,
+            "start": 114.38000000000001,
+            "end": 114.56,
+            "transcription": " ."
+        },
+        {
+            "order": 20,
+            "start": 114.56,
+            "end": 116.06,
+            "transcription": " ."
         }
     ],
     "metrics": {
-        "total_words": 139,
-        "words_per_minute": 121.46810369938828,
+        "total_words": 146,
+        "words_per_minute": 118.15484219045054,
         "top_10_words": [
+            [
+                ".",
+                11
+            ],
             [
                 "a",
                 8
@@ -89,11 +147,7 @@
             ],
             [
                 "e",
-                7
-            ],
-            [
-                "carbografite.",
-                3
+                6
             ],
             [
                 "de",
@@ -108,15 +162,15 @@
                 2
             ],
             [
+                "carbografite.",
+                2
+            ],
+            [
                 "ou",
                 2
             ],
             [
                 "bom",
-                2
-            ],
-            [
-                "dia,",
                 2
             ]
         ],

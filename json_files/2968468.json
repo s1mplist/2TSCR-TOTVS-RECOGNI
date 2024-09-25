@@ -352,44 +352,44 @@
         },
         {
             "order": 58,
-            "start": 270.0,
-            "end": 270.64,
+            "start": 270.08,
+            "end": 270.58,
             "transcription": " Uhum."
         },
         {
             "order": 59,
-            "start": 271.98,
+            "start": 272.28,
             "end": 272.72,
             "transcription": " 6368."
         },
         {
             "order": 60,
-            "start": 273.42,
-            "end": 276.12,
+            "start": 273.44,
+            "end": 276.04,
             "transcription": " O primeiro telefone é fixo e o segundo é o celular."
         },
         {
             "order": 61,
-            "start": 276.62,
-            "end": 279.48,
+            "start": 276.58,
+            "end": 279.46,
             "transcription": " Tanto em um quanto outro, você consegue contato com eles."
         },
         {
             "order": 62,
-            "start": 279.84,
+            "start": 279.82,
             "end": 283.54,
-            "transcription": " Certo. Eles são da parte de consultoria?"
+            "transcription": " Certo, eles são da parte de consultoria?"
         },
         {
             "order": 63,
-            "start": 284.2,
-            "end": 292.12,
+            "start": 284.42,
+            "end": 292.16,
             "transcription": " É, o Sidney é o executivo de vendas e o Diogo Bandeira é o executivo de contas."
         },
         {
             "order": 64,
-            "start": 292.9,
-            "end": 293.28,
+            "start": 292.8,
+            "end": 293.26,
             "transcription": " Tá."
         },
         {
@@ -400,25 +400,25 @@
         },
         {
             "order": 66,
-            "start": 294.78,
-            "end": 296.12,
-            "transcription": " Certo, certinho então."
+            "start": 294.88,
+            "end": 296.14,
+            "transcription": " Certo, certinho, então."
         },
         {
             "order": 67,
-            "start": 296.5,
-            "end": 298.76,
-            "transcription": " Tá bom então. Ficou com mais alguma dúvida?"
+            "start": 296.8,
+            "end": 298.82,
+            "transcription": " Tá bom, então. Ficou com mais alguma dúvida?"
         },
         {
             "order": 68,
-            "start": 298.78,
+            "start": 298.84,
             "end": 299.98,
             "transcription": " Não, não, era só isso mesmo."
         },
         {
             "order": 69,
-            "start": 300.0,
+            "start": 299.98,
             "end": 304.16,
             "transcription": " Tá bom então, muito obrigada pela sua participação"
         },
@@ -426,7 +426,7 @@
             "order": 70,
             "start": 304.16,
             "end": 305.62,
-            "transcription": " Elie, tenha uma ótima tarde"
+            "transcription": " Ele tem uma ótima tarde"
         },
         {
             "order": 71,
@@ -449,7 +449,7 @@
     ],
     "metrics": {
         "total_words": 630,
-        "words_per_minute": 146.60254421346562,
+        "words_per_minute": 147.15042042977254,
         "top_10_words": [
             [
                 "a",
@@ -465,7 +465,7 @@
             ],
             [
                 "certo.",
-                14
+                13
             ],
             [
                 "é",

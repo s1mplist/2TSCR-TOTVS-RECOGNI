@@ -131,13 +131,13 @@
         {
             "order": 21,
             "start": 91.98,
-            "end": 108.5,
+            "end": 108.56,
             "transcription": " Oi?"
         },
         {
             "order": 22,
-            "start": 109.14,
-            "end": 109.54,
+            "start": 109.16,
+            "end": 109.56,
             "transcription": " Oi?"
         },
         {
@@ -148,26 +148,26 @@
         },
         {
             "order": 24,
-            "start": 111.10000000000001,
-            "end": 112.5,
-            "transcription": " É Lilian da TOTVS com quem eu falo?"
+            "start": 111.12,
+            "end": 112.52000000000001,
+            "transcription": " É Lília da TOTVS com quem eu falo?"
         },
         {
             "order": 25,
             "start": 112.78,
             "end": 114.32000000000001,
-            "transcription": " É Larissa, Lilian, tudo bem?"
+            "transcription": " É Larissa, Lílian, tudo bem?"
         },
         {
             "order": 26,
-            "start": 114.46000000000001,
+            "start": 114.42,
             "end": 115.46000000000001,
             "transcription": " Tudo bem, e você?"
         },
         {
             "order": 27,
             "start": 115.46000000000001,
-            "end": 116.94,
+            "end": 116.96000000000001,
             "transcription": " Tudo, olha só."
         },
         {
@@ -179,55 +179,49 @@
         {
             "order": 29,
             "start": 119.98,
-            "end": 126.98,
-            "transcription": " Nós apenas temos a licença pra consultar o que a gente já havia colocado nele, tá?"
+            "end": 128.14000000000001,
+            "transcription": " Nós apenas temos a licença para consultar o que a gente já havia colocado nele, tá?"
         },
         {
             "order": 30,
-            "start": 126.98,
-            "end": 127.98,
-            "transcription": " Ah, tá. Por isso que tá ativo."
+            "start": 128.46,
+            "end": 131.38,
+            "transcription": " Ah, tá. Então, só está ativo por causa disso."
         },
         {
             "order": 31,
-            "start": 127.98,
-            "end": 131.98000000000002,
-            "transcription": " Ah, tá. Então, só tá ativo por causa disso. Vocês estão usando pra..."
+            "start": 131.52,
+            "end": 138.72,
+            "transcription": " Dei consulta, isso. Nós não temos mais acesso ao software daí para fora isso."
         },
         {
             "order": 32,
-            "start": 131.98000000000002,
-            "end": 137.98000000000002,
-            "transcription": " Dei consulta, isso. Nós não temos mais acesso ao software daí, pra fora isso."
-        },
-        {
-            "order": 33,
-            "start": 137.98000000000002,
-            "end": 142.98000000000002,
+            "start": 139.42000000000002,
+            "end": 143.38,
             "transcription": " Ah, então tá bom. Então, vou dar baixa aqui, Larissa. A senhora é responsável do ADM, né?"
         },
         {
-            "order": 34,
-            "start": 142.98000000000002,
-            "end": 143.98000000000002,
+            "order": 33,
+            "start": 143.8,
+            "end": 144.32,
             "transcription": " Isso."
         },
         {
-            "order": 35,
-            "start": 143.98000000000002,
-            "end": 145.98000000000002,
+            "order": 34,
+            "start": 144.58,
+            "end": 146.24,
             "transcription": " Tá bom. Obrigada pela atenção."
         },
         {
-            "order": 36,
-            "start": 145.98000000000002,
-            "end": 147.98000000000002,
+            "order": 35,
+            "start": 146.28,
+            "end": 147.34,
             "transcription": " Mais vinda. Tchau."
         }
     ],
     "metrics": {
-        "total_words": 275,
-        "words_per_minute": 147.3740621650589,
+        "total_words": 264,
+        "words_per_minute": 144.57831325301203,
         "top_10_words": [
             [
                 "é",
@@ -235,7 +229,7 @@
             ],
             [
                 "que",
-                12
+                11
             ],
             [
                 "a",
@@ -258,22 +252,22 @@
                 6
             ],
             [
-                "tá",
-                6
-            ],
-            [
                 "da",
                 5
             ],
             [
                 "gente",
                 5
+            ],
+            [
+                "totvs.",
+                4
             ]
         ],
         "magic_word_percentages": {
             "obrigado": 0.0,
             "por favor": 0.0,
-            "desculpa": 0.36363636363636365,
+            "desculpa": 0.3787878787878788,
             "boa": 0.0,
             "agradeço": 0.0,
             "gratidão": 0.0,

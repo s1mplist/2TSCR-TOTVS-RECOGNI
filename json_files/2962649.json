@@ -155,168 +155,14 @@
         {
             "order": 25,
             "start": 88.68,
-            "end": 89.68,
-            "transcription": " Tenha um ótimo dia."
-        },
-        {
-            "order": 26,
-            "start": 89.68,
-            "end": 90.68,
-            "transcription": " Tenha um ótimo dia."
-        },
-        {
-            "order": 27,
-            "start": 90.68,
-            "end": 91.68,
-            "transcription": " Tenha um ótimo dia."
-        },
-        {
-            "order": 28,
-            "start": 91.68,
-            "end": 92.68,
-            "transcription": " Tenha um ótimo dia."
-        },
-        {
-            "order": 29,
-            "start": 92.68,
-            "end": 93.68,
-            "transcription": " Tenha um ótimo dia."
-        },
-        {
-            "order": 30,
-            "start": 93.68,
-            "end": 94.68,
-            "transcription": " Tenha um ótimo dia."
-        },
-        {
-            "order": 31,
-            "start": 94.68,
-            "end": 95.68,
-            "transcription": " Tenha um ótimo dia."
-        },
-        {
-            "order": 32,
-            "start": 95.68,
-            "end": 96.68,
-            "transcription": " Tenha um ótimo dia."
-        },
-        {
-            "order": 33,
-            "start": 96.68,
-            "end": 97.68,
-            "transcription": " Tenha um ótimo dia."
-        },
-        {
-            "order": 34,
-            "start": 97.68,
-            "end": 98.68,
-            "transcription": " Tenha um ótimo dia."
-        },
-        {
-            "order": 35,
-            "start": 98.68,
-            "end": 99.68,
-            "transcription": " Tenha um ótimo dia."
-        },
-        {
-            "order": 36,
-            "start": 99.68,
-            "end": 100.68,
-            "transcription": " Tenha um ótimo dia."
-        },
-        {
-            "order": 37,
-            "start": 100.68,
-            "end": 101.68,
-            "transcription": " Tenha um ótimo dia."
-        },
-        {
-            "order": 38,
-            "start": 101.68,
-            "end": 102.68,
-            "transcription": " Tenha um ótimo dia."
-        },
-        {
-            "order": 39,
-            "start": 102.68,
-            "end": 103.68,
-            "transcription": " Tenha um ótimo dia."
-        },
-        {
-            "order": 40,
-            "start": 103.68,
-            "end": 104.68,
-            "transcription": " Tenha um ótimo dia."
-        },
-        {
-            "order": 41,
-            "start": 104.68,
-            "end": 105.68,
-            "transcription": " Tenha um ótimo dia."
-        },
-        {
-            "order": 42,
-            "start": 105.68,
-            "end": 106.68,
-            "transcription": " Tenha um ótimo dia."
-        },
-        {
-            "order": 43,
-            "start": 106.68,
-            "end": 107.68,
-            "transcription": " Tenha um ótimo dia."
-        },
-        {
-            "order": 44,
-            "start": 107.68,
-            "end": 108.68,
-            "transcription": " Tenha um ótimo dia."
-        },
-        {
-            "order": 45,
-            "start": 108.68,
-            "end": 109.68,
-            "transcription": " Tenha um ótimo dia."
-        },
-        {
-            "order": 46,
-            "start": 109.68,
-            "end": 110.68,
-            "transcription": " Tenha um ótimo dia."
-        },
-        {
-            "order": 47,
-            "start": 110.68,
-            "end": 111.68,
-            "transcription": " Tenha um ótimo dia."
-        },
-        {
-            "order": 48,
-            "start": 111.68,
-            "end": 112.68,
-            "transcription": " Tenha um ótimo dia."
+            "end": 90.9,
+            "transcription": "lements.com.br"
         }
     ],
     "metrics": {
-        "total_words": 233,
-        "words_per_minute": 189.7394136807818,
+        "total_words": 138,
+        "words_per_minute": 159.53757225433532,
         "top_10_words": [
-            [
-                "dia.",
-                26
-            ],
-            [
-                "tenha",
-                25
-            ],
-            [
-                "um",
-                25
-            ],
-            [
-                "ótimo",
-                25
-            ],
             [
                 "para",
                 9
@@ -340,6 +186,22 @@
             [
                 "com",
                 6
+            ],
+            [
+                "tecle",
+                6
+            ],
+            [
+                "é",
+                6
+            ],
+            [
+                "setor",
+                4
+            ],
+            [
+                "você",
+                2
             ]
         ],
         "magic_word_percentages": {

@@ -346,130 +346,210 @@
         },
         {
             "order": 57,
-            "start": 180.22,
+            "start": 180.2,
             "end": 180.67999999999998,
-            "transcription": " Tá, tá bom."
+            "transcription": " Ah, tá bom."
         },
         {
             "order": 58,
             "start": 180.67999999999998,
-            "end": 181.01999999999998,
+            "end": 181.04,
             "transcription": " Tchau, tchau."
         },
         {
             "order": 59,
             "start": 181.11999999999998,
-            "end": 181.84,
-            "transcription": " Tchau, tchau."
+            "end": 181.67999999999998,
+            "transcription": " Tchau."
         },
         {
             "order": 60,
-            "start": 181.84,
-            "end": 182.95999999999998,
-            "transcription": " Tchau, tchau."
+            "start": 181.67999999999998,
+            "end": 182.16,
+            "transcription": " Tchau."
         },
         {
             "order": 61,
-            "start": 182.95999999999998,
-            "end": 183.01999999999998,
-            "transcription": " Tchau, tchau."
+            "start": 182.16,
+            "end": 183.16,
+            "transcription": " Tchau."
         },
         {
             "order": 62,
-            "start": 183.01999999999998,
-            "end": 183.07999999999998,
-            "transcription": " Tchau, tchau."
+            "start": 183.16,
+            "end": 184.16,
+            "transcription": " Tchau."
         },
         {
             "order": 63,
-            "start": 183.07999999999998,
-            "end": 183.16,
-            "transcription": " Tchau, tchau."
+            "start": 184.16,
+            "end": 185.17999999999998,
+            "transcription": " Tchau."
         },
         {
             "order": 64,
-            "start": 183.16,
-            "end": 183.23999999999998,
-            "transcription": " Tchau, tchau."
+            "start": 185.17999999999998,
+            "end": 185.94,
+            "transcription": " Tchau."
         },
         {
             "order": 65,
-            "start": 183.23999999999998,
-            "end": 183.29999999999998,
-            "transcription": " Tchau, tchau."
+            "start": 185.94,
+            "end": 186.94,
+            "transcription": " Tchau."
         },
         {
             "order": 66,
-            "start": 183.29999999999998,
-            "end": 183.35999999999999,
-            "transcription": " Tchau, tchau."
+            "start": 186.94,
+            "end": 187.94,
+            "transcription": " Tchau."
         },
         {
             "order": 67,
-            "start": 183.35999999999999,
-            "end": 183.42,
-            "transcription": " Tchau, tchau."
+            "start": 187.94,
+            "end": 188.94,
+            "transcription": " Tchau."
         },
         {
             "order": 68,
-            "start": 183.42,
-            "end": 183.48,
-            "transcription": " Tchau, tchau."
+            "start": 188.94,
+            "end": 189.94,
+            "transcription": " Tchau."
         },
         {
             "order": 69,
-            "start": 183.48,
-            "end": 183.51999999999998,
-            "transcription": " Tchau, tchau."
+            "start": 189.94,
+            "end": 190.94,
+            "transcription": " Tchau."
         },
         {
             "order": 70,
-            "start": 183.51999999999998,
-            "end": 183.56,
-            "transcription": " Tchau, tchau."
+            "start": 190.94,
+            "end": 191.94,
+            "transcription": " Tchau."
         },
         {
             "order": 71,
-            "start": 183.56,
-            "end": 183.57999999999998,
-            "transcription": " Tchau, tchau."
+            "start": 191.94,
+            "end": 192.94,
+            "transcription": " Tchau."
         },
         {
             "order": 72,
-            "start": 183.57999999999998,
-            "end": 183.61999999999998,
-            "transcription": " Tchau, tchau."
+            "start": 192.94,
+            "end": 193.94,
+            "transcription": " Tchau."
         },
         {
             "order": 73,
-            "start": 183.61999999999998,
-            "end": 183.67999999999998,
-            "transcription": " Tchau, tchau."
+            "start": 193.94,
+            "end": 194.94,
+            "transcription": " Tchau."
         },
         {
             "order": 74,
-            "start": 183.67999999999998,
-            "end": 183.72,
-            "transcription": " Tchau, tchau."
+            "start": 194.94,
+            "end": 195.94,
+            "transcription": " Tchau."
         },
         {
             "order": 75,
-            "start": 183.72,
-            "end": 183.78,
-            "transcription": " Tchau, tchau."
+            "start": 195.94,
+            "end": 196.94,
+            "transcription": " Tchau."
+        },
+        {
+            "order": 76,
+            "start": 196.94,
+            "end": 197.94,
+            "transcription": " Tchau."
+        },
+        {
+            "order": 77,
+            "start": 197.94,
+            "end": 198.94,
+            "transcription": " Tchau."
+        },
+        {
+            "order": 78,
+            "start": 198.94,
+            "end": 199.94,
+            "transcription": " Tchau."
+        },
+        {
+            "order": 79,
+            "start": 199.94,
+            "end": 200.94,
+            "transcription": " Tchau."
+        },
+        {
+            "order": 80,
+            "start": 200.94,
+            "end": 201.94,
+            "transcription": " Tchau."
+        },
+        {
+            "order": 81,
+            "start": 201.94,
+            "end": 202.94,
+            "transcription": " Tchau."
+        },
+        {
+            "order": 82,
+            "start": 202.94,
+            "end": 203.94,
+            "transcription": " Tchau."
+        },
+        {
+            "order": 83,
+            "start": 203.94,
+            "end": 204.94,
+            "transcription": " Tchau."
+        },
+        {
+            "order": 84,
+            "start": 204.94,
+            "end": 205.94,
+            "transcription": " Tchau."
+        },
+        {
+            "order": 85,
+            "start": 205.94,
+            "end": 206.94,
+            "transcription": " Tchau."
+        },
+        {
+            "order": 86,
+            "start": 206.94,
+            "end": 207.94,
+            "transcription": " Tchau."
+        },
+        {
+            "order": 87,
+            "start": 207.94,
+            "end": 208.94,
+            "transcription": " Tchau."
+        },
+        {
+            "order": 88,
+            "start": 208.94,
+            "end": 209.94,
+            "transcription": " Tchau."
+        },
+        {
+            "order": 89,
+            "start": 209.94,
+            "end": 209.98,
+            "transcription": " Tchau."
         }
     ],
     "metrics": {
-        "total_words": 402,
-        "words_per_minute": 192.74412657823245,
+        "total_words": 399,
+        "words_per_minute": 158.14506539833536,
         "top_10_words": [
             [
-                "tchau,",
-                18
-            ],
-            [
                 "tchau.",
-                18
+                32
             ],
             [
                 "o",
@@ -502,13 +582,17 @@
             [
                 "de",
                 6
+            ],
+            [
+                "10.",
+                6
             ]
         ],
         "magic_word_percentages": {
             "obrigado": 0.0,
             "por favor": 0.0,
             "desculpa": 0.0,
-            "boa": 0.7462686567164178,
+            "boa": 0.7518796992481203,
             "agradeço": 0.0,
             "gratidão": 0.0,
             "sinto muito": 0.0,

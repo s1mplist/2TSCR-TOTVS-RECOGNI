@@ -3,7 +3,6 @@ from azure.storage.blob import BlobServiceClient, BlobClient, ContainerClient
 from dotenv import load_dotenv
 import os
 
-
 class AzureBlobUploader:
     """
     A class for uploading files to Azure Blob Storage with logging capabilities.
