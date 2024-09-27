@@ -1,1 +1,4 @@
 .venv/
+.old/
+logs/
+.env
