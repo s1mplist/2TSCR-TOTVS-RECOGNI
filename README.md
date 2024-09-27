@@ -16,7 +16,7 @@ O Recogni requer Python 3.8 ou superior e depende de bibliotecas como `faster-wh
 ## Utilização
 
 ```bash
-python recogni.py caminho/para/audio.wav --model caminho/para/modelo-ctranslate2
+python recogni.py --audio_path caminho/para/audio.wav --model caminho/para/modelo-ctranslate2
 ```
 
 O script `recogni.py` processa o áudio e gera um arquivo JSON com a transcrição e as métricas calculadas. 
